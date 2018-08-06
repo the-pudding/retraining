@@ -1,0 +1,69 @@
+devs,truckers,skills,skill_type,skill_name
+75,3,Programming,skill,Programming
+99,32,Computers and Electronics,knowledge,Computers and Electronics
+76,19,Engineering and Technology,knowledge,Engineering and Technology
+72,25,Systems Analysis,skill,Systems Analysis
+47,0,Science,skill,Science
+72,28,Systems Evaluation,skill,Systems Evaluation
+58,15,Design,knowledge,Design
+63,22,Operations Analysis,skill,Operations Analysis
+50,16,Technology Design,skill,Technology Design
+65,39,Mathematics,knowledge,Mathematics
+69,47,Judgment and Decision Making,skill,Judgment and Decision Making
+47,25,Mathematics.1,skill,Mathematics.1
+66,47,Complex Problem Solving,skill,Complex Problem Solving
+47,28,Management of Personnel Resources,skill,Management of Personnel Resources
+47,28,Persuasion,skill,Persuasion
+66,50,Critical Thinking,skill,Critical Thinking
+44,31,Negotiation,skill,Negotiation
+50,38,Learning Strategies,skill,Learning Strategies
+47,38,Instructing,skill,Instructing
+69,62,English Language,knowledge,English Language
+45,38,Telecommunications,knowledge,Telecommunications
+56,50,Speaking,skill,Speaking
+53,47,Active Listening,skill,Active Listening
+50,44,Active Learning,skill,Active Learning
+50,44,Writing,skill,Writing
+47,41,Quality Control Analysis,skill,Quality Control Analysis
+53,50,Reading Comprehension,skill,Reading Comprehension
+50,47,Coordination,skill,Coordination
+47,44,Service Orientation,skill,Service Orientation
+47,44,Social Perceptiveness,skill,Social Perceptiveness
+19,16,Installation,skill,Installation
+29,29,Communications and Media,knowledge,Communications and Media
+50,50,Monitoring,skill,Monitoring
+25,25,Management of Financial Resources,skill,Management of Financial Resources
+25,25,Management of Material Resources,skill,Management of Material Resources
+38,39,Administration and Management,knowledge,Administration and Management
+0,1,Fine Arts,knowledge,Fine Arts
+47,50,Troubleshooting,skill,Troubleshooting
+20,24,Personnel and Human Resources,knowledge,Personnel and Human Resources
+1,5,History and Archeology,knowledge,History and Archeology
+1,6,Philosophy and Theology,knowledge,Philosophy and Theology
+13,19,Physics,knowledge,Physics
+1,7,Therapy and Counseling,knowledge,Therapy and Counseling
+47,53,Time Management,skill,Time Management
+4,11,Sociology and Anthropology,knowledge,Sociology and Anthropology
+17,25,Sales and Marketing,knowledge,Sales and Marketing
+10,18,Economics and Accounting,knowledge,Economics and Accounting
+1,9,Biology,knowledge,Biology
+22,31,Equipment Selection,skill,Equipment Selection
+4,15,Foreign Language,knowledge,Foreign Language
+9,22,Production and Processing,knowledge,Production and Processing
+2,15,Building and Construction,knowledge,Building and Construction
+1,14,Medicine and Dentistry,knowledge,Medicine and Dentistry
+51,67,Customer and Personal Service,knowledge,Customer and Personal Service
+0,16,Food Production,knowledge,Food Production
+29,46,Education and Training,knowledge,Education and Training
+9,27,Chemistry,knowledge,Chemistry
+9,30,Psychology,knowledge,Psychology
+10,32,Clerical,knowledge,Clerical
+16,39,Law and Government,knowledge,Law and Government
+44,69,Operation Monitoring,skill,Operation Monitoring
+14,49,Geography,knowledge,Geography
+6,47,Equipment Maintenance,skill,Equipment Maintenance
+3,47,Repairing,skill,Repairing
+25,72,Operation and Control,skill,Operation and Control
+4,55,Mechanical,knowledge,Mechanical
+8,68,Public Safety and Security,knowledge,Public Safety and Security
+10,75,Transportation,knowledge,Transportation

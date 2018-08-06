@@ -1,0 +1,69 @@
+job_compared,job_selected,skills,difference,job_compared_name
+13,3,Programming,10,Physician_Assistants
+56,32,Computers and Electronics,25,Physician_Assistants
+14,19,Engineering and Technology,7,Physician_Assistants
+56,25,Systems Analysis,34,Physician_Assistants
+63,0,Science,67,Physician_Assistants
+56,28,Systems Evaluation,33,Physician_Assistants
+10,15,Design,11,Physician_Assistants
+41,22,Operations Analysis,26,Physician_Assistants
+19,16,Technology Design,11,Physician_Assistants
+48,39,Mathematics,18,Physician_Assistants
+72,47,Judgment and Decision Making,35,Physician_Assistants
+44,25,Mathematics.1,30,Physician_Assistants
+69,47,Complex Problem Solving,34,Physician_Assistants
+47,28,Management of Personnel Resources,32,Physician_Assistants
+53,28,Persuasion,39,Physician_Assistants
+78,50,Critical Thinking,43,Physician_Assistants
+47,31,Negotiation,32,Physician_Assistants
+53,38,Learning Strategies,32,Physician_Assistants
+50,38,Instructing,30,Physician_Assistants
+80,62,English Language,37,Physician_Assistants
+25,38,Telecommunications,33,Physician_Assistants
+78,50,Speaking,49,Physician_Assistants
+78,47,Active Listening,53,Physician_Assistants
+66,44,Active Learning,45,Physician_Assistants
+66,44,Writing,46,Physician_Assistants
+38,41,Quality Control Analysis,28,Physician_Assistants
+78,50,Reading Comprehension,54,Physician_Assistants
+60,47,Coordination,40,Physician_Assistants
+75,44,Service Orientation,59,Physician_Assistants
+75,44,Social Perceptiveness,60,Physician_Assistants
+0,16,Installation,46,Physician_Assistants
+36,29,Communications and Media,38,Physician_Assistants
+69,50,Monitoring,51,Physician_Assistants
+19,25,Management of Financial Resources,39,Physician_Assistants
+19,25,Management of Material Resources,40,Physician_Assistants
+39,39,Administration and Management,35,Physician_Assistants
+6,1,Fine Arts,41,Physician_Assistants
+22,50,Troubleshooting,65,Physician_Assistants
+43,24,Personnel and Human Resources,57,Physician_Assistants
+15,5,History and Archeology,49,Physician_Assistants
+39,6,Philosophy and Theology,73,Physician_Assistants
+29,19,Physics,51,Physician_Assistants
+80,7,Therapy and Counseling,115,Physician_Assistants
+53,53,Time Management,43,Physician_Assistants
+55,11,Sociology and Anthropology,88,Physician_Assistants
+13,25,Sales and Marketing,57,Physician_Assistants
+26,18,Economics and Accounting,54,Physician_Assistants
+93,9,Biology,131,Physician_Assistants
+3,31,Equipment Selection,76,Physician_Assistants
+39,15,Foreign Language,73,Physician_Assistants
+15,22,Production and Processing,57,Physician_Assistants
+6,15,Building and Construction,60,Physician_Assistants
+98,14,Medicine and Dentistry,136,Physician_Assistants
+79,67,Customer and Personal Service,65,Physician_Assistants
+11,16,Food Production,59,Physician_Assistants
+58,46,Education and Training,67,Physician_Assistants
+50,27,Chemistry,79,Physician_Assistants
+84,30,Psychology,111,Physician_Assistants
+41,32,Clerical,67,Physician_Assistants
+46,39,Law and Government,66,Physician_Assistants
+31,69,Operation Monitoring,98,Physician_Assistants
+21,49,Geography,89,Physician_Assistants
+0,47,Equipment Maintenance,109,Physician_Assistants
+0,47,Repairing,110,Physician_Assistants
+6,72,Operation and Control,130,Physician_Assistants
+13,55,Mechanical,107,Physician_Assistants
+46,68,Public Safety and Security,88,Physician_Assistants
+24,75,Transportation,118,Physician_Assistants

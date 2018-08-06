@@ -1,0 +1,69 @@
+job_compared,job_selected,skills,difference,job_compared_name
+13.0,3,Programming,10.0,Writers
+49.0,32,Computers and Electronics,18.0,Writers
+14.5,19,Engineering and Technology,6.5,Writers
+34.5,25,Systems Analysis,12.5,Writers
+13.0,0,Science,17.0,Writers
+31.5,28,Systems Evaluation,8.5,Writers
+16.0,15,Design,7.0,Writers
+25.0,22,Operations Analysis,10.0,Writers
+14.5,16,Technology Design,9.5,Writers
+20.5,39,Mathematics,27.5,Writers
+58.0,47,Judgment and Decision Making,21.0,Writers
+20.5,25,Mathematics.1,15.5,Writers
+58.0,47,Complex Problem Solving,23.0,Writers
+30.0,28,Management of Personnel Resources,15.0,Writers
+50.0,28,Persuasion,36.0,Writers
+66.0,50,Critical Thinking,31.0,Writers
+42.5,31,Negotiation,27.5,Writers
+44.0,38,Learning Strategies,23.0,Writers
+37.5,38,Instructing,18.5,Writers
+95.5,62,English Language,52.5,Writers
+27.5,38,Telecommunications,30.5,Writers
+66.0,50,Speaking,37.0,Writers
+72.0,47,Active Listening,47.0,Writers
+56.5,44,Active Learning,35.5,Writers
+87.5,44,Writing,67.5,Writers
+9.5,41,Quality Control Analysis,56.5,Writers
+81.0,50,Reading Comprehension,57.0,Writers
+50.0,47,Coordination,30.0,Writers
+42.5,44,Service Orientation,29.5,Writers
+53.0,44,Social Perceptiveness,38.0,Writers
+0.0,16,Installation,46.0,Writers
+78.5,29,Communications and Media,80.5,Writers
+48.5,50,Monitoring,33.5,Writers
+14.5,25,Management of Financial Resources,43.5,Writers
+14.5,25,Management of Material Resources,44.5,Writers
+34.5,39,Administration and Management,39.5,Writers
+32.5,1,Fine Arts,67.5,Writers
+0.0,50,Troubleshooting,87.0,Writers
+19.0,24,Personnel and Human Resources,43.0,Writers
+25.5,5,History and Archeology,59.5,Writers
+24.0,6,Philosophy and Theology,58.0,Writers
+3.0,19,Physics,57.0,Writers
+10.5,7,Therapy and Counseling,45.5,Writers
+50.0,53,Time Management,46.0,Writers
+39.5,11,Sociology and Anthropology,72.5,Writers
+62.0,25,Sales and Marketing,82.0,Writers
+21.0,18,Economics and Accounting,49.0,Writers
+4.5,9,Biology,51.5,Writers
+5.0,31,Equipment Selection,74.0,Writers
+12.0,15,Foreign Language,52.0,Writers
+20.5,22,Production and Processing,51.5,Writers
+4.5,15,Building and Construction,61.5,Writers
+8.5,14,Medicine and Dentistry,57.5,Writers
+41.0,67,Customer and Personal Service,79.0,Writers
+1.0,16,Food Production,69.0,Writers
+26.5,46,Education and Training,74.5,Writers
+1.5,27,Chemistry,81.5,Writers
+43.5,30,Psychology,70.5,Writers
+43.5,32,Clerical,69.5,Writers
+30.0,39,Law and Government,68.0,Writers
+20.5,69,Operation Monitoring,108.5,Writers
+20.0,49,Geography,90.0,Writers
+0.0,47,Equipment Maintenance,109.0,Writers
+0.0,47,Repairing,110.0,Writers
+14.0,72,Operation and Control,122.0,Writers
+10.5,55,Mechanical,109.5,Writers
+14.0,68,Public Safety and Security,120.0,Writers
+12.0,75,Transportation,130.0,Writers

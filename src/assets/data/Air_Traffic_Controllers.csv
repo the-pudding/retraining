@@ -1,0 +1,69 @@
+job_compared,job_selected,skills,difference,job_compared_name
+19,3,Programming,16,Air_Traffic_Controllers
+50,32,Computers and Electronics,19,Air_Traffic_Controllers
+28,19,Engineering and Technology,11,Air_Traffic_Controllers
+56,25,Systems Analysis,34,Air_Traffic_Controllers
+19,0,Science,23,Air_Traffic_Controllers
+53,28,Systems Evaluation,30,Air_Traffic_Controllers
+23,15,Design,14,Air_Traffic_Controllers
+44,22,Operations Analysis,29,Air_Traffic_Controllers
+19,16,Technology Design,11,Air_Traffic_Controllers
+57,39,Mathematics,27,Air_Traffic_Controllers
+78,47,Judgment and Decision Making,41,Air_Traffic_Controllers
+47,25,Mathematics.1,33,Air_Traffic_Controllers
+75,47,Complex Problem Solving,40,Air_Traffic_Controllers
+47,28,Management of Personnel Resources,32,Air_Traffic_Controllers
+47,28,Persuasion,33,Air_Traffic_Controllers
+78,50,Critical Thinking,43,Air_Traffic_Controllers
+41,31,Negotiation,26,Air_Traffic_Controllers
+53,38,Learning Strategies,32,Air_Traffic_Controllers
+53,38,Instructing,33,Air_Traffic_Controllers
+73,62,English Language,30,Air_Traffic_Controllers
+61,38,Telecommunications,43,Air_Traffic_Controllers
+81,50,Speaking,52,Air_Traffic_Controllers
+85,47,Active Listening,60,Air_Traffic_Controllers
+69,44,Active Learning,48,Air_Traffic_Controllers
+53,44,Writing,33,Air_Traffic_Controllers
+44,41,Quality Control Analysis,28,Air_Traffic_Controllers
+69,50,Reading Comprehension,45,Air_Traffic_Controllers
+72,47,Coordination,52,Air_Traffic_Controllers
+53,44,Service Orientation,37,Air_Traffic_Controllers
+60,44,Social Perceptiveness,45,Air_Traffic_Controllers
+0,16,Installation,46,Air_Traffic_Controllers
+37,29,Communications and Media,39,Air_Traffic_Controllers
+75,50,Monitoring,57,Air_Traffic_Controllers
+19,25,Management of Financial Resources,39,Air_Traffic_Controllers
+19,25,Management of Material Resources,40,Air_Traffic_Controllers
+39,39,Administration and Management,35,Air_Traffic_Controllers
+4,1,Fine Arts,39,Air_Traffic_Controllers
+25,50,Troubleshooting,62,Air_Traffic_Controllers
+32,24,Personnel and Human Resources,46,Air_Traffic_Controllers
+6,5,History and Archeology,40,Air_Traffic_Controllers
+9,6,Philosophy and Theology,43,Air_Traffic_Controllers
+35,19,Physics,57,Air_Traffic_Controllers
+13,7,Therapy and Counseling,48,Air_Traffic_Controllers
+63,53,Time Management,53,Air_Traffic_Controllers
+10,11,Sociology and Anthropology,45,Air_Traffic_Controllers
+5,25,Sales and Marketing,65,Air_Traffic_Controllers
+12,18,Economics and Accounting,52,Air_Traffic_Controllers
+3,9,Biology,53,Air_Traffic_Controllers
+6,31,Equipment Selection,73,Air_Traffic_Controllers
+7,15,Foreign Language,57,Air_Traffic_Controllers
+25,22,Production and Processing,53,Air_Traffic_Controllers
+4,15,Building and Construction,62,Air_Traffic_Controllers
+5,14,Medicine and Dentistry,61,Air_Traffic_Controllers
+65,67,Customer and Personal Service,55,Air_Traffic_Controllers
+0,16,Food Production,70,Air_Traffic_Controllers
+69,46,Education and Training,78,Air_Traffic_Controllers
+5,27,Chemistry,78,Air_Traffic_Controllers
+39,30,Psychology,66,Air_Traffic_Controllers
+30,32,Clerical,60,Air_Traffic_Controllers
+45,39,Law and Government,65,Air_Traffic_Controllers
+56,69,Operation Monitoring,73,Air_Traffic_Controllers
+62,49,Geography,74,Air_Traffic_Controllers
+6,47,Equipment Maintenance,103,Air_Traffic_Controllers
+3,47,Repairing,107,Air_Traffic_Controllers
+38,72,Operation and Control,98,Air_Traffic_Controllers
+16,55,Mechanical,104,Air_Traffic_Controllers
+69,68,Public Safety and Security,67,Air_Traffic_Controllers
+80,75,Transportation,72,Air_Traffic_Controllers

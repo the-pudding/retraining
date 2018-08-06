@@ -1,0 +1,69 @@
+job_compared,job_selected,skills,difference,job_compared_name
+0,3,Programming,3,Barbers
+5,32,Computers and Electronics,28,Barbers
+5,19,Engineering and Technology,16,Barbers
+10,25,Systems Analysis,18,Barbers
+10,0,Science,14,Barbers
+10,28,Systems Evaluation,23,Barbers
+31,15,Design,22,Barbers
+44,22,Operations Analysis,29,Barbers
+3,16,Technology Design,21,Barbers
+23,39,Mathematics,25,Barbers
+44,47,Judgment and Decision Making,13,Barbers
+6,25,Mathematics.1,30,Barbers
+35,47,Complex Problem Solving,24,Barbers
+19,28,Management of Personnel Resources,22,Barbers
+35,28,Persuasion,21,Barbers
+47,50,Critical Thinking,18,Barbers
+22,31,Negotiation,25,Barbers
+25,38,Learning Strategies,30,Barbers
+6,38,Instructing,50,Barbers
+42,62,English Language,39,Barbers
+9,38,Telecommunications,49,Barbers
+60,50,Speaking,31,Barbers
+66,47,Active Listening,41,Barbers
+41,44,Active Learning,26,Barbers
+28,44,Writing,40,Barbers
+22,41,Quality Control Analysis,44,Barbers
+41,50,Reading Comprehension,35,Barbers
+47,47,Coordination,27,Barbers
+50,44,Service Orientation,34,Barbers
+53,44,Social Perceptiveness,38,Barbers
+0,16,Installation,46,Barbers
+22,29,Communications and Media,38,Barbers
+53,50,Monitoring,35,Barbers
+16,25,Management of Financial Resources,42,Barbers
+19,25,Management of Material Resources,40,Barbers
+25,39,Administration and Management,49,Barbers
+11,1,Fine Arts,46,Barbers
+16,50,Troubleshooting,71,Barbers
+24,24,Personnel and Human Resources,38,Barbers
+8,5,History and Archeology,42,Barbers
+13,6,Philosophy and Theology,47,Barbers
+3,19,Physics,57,Barbers
+15,7,Therapy and Counseling,50,Barbers
+38,53,Time Management,58,Barbers
+14,11,Sociology and Anthropology,47,Barbers
+37,25,Sales and Marketing,57,Barbers
+28,18,Economics and Accounting,56,Barbers
+8,9,Biology,48,Barbers
+22,31,Equipment Selection,57,Barbers
+16,15,Foreign Language,50,Barbers
+13,22,Production and Processing,59,Barbers
+6,15,Building and Construction,60,Barbers
+8,14,Medicine and Dentistry,58,Barbers
+83,67,Customer and Personal Service,69,Barbers
+1,16,Food Production,69,Barbers
+32,46,Education and Training,69,Barbers
+21,27,Chemistry,62,Barbers
+27,30,Psychology,60,Barbers
+21,32,Clerical,69,Barbers
+25,39,Law and Government,73,Barbers
+25,69,Operation Monitoring,104,Barbers
+4,49,Geography,106,Barbers
+19,47,Equipment Maintenance,90,Barbers
+13,47,Repairing,97,Barbers
+25,72,Operation and Control,111,Barbers
+19,55,Mechanical,101,Barbers
+32,68,Public Safety and Security,102,Barbers
+18,75,Transportation,124,Barbers

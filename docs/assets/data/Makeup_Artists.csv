@@ -1,0 +1,69 @@
+job_compared,job_selected,skills,difference,job_compared_name
+0,3,Programming,3,Makeup_Artists
+34,32,Computers and Electronics,3,Makeup_Artists
+21,19,Engineering and Technology,4,Makeup_Artists
+38,25,Systems Analysis,16,Makeup_Artists
+13,0,Science,17,Makeup_Artists
+35,28,Systems Evaluation,12,Makeup_Artists
+56,15,Design,47,Makeup_Artists
+47,22,Operations Analysis,32,Makeup_Artists
+16,16,Technology Design,8,Makeup_Artists
+24,39,Mathematics,24,Makeup_Artists
+56,47,Judgment and Decision Making,19,Makeup_Artists
+38,25,Mathematics.1,24,Makeup_Artists
+47,47,Complex Problem Solving,12,Makeup_Artists
+44,28,Management of Personnel Resources,29,Makeup_Artists
+47,28,Persuasion,33,Makeup_Artists
+53,50,Critical Thinking,18,Makeup_Artists
+44,31,Negotiation,29,Makeup_Artists
+41,38,Learning Strategies,20,Makeup_Artists
+41,38,Instructing,21,Makeup_Artists
+58,62,English Language,23,Makeup_Artists
+10,38,Telecommunications,48,Makeup_Artists
+60,50,Speaking,31,Makeup_Artists
+56,47,Active Listening,31,Makeup_Artists
+50,44,Active Learning,29,Makeup_Artists
+47,44,Writing,27,Makeup_Artists
+31,41,Quality Control Analysis,35,Makeup_Artists
+50,50,Reading Comprehension,26,Makeup_Artists
+53,47,Coordination,33,Makeup_Artists
+41,44,Service Orientation,31,Makeup_Artists
+50,44,Social Perceptiveness,35,Makeup_Artists
+0,16,Installation,46,Makeup_Artists
+41,29,Communications and Media,43,Makeup_Artists
+50,50,Monitoring,32,Makeup_Artists
+44,25,Management of Financial Resources,52,Makeup_Artists
+44,25,Management of Material Resources,53,Makeup_Artists
+58,39,Administration and Management,54,Makeup_Artists
+63,1,Fine Arts,98,Makeup_Artists
+19,50,Troubleshooting,68,Makeup_Artists
+46,24,Personnel and Human Resources,60,Makeup_Artists
+31,5,History and Archeology,65,Makeup_Artists
+17,6,Philosophy and Theology,51,Makeup_Artists
+18,19,Physics,42,Makeup_Artists
+22,7,Therapy and Counseling,57,Makeup_Artists
+53,53,Time Management,43,Makeup_Artists
+36,11,Sociology and Anthropology,69,Makeup_Artists
+41,25,Sales and Marketing,61,Makeup_Artists
+29,18,Economics and Accounting,57,Makeup_Artists
+21,9,Biology,59,Makeup_Artists
+22,31,Equipment Selection,57,Makeup_Artists
+15,15,Foreign Language,49,Makeup_Artists
+43,22,Production and Processing,71,Makeup_Artists
+17,15,Building and Construction,53,Makeup_Artists
+21,14,Medicine and Dentistry,59,Makeup_Artists
+71,67,Customer and Personal Service,57,Makeup_Artists
+1,16,Food Production,69,Makeup_Artists
+43,46,Education and Training,58,Makeup_Artists
+42,27,Chemistry,71,Makeup_Artists
+47,30,Psychology,74,Makeup_Artists
+31,32,Clerical,59,Makeup_Artists
+8,39,Law and Government,90,Makeup_Artists
+28,69,Operation Monitoring,101,Makeup_Artists
+22,49,Geography,88,Makeup_Artists
+0,47,Equipment Maintenance,109,Makeup_Artists
+0,47,Repairing,110,Makeup_Artists
+3,72,Operation and Control,133,Makeup_Artists
+27,55,Mechanical,93,Makeup_Artists
+29,68,Public Safety and Security,105,Makeup_Artists
+21,75,Transportation,121,Makeup_Artists

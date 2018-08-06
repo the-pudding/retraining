@@ -1,0 +1,69 @@
+job_compared,job_selected,skills,difference,job_compared_name
+8.0,3,Programming,5.0,Police_Officers
+53.0,32,Computers and Electronics,22.0,Police_Officers
+19.0,19,Engineering and Technology,2.0,Police_Officers
+47.0,25,Systems Analysis,25.0,Police_Officers
+17.5,0,Science,21.5,Police_Officers
+41.0,28,Systems Evaluation,18.0,Police_Officers
+16.0,15,Design,7.0,Police_Officers
+23.5,22,Operations Analysis,8.5,Police_Officers
+14.0,16,Technology Design,10.0,Police_Officers
+35.0,39,Mathematics,13.0,Police_Officers
+64.0,47,Judgment and Decision Making,27.0,Police_Officers
+25.0,25,Mathematics.1,11.0,Police_Officers
+58.0,47,Complex Problem Solving,23.0,Police_Officers
+50.0,28,Management of Personnel Resources,35.0,Police_Officers
+64.5,28,Persuasion,50.5,Police_Officers
+75.0,50,Critical Thinking,40.0,Police_Officers
+66.0,31,Negotiation,51.0,Police_Officers
+47.0,38,Learning Strategies,26.0,Police_Officers
+50.0,38,Instructing,30.0,Police_Officers
+78.5,62,English Language,35.5,Police_Officers
+59.0,38,Telecommunications,41.0,Police_Officers
+75.0,50,Speaking,46.0,Police_Officers
+75.0,47,Active Listening,50.0,Police_Officers
+58.0,44,Active Learning,37.0,Police_Officers
+58.0,44,Writing,38.0,Police_Officers
+22.0,41,Quality Control Analysis,44.0,Police_Officers
+64.5,50,Reading Comprehension,40.5,Police_Officers
+61.0,47,Coordination,41.0,Police_Officers
+63.0,44,Service Orientation,47.0,Police_Officers
+72.0,44,Social Perceptiveness,57.0,Police_Officers
+0.0,16,Installation,46.0,Police_Officers
+50.5,29,Communications and Media,52.5,Police_Officers
+64.5,50,Monitoring,46.5,Police_Officers
+14.5,25,Management of Financial Resources,43.5,Police_Officers
+20.5,25,Management of Material Resources,38.5,Police_Officers
+60.0,39,Administration and Management,56.0,Police_Officers
+3.0,1,Fine Arts,38.0,Police_Officers
+19.0,50,Troubleshooting,68.0,Police_Officers
+50.0,24,Personnel and Human Resources,64.0,Police_Officers
+14.0,5,History and Archeology,48.0,Police_Officers
+27.0,6,Philosophy and Theology,61.0,Police_Officers
+22.0,19,Physics,44.0,Police_Officers
+44.5,7,Therapy and Counseling,79.5,Police_Officers
+61.0,53,Time Management,51.0,Police_Officers
+44.5,11,Sociology and Anthropology,77.5,Police_Officers
+11.5,25,Sales and Marketing,58.5,Police_Officers
+26.5,18,Economics and Accounting,54.5,Police_Officers
+14.5,9,Biology,52.5,Police_Officers
+1.5,31,Equipment Selection,77.5,Police_Officers
+29.0,15,Foreign Language,63.0,Police_Officers
+17.5,22,Production and Processing,54.5,Police_Officers
+7.0,15,Building and Construction,59.0,Police_Officers
+27.5,14,Medicine and Dentistry,65.5,Police_Officers
+70.0,67,Customer and Personal Service,56.0,Police_Officers
+3.0,16,Food Production,67.0,Police_Officers
+67.5,46,Education and Training,76.5,Police_Officers
+24.5,27,Chemistry,58.5,Police_Officers
+74.0,30,Psychology,101.0,Police_Officers
+57.5,32,Clerical,83.5,Police_Officers
+93.0,39,Law and Government,113.0,Police_Officers
+45.5,69,Operation Monitoring,83.5,Police_Officers
+41.5,49,Geography,68.5,Police_Officers
+0.0,47,Equipment Maintenance,109.0,Police_Officers
+0.0,47,Repairing,110.0,Police_Officers
+45.5,72,Operation and Control,90.5,Police_Officers
+20.0,55,Mechanical,100.0,Police_Officers
+94.0,68,Public Safety and Security,92.0,Police_Officers
+43.5,75,Transportation,98.5,Police_Officers

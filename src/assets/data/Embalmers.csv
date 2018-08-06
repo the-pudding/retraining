@@ -1,0 +1,69 @@
+job_compared,job_selected,skills,difference,job_compared_name
+0,3,Programming,3,Embalmers
+47,32,Computers and Electronics,16,Embalmers
+31,19,Engineering and Technology,14,Embalmers
+28,25,Systems Analysis,6,Embalmers
+41,0,Science,45,Embalmers
+28,28,Systems Evaluation,5,Embalmers
+14,15,Design,7,Embalmers
+25,22,Operations Analysis,10,Embalmers
+16,16,Technology Design,8,Embalmers
+45,39,Mathematics,15,Embalmers
+53,47,Judgment and Decision Making,16,Embalmers
+25,25,Mathematics.1,11,Embalmers
+50,47,Complex Problem Solving,15,Embalmers
+44,28,Management of Personnel Resources,29,Embalmers
+35,28,Persuasion,21,Embalmers
+56,50,Critical Thinking,21,Embalmers
+31,31,Negotiation,16,Embalmers
+35,38,Learning Strategies,20,Embalmers
+41,38,Instructing,21,Embalmers
+74,62,English Language,31,Embalmers
+24,38,Telecommunications,34,Embalmers
+69,50,Speaking,40,Embalmers
+63,47,Active Listening,38,Embalmers
+44,44,Active Learning,23,Embalmers
+47,44,Writing,27,Embalmers
+35,41,Quality Control Analysis,31,Embalmers
+47,50,Reading Comprehension,29,Embalmers
+53,47,Coordination,33,Embalmers
+53,44,Service Orientation,37,Embalmers
+53,44,Social Perceptiveness,38,Embalmers
+0,16,Installation,46,Embalmers
+34,29,Communications and Media,36,Embalmers
+53,50,Monitoring,35,Embalmers
+19,25,Management of Financial Resources,39,Embalmers
+25,25,Management of Material Resources,34,Embalmers
+68,39,Administration and Management,64,Embalmers
+16,1,Fine Arts,51,Embalmers
+25,50,Troubleshooting,62,Embalmers
+47,24,Personnel and Human Resources,61,Embalmers
+24,5,History and Archeology,58,Embalmers
+56,6,Philosophy and Theology,90,Embalmers
+34,19,Physics,56,Embalmers
+44,7,Therapy and Counseling,79,Embalmers
+50,53,Time Management,46,Embalmers
+47,11,Sociology and Anthropology,80,Embalmers
+45,25,Sales and Marketing,65,Embalmers
+53,18,Economics and Accounting,81,Embalmers
+62,9,Biology,100,Embalmers
+28,31,Equipment Selection,51,Embalmers
+16,15,Foreign Language,50,Embalmers
+46,22,Production and Processing,74,Embalmers
+30,15,Building and Construction,66,Embalmers
+30,14,Medicine and Dentistry,68,Embalmers
+89,67,Customer and Personal Service,75,Embalmers
+0,16,Food Production,70,Embalmers
+50,46,Education and Training,59,Embalmers
+72,27,Chemistry,101,Embalmers
+60,30,Psychology,87,Embalmers
+50,32,Clerical,76,Embalmers
+56,39,Law and Government,76,Embalmers
+41,69,Operation Monitoring,88,Embalmers
+13,49,Geography,97,Embalmers
+25,47,Equipment Maintenance,84,Embalmers
+22,47,Repairing,88,Embalmers
+31,72,Operation and Control,105,Embalmers
+41,55,Mechanical,79,Embalmers
+51,68,Public Safety and Security,83,Embalmers
+43,75,Transportation,99,Embalmers

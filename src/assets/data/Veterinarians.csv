@@ -1,0 +1,69 @@
+job_compared,job_selected,skills,difference,job_compared_name
+6,3,Programming,3,Veterinarians
+47,32,Computers and Electronics,16,Veterinarians
+17,19,Engineering and Technology,4,Veterinarians
+47,25,Systems Analysis,25,Veterinarians
+81,0,Science,85,Veterinarians
+47,28,Systems Evaluation,24,Veterinarians
+15,15,Design,6,Veterinarians
+47,22,Operations Analysis,32,Veterinarians
+25,16,Technology Design,17,Veterinarians
+64,39,Mathematics,34,Veterinarians
+69,47,Judgment and Decision Making,32,Veterinarians
+44,25,Mathematics.1,30,Veterinarians
+72,47,Complex Problem Solving,37,Veterinarians
+50,28,Management of Personnel Resources,35,Veterinarians
+47,28,Persuasion,33,Veterinarians
+72,50,Critical Thinking,37,Veterinarians
+47,31,Negotiation,32,Veterinarians
+50,38,Learning Strategies,29,Veterinarians
+50,38,Instructing,30,Veterinarians
+79,62,English Language,36,Veterinarians
+25,38,Telecommunications,33,Veterinarians
+72,50,Speaking,43,Veterinarians
+69,47,Active Listening,44,Veterinarians
+66,44,Active Learning,45,Veterinarians
+56,44,Writing,36,Veterinarians
+28,41,Quality Control Analysis,38,Veterinarians
+72,50,Reading Comprehension,48,Veterinarians
+50,47,Coordination,30,Veterinarians
+60,44,Service Orientation,44,Veterinarians
+56,44,Social Perceptiveness,41,Veterinarians
+0,16,Installation,46,Veterinarians
+32,29,Communications and Media,34,Veterinarians
+60,50,Monitoring,42,Veterinarians
+28,25,Management of Financial Resources,36,Veterinarians
+28,25,Management of Material Resources,37,Veterinarians
+59,39,Administration and Management,55,Veterinarians
+5,1,Fine Arts,40,Veterinarians
+22,50,Troubleshooting,65,Veterinarians
+46,24,Personnel and Human Resources,60,Veterinarians
+5,5,History and Archeology,39,Veterinarians
+9,6,Philosophy and Theology,43,Veterinarians
+26,19,Physics,48,Veterinarians
+40,7,Therapy and Counseling,75,Veterinarians
+60,53,Time Management,50,Veterinarians
+22,11,Sociology and Anthropology,55,Veterinarians
+54,25,Sales and Marketing,74,Veterinarians
+39,18,Economics and Accounting,67,Veterinarians
+88,9,Biology,126,Veterinarians
+10,31,Equipment Selection,69,Veterinarians
+19,15,Foreign Language,53,Veterinarians
+17,22,Production and Processing,55,Veterinarians
+10,15,Building and Construction,56,Veterinarians
+93,14,Medicine and Dentistry,131,Veterinarians
+84,67,Customer and Personal Service,70,Veterinarians
+15,16,Food Production,55,Veterinarians
+37,46,Education and Training,64,Veterinarians
+56,27,Chemistry,85,Veterinarians
+47,30,Psychology,74,Veterinarians
+44,32,Clerical,70,Veterinarians
+36,39,Law and Government,62,Veterinarians
+31,69,Operation Monitoring,98,Veterinarians
+23,49,Geography,87,Veterinarians
+0,47,Equipment Maintenance,109,Veterinarians
+0,47,Repairing,110,Veterinarians
+25,72,Operation and Control,111,Veterinarians
+22,55,Mechanical,98,Veterinarians
+43,68,Public Safety and Security,91,Veterinarians
+16,75,Transportation,126,Veterinarians

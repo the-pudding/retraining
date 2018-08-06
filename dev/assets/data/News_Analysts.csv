@@ -1,0 +1,69 @@
+job_compared,job_selected,skills,difference,job_compared_name
+22,3,Programming,19,News_Analysts
+71,32,Computers and Electronics,40,News_Analysts
+31,19,Engineering and Technology,14,News_Analysts
+47,25,Systems Analysis,25,News_Analysts
+3,0,Science,7,News_Analysts
+38,28,Systems Evaluation,15,News_Analysts
+18,15,Design,9,News_Analysts
+22,22,Operations Analysis,7,News_Analysts
+19,16,Technology Design,11,News_Analysts
+32,39,Mathematics,16,News_Analysts
+50,47,Judgment and Decision Making,13,News_Analysts
+28,25,Mathematics.1,14,News_Analysts
+56,47,Complex Problem Solving,21,News_Analysts
+47,28,Management of Personnel Resources,32,News_Analysts
+47,28,Persuasion,33,News_Analysts
+72,50,Critical Thinking,37,News_Analysts
+47,31,Negotiation,32,News_Analysts
+41,38,Learning Strategies,20,News_Analysts
+41,38,Instructing,21,News_Analysts
+94,62,English Language,51,News_Analysts
+69,38,Telecommunications,51,News_Analysts
+81,50,Speaking,52,News_Analysts
+75,47,Active Listening,50,News_Analysts
+63,44,Active Learning,42,News_Analysts
+78,44,Writing,58,News_Analysts
+3,41,Quality Control Analysis,63,News_Analysts
+75,50,Reading Comprehension,51,News_Analysts
+60,47,Coordination,40,News_Analysts
+50,44,Service Orientation,34,News_Analysts
+72,44,Social Perceptiveness,57,News_Analysts
+0,16,Installation,46,News_Analysts
+94,29,Communications and Media,96,News_Analysts
+66,50,Monitoring,48,News_Analysts
+25,25,Management of Financial Resources,33,News_Analysts
+25,25,Management of Material Resources,34,News_Analysts
+54,39,Administration and Management,50,News_Analysts
+24,1,Fine Arts,59,News_Analysts
+0,50,Troubleshooting,87,News_Analysts
+30,24,Personnel and Human Resources,44,News_Analysts
+51,5,History and Archeology,85,News_Analysts
+28,6,Philosophy and Theology,62,News_Analysts
+12,19,Physics,48,News_Analysts
+15,7,Therapy and Counseling,50,News_Analysts
+63,53,Time Management,53,News_Analysts
+45,11,Sociology and Anthropology,78,News_Analysts
+40,25,Sales and Marketing,60,News_Analysts
+25,18,Economics and Accounting,53,News_Analysts
+17,9,Biology,55,News_Analysts
+0,31,Equipment Selection,79,News_Analysts
+31,15,Foreign Language,65,News_Analysts
+29,22,Production and Processing,57,News_Analysts
+13,15,Building and Construction,53,News_Analysts
+27,14,Medicine and Dentistry,65,News_Analysts
+75,67,Customer and Personal Service,61,News_Analysts
+13,16,Food Production,57,News_Analysts
+47,46,Education and Training,56,News_Analysts
+6,27,Chemistry,77,News_Analysts
+49,30,Psychology,76,News_Analysts
+40,32,Clerical,66,News_Analysts
+61,39,Law and Government,81,News_Analysts
+28,69,Operation Monitoring,101,News_Analysts
+53,49,Geography,65,News_Analysts
+0,47,Equipment Maintenance,109,News_Analysts
+0,47,Repairing,110,News_Analysts
+25,72,Operation and Control,111,News_Analysts
+15,55,Mechanical,105,News_Analysts
+52,68,Public Safety and Security,82,News_Analysts
+36,75,Transportation,106,News_Analysts

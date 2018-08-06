@@ -1,0 +1,69 @@
+job_compared,job_selected,skills,difference,job_compared_name
+6,3,Programming,3,Dental_Assistants
+38,32,Computers and Electronics,7,Dental_Assistants
+19,19,Engineering and Technology,2,Dental_Assistants
+31,25,Systems Analysis,9,Dental_Assistants
+31,0,Science,35,Dental_Assistants
+28,28,Systems Evaluation,5,Dental_Assistants
+18,15,Design,9,Dental_Assistants
+19,22,Operations Analysis,10,Dental_Assistants
+22,16,Technology Design,14,Dental_Assistants
+34,39,Mathematics,14,Dental_Assistants
+44,47,Judgment and Decision Making,13,Dental_Assistants
+28,25,Mathematics.1,14,Dental_Assistants
+47,47,Complex Problem Solving,12,Dental_Assistants
+31,28,Management of Personnel Resources,16,Dental_Assistants
+47,28,Persuasion,33,Dental_Assistants
+53,50,Critical Thinking,18,Dental_Assistants
+44,31,Negotiation,29,Dental_Assistants
+35,38,Learning Strategies,20,Dental_Assistants
+47,38,Instructing,27,Dental_Assistants
+81,62,English Language,38,Dental_Assistants
+20,38,Telecommunications,38,Dental_Assistants
+60,50,Speaking,31,Dental_Assistants
+63,47,Active Listening,38,Dental_Assistants
+50,44,Active Learning,29,Dental_Assistants
+47,44,Writing,27,Dental_Assistants
+41,41,Quality Control Analysis,25,Dental_Assistants
+60,50,Reading Comprehension,36,Dental_Assistants
+47,47,Coordination,27,Dental_Assistants
+53,44,Service Orientation,37,Dental_Assistants
+50,44,Social Perceptiveness,35,Dental_Assistants
+0,16,Installation,46,Dental_Assistants
+35,29,Communications and Media,37,Dental_Assistants
+50,50,Monitoring,32,Dental_Assistants
+13,25,Management of Financial Resources,45,Dental_Assistants
+25,25,Management of Material Resources,34,Dental_Assistants
+41,39,Administration and Management,37,Dental_Assistants
+5,1,Fine Arts,40,Dental_Assistants
+25,50,Troubleshooting,62,Dental_Assistants
+32,24,Personnel and Human Resources,46,Dental_Assistants
+3,5,History and Archeology,41,Dental_Assistants
+10,6,Philosophy and Theology,44,Dental_Assistants
+19,19,Physics,41,Dental_Assistants
+33,7,Therapy and Counseling,68,Dental_Assistants
+44,53,Time Management,52,Dental_Assistants
+24,11,Sociology and Anthropology,57,Dental_Assistants
+43,25,Sales and Marketing,63,Dental_Assistants
+22,18,Economics and Accounting,50,Dental_Assistants
+31,9,Biology,69,Dental_Assistants
+22,31,Equipment Selection,57,Dental_Assistants
+19,15,Foreign Language,53,Dental_Assistants
+47,22,Production and Processing,75,Dental_Assistants
+4,15,Building and Construction,62,Dental_Assistants
+87,14,Medicine and Dentistry,125,Dental_Assistants
+76,67,Customer and Personal Service,62,Dental_Assistants
+1,16,Food Production,69,Dental_Assistants
+59,46,Education and Training,68,Dental_Assistants
+34,27,Chemistry,63,Dental_Assistants
+52,30,Psychology,79,Dental_Assistants
+47,32,Clerical,73,Dental_Assistants
+37,39,Law and Government,61,Dental_Assistants
+41,69,Operation Monitoring,88,Dental_Assistants
+7,49,Geography,103,Dental_Assistants
+22,47,Equipment Maintenance,87,Dental_Assistants
+19,47,Repairing,91,Dental_Assistants
+28,72,Operation and Control,108,Dental_Assistants
+32,55,Mechanical,88,Dental_Assistants
+42,68,Public Safety and Security,92,Dental_Assistants
+3,75,Transportation,139,Dental_Assistants

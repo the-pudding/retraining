@@ -1,0 +1,69 @@
+job_compared,job_selected,skills,difference,job_compared_name
+0.0,3,Programming,3.0,Musicians
+28.5,32,Computers and Electronics,4.5,Musicians
+12.5,19,Engineering and Technology,8.5,Musicians
+31.5,25,Systems Analysis,9.5,Musicians
+1.5,0,Science,5.5,Musicians
+30.0,28,Systems Evaluation,7.0,Musicians
+11.0,15,Design,10.0,Musicians
+23.5,22,Operations Analysis,8.5,Musicians
+13.0,16,Technology Design,11.0,Musicians
+34.0,39,Mathematics,14.0,Musicians
+51.5,47,Judgment and Decision Making,14.5,Musicians
+11.0,25,Mathematics.1,25.0,Musicians
+39.5,47,Complex Problem Solving,19.5,Musicians
+33.0,28,Management of Personnel Resources,18.0,Musicians
+44.0,28,Persuasion,30.0,Musicians
+51.5,50,Critical Thinking,16.5,Musicians
+36.0,31,Negotiation,21.0,Musicians
+39.5,38,Learning Strategies,18.5,Musicians
+38.0,38,Instructing,18.0,Musicians
+65.5,62,English Language,22.5,Musicians
+16.0,38,Telecommunications,42.0,Musicians
+53.0,50,Speaking,24.0,Musicians
+59.5,47,Active Listening,34.5,Musicians
+47.0,44,Active Learning,26.0,Musicians
+42.5,44,Writing,25.5,Musicians
+19.0,41,Quality Control Analysis,47.0,Musicians
+47.0,50,Reading Comprehension,29.0,Musicians
+53.0,47,Coordination,33.0,Musicians
+44.0,44,Service Orientation,28.0,Musicians
+53.0,44,Social Perceptiveness,38.0,Musicians
+0.0,16,Installation,46.0,Musicians
+37.5,29,Communications and Media,39.5,Musicians
+51.5,50,Monitoring,33.5,Musicians
+17.5,25,Management of Financial Resources,40.5,Musicians
+17.5,25,Management of Material Resources,41.5,Musicians
+39.0,39,Administration and Management,35.0,Musicians
+81.5,1,Fine Arts,116.5,Musicians
+8.0,50,Troubleshooting,79.0,Musicians
+24.5,24,Personnel and Human Resources,38.5,Musicians
+21.5,5,History and Archeology,55.5,Musicians
+28.5,6,Philosophy and Theology,62.5,Musicians
+6.0,19,Physics,54.0,Musicians
+15.5,7,Therapy and Counseling,50.5,Musicians
+47.0,53,Time Management,49.0,Musicians
+20.0,11,Sociology and Anthropology,53.0,Musicians
+42.0,25,Sales and Marketing,62.0,Musicians
+20.0,18,Economics and Accounting,48.0,Musicians
+3.5,9,Biology,52.5,Musicians
+0.0,31,Equipment Selection,79.0,Musicians
+30.0,15,Foreign Language,64.0,Musicians
+18.0,22,Production and Processing,54.0,Musicians
+5.0,15,Building and Construction,61.0,Musicians
+6.0,14,Medicine and Dentistry,60.0,Musicians
+46.5,67,Customer and Personal Service,73.5,Musicians
+1.0,16,Food Production,69.0,Musicians
+41.0,46,Education and Training,60.0,Musicians
+0.5,27,Chemistry,82.5,Musicians
+37.0,30,Psychology,64.0,Musicians
+28.5,32,Clerical,61.5,Musicians
+12.0,39,Law and Government,86.0,Musicians
+26.5,69,Operation Monitoring,102.5,Musicians
+9.0,49,Geography,101.0,Musicians
+0.0,47,Equipment Maintenance,109.0,Musicians
+3.0,47,Repairing,107.0,Musicians
+12.5,72,Operation and Control,123.5,Musicians
+13.0,55,Mechanical,107.0,Musicians
+9.5,68,Public Safety and Security,124.5,Musicians
+20.0,75,Transportation,122.0,Musicians

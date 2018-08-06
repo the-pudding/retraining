@@ -1,0 +1,460 @@
+/* CUSTOM STORY STYLE */
+
+.annotation-note-title
+  font-family 'Atlas Grotesk Web'
+  fill black
+  font-weight 800
+  @media (max-width: 700px)
+    font-size: 12px
+    font-weight 600
+
+.annotation-note-label
+  font-size 15px
+  font-family 'Atlas Grotesk Web'
+
+.annotation-note-bg
+  fill white
+  fill-opacity 0.7
+.annotation-group-similar
+  visibility hidden
+
+
+.annotation-group-different
+  visibility hidden
+
+
+.prose
+  position relative
+  background white
+  padding 20px
+  border 2px solid rgba(152,169,179,.38039)
+  box-shadow: 0 0 16px rgba(0,0,0,0.5);
+  opacity 0.99
+
+.intro-prose
+  max-width 40 rem
+  margin 0 auto
+  padding-top 1 rem
+  @media (max-width: 700px)
+    padding 1rem 1rem 0 1rem
+
+
+figure.sticky
+  position sticky
+  top 0
+  width 100%
+  margin 0 auto
+
+//
+
+svg.scatter
+  margin auto
+  display block
+  overflow hidden
+
+.intro-x-axis
+  .tick
+    text
+      font-size 16px
+      @media (max-width: 700px)
+        font-size 10px
+    line
+      // stroke #dadada
+      // stroke #000000
+      display none
+  path.domain
+    stroke-dasharray 3,3
+    stroke-width 0.5
+    // stroke #dadada
+    stroke #000000
+
+.intro-job-names
+  @media (max-width: 700px)
+    font-size 12px
+
+.intro-automatability-values
+  text-anchor middle
+  @media (max-width: 700px)
+    font-size 12px
+
+.automatability-label
+  text-transform uppercase
+  font-weight 600
+  text-anchor end
+  font-family 'Atlas Grotesk Web'
+  // transform-origin top left
+  transform rotate(-90deg)
+
+.trucker-developer-groups
+  font-family 'Atlas Grotesk Web'
+
+.heavy-prose
+  font-weight 600
+
+.heavy-prose-blue-text
+  font-weight 600
+  color #2F80ED
+
+.heavy-prose-red-text
+  font-weight 600
+  color #EB5757
+
+.blue-text
+  color #2F80ED
+
+.red-text
+  color #EB5757
+
+.two-job-automatability-value
+  font-family 'Atlas Grotesk Web'
+  // text-anchor right
+  font-weight 600
+
+.intro-y-axis
+  font-family 'Atlas Grotesk Web'
+  .tick
+    text
+      fill #8e8d87
+      opacity 0
+      // text-anchor start
+      font-size 14px
+    line
+      stroke #8e8d87
+
+  path
+    stroke-width 2
+    stroke #8e8d87
+    stroke-dasharray 3,3
+
+.y-axis-label
+  font-family 'Atlas Grotesk Web'
+  font-weight 500
+  .min
+    text
+      fill #2F80ED
+      font-weight 600
+  .max
+    text
+      fill #EB5757
+      font-weight 600
+  @media (max-width: 700px)
+    font-size 12px
+  // .title-background
+  //   stroke-width 11px
+  // .title
+  //   font-weight 500
+
+
+.skill-axis
+  stroke-dasharray 3,3
+  stroke-width 0.5
+  stroke #dadada
+
+.devs-skill-circle
+  fill #FFFFFF
+  stroke #3080ee
+  stroke-width 2
+
+.truckers-skill-circle
+  fill #FFFFFF
+  stroke #eb5756
+  stroke-width 2
+
+.jobTooltip
+  position absolute
+  background #FFF
+  visibility hidden
+  font-size 16px
+  @media (max-width: 700px)
+    font-size 12px
+
+
+.job-bar
+  height 20px
+  background #e0e0e0
+  border-style solid
+  border-color #D928BC
+  overflow visible
+  display inline-block
+  vertical-align middle
+  line-height 50px
+
+.job-bar-value
+  display inline-block
+  margin-bottom 1px
+  font-weight 600
+
+.bar-container
+  display block
+  font-size 16px
+  @media (max-width: 700px)
+    font-size 12px
+
+.job-data-container
+  display flex
+  justify-content space-between
+
+.tooltip-section-names
+  display flex
+  justify-content space-between
+  text-decoration underline
+  font-weight 600
+  font-size 16px
+  margin-top 1em
+  margin-bottom 1em
+  @media (max-width: 700px)
+    font-size 12px
+
+.job-selected-name
+  font-size 24px
+  @media (max-width: 700px)
+    font-size 12px
+
+.job-compared-name
+  font-weight 600
+  font-size 16px
+  overflow hidden
+  max-width 30ch
+  @media (max-width: 700px)
+    font-size 12px
+
+.job-compared-number
+  font-style italic
+  font-size 14px
+  @media (max-width: 700px)
+    font-size 12px
+
+.jobTooltip
+  padding 20px
+  pointer-events none
+  border 1px solid black;
+  font-family 'Atlask Grotesk Web', sans-serif
+
+.transition-button
+  display inline-block
+  margin-left 1em
+
+.scene
+  margin-top 100vh
+
+.all-automation
+  margin-top 0vh
+
+.two-jobs-automation
+  margin-top 20vh
+
+
+.skill-name
+  font-size 14px
+  font-family 'Atlas Grotesk Web'
+
+
+.job-name
+  font-size 14px
+  font-family 'Atlas Grotesk Web'
+
+.min-similarity
+  font-size 12px
+  @media (max-width: 700px)
+    font-size 10px
+
+.max-similarity
+  font-size 12px
+  @media (max-width: 700px)
+    font-size 10px
+
+.similarity-annotation
+  font-family 'Atlas Grotesk Web'
+  font-size: 14px
+  @media (max-width: 700px)
+    font-size: 12px
+
+
+.scatter-y-axis
+  path.domain
+    opacity 0.2
+  g.tick
+    text
+      fill #7a7676
+      font-family 'Atlas Grotesk Web'
+      font-size 12px
+      @media (max-width: 700px)
+        font-size 10px
+    line
+      stroke #C6C6C6
+
+.axis-label
+  font-family 'Atlas Grotesk Web'
+
+
+.scatter-label-y-axis
+  fill #000000
+  font-family 'Atlas Grotesk Web'
+  text-anchor middle
+
+.chart-title-div
+  font-family 'Alfa Slab One', cursive
+  font-size 24px
+  // text-align center
+  padding-top 5vh
+  @media (max-width: 700px)
+    font-size 12px
+    padding-top 5vh
+    padding-right 1rem
+
+.chart-title-pt1
+  font-family 'Alfa Slab One', cursive
+  text-align center
+
+.bisecting-line
+  stroke #000
+  stroke-dasharray 3,3
+
+.bisecting-line-label
+  font-size 14px
+  text-anchor start
+  font-family 'Atlas Grotesk Web'
+
+.bisecting-line-label-background
+  font-size 14px
+  text-anchor start
+  font-family 'Atlas Grotesk Web'
+  stroke #FFFFFF
+  stroke-width 5px
+
+.job-number-title
+  font-family 'Atlas Grotesk Web'
+  font-size 14px
+  // font-weight 600
+  font-weight 400
+  text-decoration underline
+  text-anchor middle
+  @media (max-width: 700px)
+    font-size 10px
+
+.job-number-title-background
+  font-family 'Atlas Grotesk Web'
+  font-size 14px
+  // font-weight 600
+  font-weight 400
+  text-decoration underline
+  text-anchor middle
+  stroke #FFF
+  stroke-width 1px
+  @media (max-width: 700px)
+    font-size 10px
+
+.legend-job-number__text
+  font-size 14px
+  font-family 'Atlas Grotesk Web'
+  text-anchor middle
+  @media (max-width: 700px)
+      font-size 8px
+
+.legend-wages__title
+  font-family 'Atlas Grotesk Web'
+  font-size 14px
+  // font-weight 600
+  font-weight 400
+  text-decoration underline
+  text-anchor middle
+  @media (max-width: 700px)
+    font-size 10px
+
+.legend-wages__text-annotation
+  font-size 14px
+  font-family 'Atlas Grotesk Web'
+  text-anchor middle
+  @media (max-width: 700px)
+      font-size 8px
+
+.legend-wages__zero
+  font-size 12px
+  font-family 'Atlas Grotesk Web'
+  text-anchor end
+  @media (max-width: 700px)
+      font-size 8px
+
+.job-selector__container
+  text-align center
+  width: 75%;
+  position: fixed;
+  left: 50%;
+  margin-left: -37.5%;
+  top: 5px;
+
+
+.job-selector__dropdown
+  // position fixed
+  // top 0px
+  // left 50px
+  -webkit-backface-visibility hidden
+    option
+      width 75vw
+  @media (max-width: 700px)
+    width 75%
+
+.section__scene
+  padding-bottom 100vh
+
+/* @end */
+
+.misc-elements
+  visibility hidden
+
+.img-static
+  visibility hidden
+  margin 0 auto
+
+.invisible
+  display none
+
+.main-title
+  display none
+
+.secondary-title-stacking
+  display none
+
+.secondary-title-remaining
+  display none
+
+.example-skill-title
+  text-anchor middle
+  font-family 'Alfa Slab One', cursive
+  font-size 24px
+  opacity 0
+  @media screen and (max-width: 700px)
+    font-size 18px
+
+.conclusion__copy
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+
+.conclusion-prose
+  max-width: 40rem;
+  margin: 0 auto;
+  position relative
+  padding-bottom: 5vh
+
+.method_copy
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+
+.methodology
+  font-family 'Atlas Grotesk Web'
+  max-width: 40rem;
+  margin: 0 auto;
+  position relative
+  font-size 14px
+
+input, textarea, select {
+  font-size: 16px;
+}

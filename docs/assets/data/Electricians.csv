@@ -1,0 +1,69 @@
+job_compared,job_selected,skills,difference,job_compared_name
+0,3,Programming,3,Electricians
+40,32,Computers and Electronics,9,Electricians
+48,19,Engineering and Technology,31,Electricians
+50,25,Systems Analysis,28,Electricians
+31,0,Science,35,Electricians
+50,28,Systems Evaluation,27,Electricians
+69,15,Design,60,Electricians
+41,22,Operations Analysis,26,Electricians
+25,16,Technology Design,17,Electricians
+73,39,Mathematics,43,Electricians
+60,47,Judgment and Decision Making,23,Electricians
+50,25,Mathematics.1,36,Electricians
+53,47,Complex Problem Solving,18,Electricians
+47,28,Management of Personnel Resources,32,Electricians
+41,28,Persuasion,27,Electricians
+60,50,Critical Thinking,25,Electricians
+31,31,Negotiation,16,Electricians
+50,38,Learning Strategies,29,Electricians
+53,38,Instructing,33,Electricians
+69,62,English Language,26,Electricians
+50,38,Telecommunications,32,Electricians
+53,50,Speaking,24,Electricians
+60,47,Active Listening,35,Electricians
+53,44,Active Learning,32,Electricians
+47,44,Writing,27,Electricians
+53,41,Quality Control Analysis,37,Electricians
+50,50,Reading Comprehension,26,Electricians
+50,47,Coordination,30,Electricians
+47,44,Service Orientation,31,Electricians
+44,44,Social Perceptiveness,29,Electricians
+56,16,Installation,70,Electricians
+23,29,Communications and Media,37,Electricians
+53,50,Monitoring,35,Electricians
+31,25,Management of Financial Resources,39,Electricians
+31,25,Management of Material Resources,40,Electricians
+58,39,Administration and Management,54,Electricians
+2,1,Fine Arts,37,Electricians
+66,50,Troubleshooting,53,Electricians
+34,24,Personnel and Human Resources,48,Electricians
+4,5,History and Archeology,40,Electricians
+8,6,Philosophy and Theology,42,Electricians
+54,19,Physics,76,Electricians
+9,7,Therapy and Counseling,44,Electricians
+50,53,Time Management,46,Electricians
+10,11,Sociology and Anthropology,45,Electricians
+20,25,Sales and Marketing,50,Electricians
+17,18,Economics and Accounting,47,Electricians
+5,9,Biology,51,Electricians
+50,31,Equipment Selection,67,Electricians
+15,15,Foreign Language,49,Electricians
+33,22,Production and Processing,61,Electricians
+83,15,Building and Construction,119,Electricians
+10,14,Medicine and Dentistry,56,Electricians
+60,67,Customer and Personal Service,60,Electricians
+4,16,Food Production,66,Electricians
+50,46,Education and Training,59,Electricians
+19,27,Chemistry,64,Electricians
+25,30,Psychology,62,Electricians
+38,32,Clerical,64,Electricians
+34,39,Law and Government,64,Electricians
+50,69,Operation Monitoring,79,Electricians
+15,49,Geography,95,Electricians
+53,47,Equipment Maintenance,68,Electricians
+63,47,Repairing,79,Electricians
+50,72,Operation and Control,86,Electricians
+82,55,Mechanical,92,Electricians
+63,68,Public Safety and Security,71,Electricians
+23,75,Transportation,119,Electricians

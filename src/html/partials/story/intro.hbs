@@ -1,0 +1,38 @@
+<div class='intro'>
+	<h1 class='intro__hed'>{{meta.title}}</h1>
+	<p class='intro__dek tk-atlas'>{{meta.description}}</p>
+	<p class='intro__byline tk-atlas'>By
+		<a href='{{meta.author1.url}}' target='_blank'><strong>{{meta.author1.name}}</strong></a>
+		&
+		<a href='{{meta.author2.url}}' target='_blank'><strong>{{meta.author2.name}}</strong></a>
+	</p>
+</div>
+
+
+<div class="intro__copy">
+	{{#each copy.intro}}
+		<p class='intro-prose'>{{{value}}}</p>
+	{{/each}}
+</div>
+
+<figure class="svg-container sticky">
+
+	<div class="misc-chart-elements-container misc-elements" id="misc-chart-elements-container">
+		<div class='chart-title-div misc-elements'>
+			<span class="chart-title-pt1 title">Which jobs should</span>
+			<span class="chart-title-pt2 secondary-title secondary-title-stacking">1,789,094</span>
+			<span class="chart-title-pt3 secondary-title secondary-title-stacking">truckers</span>
+			<span class="chart-title-pt4 secondary-title secondary-title-stacking">earning</span>
+			<span class="chart-title-pt5 secondary-title secondary-title-remaining">$43,590</span>
+			<span class="chart-title-pt6 secondary-title secondary-title-remaining">yearly, transition to?</span>
+		</div>
+
+	</div>
+	<svg class="scatter">
+	</svg>
+	<div class='job-selector__container misc-elements'></div>
+	<!-- <img class='img-static images-two-jobs-two-skills' src='assets/data/static/images-two-jobs-two-skills.png'>
+	<img class='img-static images-two-jobs-many-skills' src='assets/data/static/images-two-jobs-many-skills.png'>
+	<img class='img-static images-two-jobs-stacked-skills' src='assets/data/static/images-two-jobs-stacked-skills.png'>
+	<img class='img-static images-many-jobs-many-skills' src='assets/data/static/images-many-jobs-many-skills.png'> -->
+</figure>

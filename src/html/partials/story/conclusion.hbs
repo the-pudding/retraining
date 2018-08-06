@@ -1,0 +1,28 @@
+<section class='section--conclusion section'>
+
+
+	{{#each copy.conclusion}}
+    <div class='section__scene' data-step='{{{step}}}' data-index='{{id}}'>
+		<p class='conclusion-prose'>{{{text}}}</p>
+    </div>
+	{{/each}}
+
+	{{#each copy.methodology}}
+		<div class='section__scene' data-step='{{{step}}}' data-index='{{id}}'>
+		<p class='methodology'>{{{text}}}</p>
+		</div>
+	{{/each}}
+
+<!--
+<div class="conclusion__copy">
+	{{#each copy.conclusion}}
+		<p class='conclusion-prose'>{{{value}}}</p>
+	{{/each}}
+</div>
+<div class="conclusion__copy">
+	{{#each copy.methodology}}
+		<p class='methodology'>{{{value}}}</p>
+	{{/each}}
+</div> -->
+
+</section>

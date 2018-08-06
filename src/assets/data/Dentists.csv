@@ -1,0 +1,69 @@
+job_compared,job_selected,skills,difference,job_compared_name
+16,3,Programming,13,Dentists
+46,32,Computers and Electronics,15,Dentists
+40,19,Engineering and Technology,23,Dentists
+47,25,Systems Analysis,25,Dentists
+69,0,Science,73,Dentists
+44,28,Systems Evaluation,21,Dentists
+38,15,Design,29,Dentists
+35,22,Operations Analysis,20,Dentists
+25,16,Technology Design,17,Dentists
+34,39,Mathematics,14,Dentists
+78,47,Judgment and Decision Making,41,Dentists
+44,25,Mathematics.1,30,Dentists
+75,47,Complex Problem Solving,40,Dentists
+63,28,Management of Personnel Resources,48,Dentists
+69,28,Persuasion,55,Dentists
+78,50,Critical Thinking,43,Dentists
+53,31,Negotiation,38,Dentists
+53,38,Learning Strategies,32,Dentists
+56,38,Instructing,36,Dentists
+73,62,English Language,30,Dentists
+19,38,Telecommunications,39,Dentists
+75,50,Speaking,46,Dentists
+75,47,Active Listening,50,Dentists
+72,44,Active Learning,51,Dentists
+56,44,Writing,36,Dentists
+44,41,Quality Control Analysis,28,Dentists
+75,50,Reading Comprehension,51,Dentists
+69,47,Coordination,49,Dentists
+72,44,Service Orientation,56,Dentists
+72,44,Social Perceptiveness,57,Dentists
+6,16,Installation,40,Dentists
+24,29,Communications and Media,36,Dentists
+75,50,Monitoring,57,Dentists
+50,25,Management of Financial Resources,58,Dentists
+50,25,Management of Material Resources,59,Dentists
+56,39,Administration and Management,52,Dentists
+11,1,Fine Arts,46,Dentists
+25,50,Troubleshooting,62,Dentists
+55,24,Personnel and Human Resources,69,Dentists
+7,5,History and Archeology,41,Dentists
+9,6,Philosophy and Theology,43,Dentists
+41,19,Physics,63,Dentists
+33,7,Therapy and Counseling,68,Dentists
+72,53,Time Management,62,Dentists
+21,11,Sociology and Anthropology,54,Dentists
+35,25,Sales and Marketing,55,Dentists
+50,18,Economics and Accounting,78,Dentists
+63,9,Biology,101,Dentists
+35,31,Equipment Selection,52,Dentists
+18,15,Foreign Language,52,Dentists
+38,22,Production and Processing,66,Dentists
+19,15,Building and Construction,55,Dentists
+100,14,Medicine and Dentistry,138,Dentists
+81,67,Customer and Personal Service,67,Dentists
+5,16,Food Production,65,Dentists
+57,46,Education and Training,66,Dentists
+48,27,Chemistry,77,Dentists
+61,30,Psychology,88,Dentists
+37,32,Clerical,63,Dentists
+37,39,Law and Government,61,Dentists
+44,69,Operation Monitoring,85,Dentists
+8,49,Geography,102,Dentists
+13,47,Equipment Maintenance,96,Dentists
+10,47,Repairing,100,Dentists
+47,72,Operation and Control,89,Dentists
+45,55,Mechanical,75,Dentists
+36,68,Public Safety and Security,98,Dentists
+11,75,Transportation,131,Dentists

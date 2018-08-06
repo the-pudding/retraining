@@ -1,0 +1,69 @@
+job_compared,job_selected,skills,difference,job_compared_name
+3,3,Programming,0,Truck_drivers
+32,32,Computers and Electronics,1,Truck_drivers
+19,19,Engineering and Technology,2,Truck_drivers
+25,25,Systems Analysis,3,Truck_drivers
+0,0,Science,4,Truck_drivers
+28,28,Systems Evaluation,5,Truck_drivers
+15,15,Design,6,Truck_drivers
+22,22,Operations Analysis,7,Truck_drivers
+16,16,Technology Design,8,Truck_drivers
+39,39,Mathematics,9,Truck_drivers
+47,47,Judgment and Decision Making,10,Truck_drivers
+25,25,Mathematics.1,11,Truck_drivers
+47,47,Complex Problem Solving,12,Truck_drivers
+28,28,Management of Personnel Resources,13,Truck_drivers
+28,28,Persuasion,14,Truck_drivers
+50,50,Critical Thinking,15,Truck_drivers
+31,31,Negotiation,16,Truck_drivers
+38,38,Learning Strategies,17,Truck_drivers
+38,38,Instructing,18,Truck_drivers
+62,62,English Language,19,Truck_drivers
+38,38,Telecommunications,20,Truck_drivers
+50,50,Speaking,21,Truck_drivers
+47,47,Active Listening,22,Truck_drivers
+44,44,Active Learning,23,Truck_drivers
+44,44,Writing,24,Truck_drivers
+41,41,Quality Control Analysis,25,Truck_drivers
+50,50,Reading Comprehension,26,Truck_drivers
+47,47,Coordination,27,Truck_drivers
+44,44,Service Orientation,28,Truck_drivers
+44,44,Social Perceptiveness,29,Truck_drivers
+16,16,Installation,30,Truck_drivers
+29,29,Communications and Media,31,Truck_drivers
+50,50,Monitoring,32,Truck_drivers
+25,25,Management of Financial Resources,33,Truck_drivers
+25,25,Management of Material Resources,34,Truck_drivers
+39,39,Administration and Management,35,Truck_drivers
+1,1,Fine Arts,36,Truck_drivers
+50,50,Troubleshooting,37,Truck_drivers
+24,24,Personnel and Human Resources,38,Truck_drivers
+5,5,History and Archeology,39,Truck_drivers
+6,6,Philosophy and Theology,40,Truck_drivers
+19,19,Physics,41,Truck_drivers
+7,7,Therapy and Counseling,42,Truck_drivers
+53,53,Time Management,43,Truck_drivers
+11,11,Sociology and Anthropology,44,Truck_drivers
+25,25,Sales and Marketing,45,Truck_drivers
+18,18,Economics and Accounting,46,Truck_drivers
+9,9,Biology,47,Truck_drivers
+31,31,Equipment Selection,48,Truck_drivers
+15,15,Foreign Language,49,Truck_drivers
+22,22,Production and Processing,50,Truck_drivers
+15,15,Building and Construction,51,Truck_drivers
+14,14,Medicine and Dentistry,52,Truck_drivers
+67,67,Customer and Personal Service,53,Truck_drivers
+16,16,Food Production,54,Truck_drivers
+46,46,Education and Training,55,Truck_drivers
+27,27,Chemistry,56,Truck_drivers
+30,30,Psychology,57,Truck_drivers
+32,32,Clerical,58,Truck_drivers
+39,39,Law and Government,59,Truck_drivers
+69,69,Operation Monitoring,60,Truck_drivers
+49,49,Geography,61,Truck_drivers
+47,47,Equipment Maintenance,62,Truck_drivers
+47,47,Repairing,63,Truck_drivers
+72,72,Operation and Control,64,Truck_drivers
+55,55,Mechanical,65,Truck_drivers
+68,68,Public Safety and Security,66,Truck_drivers
+75,75,Transportation,67,Truck_drivers

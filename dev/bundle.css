@@ -1,0 +1,971 @@
+* {
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,big,cite,code,del,dfn,em,img,ins,kbd,q,s,samp,small,strike,strong,sub,sup,tt,var,b,u,i,center,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,article,aside,canvas,details,embed,figure,figcaption,footer,header,hgroup,menu,nav,output,ruby,section,summary,time,mark,audio,video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+
+article,aside,details,figcaption,figure,footer,header,hgroup,main,menu,nav,section {
+  display: block;
+}
+
+a img {
+  border: none;
+}
+
+blockquote {
+  quotes: none;
+}
+
+blockquote:before,blockquote:after {
+  content: '';
+  content: none;
+}
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+caption,th,td {
+  text-align: left;
+  font-weight: normal;
+  vertical-align: middle;
+}
+
+.hide-accessible {
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  position: absolute;
+}
+
+.hide-invisible {
+  visibility: hidden;
+}
+
+.hide-display {
+  display: none;
+}
+
+.skip-to-main {
+  border: none;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  position: absolute;
+}
+
+.skip-to-main:focus {
+  width: auto;
+  height: auto;
+  background-color: #f4f4f4;
+  padding: 0.5em;
+  z-index: 1;
+}
+
+.prose {
+  max-width: 40rem;
+  margin: 0 auto;
+  padding: 0 1rem;
+}
+
+.prose__hed {
+  font-weight: bold;
+}
+
+.graphic__hed {
+  font-weight: 500;
+}
+
+.graphic__dek {
+  margin: 0;
+  margin-bottom: 1.5rem;
+}
+
+.graphic__chart {
+  width: 100%;
+}
+
+.graphic__key {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  margin-bottom: 0.5rem;
+  -webkit-box-pack: end;
+  -ms-flex-pack: end;
+  justify-content: flex-end;
+}
+
+.graphic__key li {
+  padding: 0;
+  margin-left: 0.75em;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  font-weight: bold;
+  line-height: 1;
+}
+
+.graphic__key li:before {
+  content: '';
+  display: inline-block;
+  width: 0.8em;
+  height: 0.8em;
+  background-color: #282828;
+  margin-right: 0.25em;
+}
+
+.tk-canela {
+  font-family: 'Times New Roman', serif;
+}
+
+.loaded-canela .tk-canela {
+  font-family: 'Canela Web', 'Times New Roman', serif;
+}
+
+.tk-publico {
+  font-family: Georgia, Times, serif;
+}
+
+.loaded-publico .tk-publico {
+  font-family: 'Publico Text Web', Georgia, Times, serif;
+}
+
+.tk-atlas {
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+.loaded-atlas .tk-atlas {
+  font-family: 'Atlas Grotesk Web', Helvetica, Arial, sans-serif;
+}
+
+.xxx-small {
+  font-size: 10px;
+  line-height: 1.5;
+}
+
+.xx-small {
+  font-size: 11px;
+  line-height: 1.5;
+}
+
+.x-small {
+  font-size: 12px;
+  line-height: 1.5;
+}
+
+.small {
+  font-size: 14px;
+  line-height: 1.5;
+}
+
+.root {
+  font-size: 16px;
+  line-height: 1.7;
+}
+
+.medium {
+  font-size: 17px;
+  line-height: 1.7;
+}
+
+.large {
+  font-size: 24px;
+  line-height: 1.5;
+}
+
+.x-large {
+  font-size: 32px;
+  line-height: 1.5;
+}
+
+.xx-large {
+  font-size: 40px;
+  line-height: 1.2;
+}
+
+.xxx-large {
+  font-size: 48px;
+  line-height: 1.2;
+}
+
+.xxxx-large {
+  font-size: 64px;
+  line-height: 1.2;
+}
+
+body {
+  -webkit-font-feature-settings: 'kern' 1, 'onum' 0, 'liga' 0, 'tnum' 1;
+  font-feature-settings: 'kern' 1, 'onum' 0, 'liga' 0, 'tnum' 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-tap-highlight-color: rgba(0,0,0,0);
+  background-color: #fff;
+  color: #282828;
+  font-size: 16px;
+}
+
+h1 {
+  font-size: 40px;
+  line-height: 1.2;
+  margin-top: 1.5rem;
+}
+
+h2 {
+  font-size: 32px;
+  line-height: 1.5;
+  margin-top: 1.5rem;
+}
+
+h3 {
+  font-size: 24px;
+  line-height: 1.5;
+  margin-top: 1.5rem;
+}
+
+h4 {
+  font-size: 17px;
+  line-height: 1.7;
+  margin-top: 1.5rem;
+}
+
+h5 {
+  font-size: 16px;
+  line-height: 1.7;
+  margin-top: 1.5rem;
+}
+
+h6 {
+  font-size: 14px;
+  line-height: 1.5;
+  margin-top: 1.5rem;
+}
+
+p {
+  margin: 1.5rem 0;
+  font-size: 16px;
+  line-height: 1.7;
+}
+
+a {
+  text-decoration: none;
+  border-bottom: 1px solid #282828;
+  color: #282828;
+}
+
+a:visited,a:hover {
+  color: #282828;
+}
+
+strong,b {
+  font-weight: bold;
+}
+
+em,i {
+  font-style: italic;
+}
+
+ul {
+  list-style-type: none;
+}
+
+li {
+  font-size: 16px;
+}
+
+img,video {
+  display: block;
+  width: 100%;
+}
+
+button {
+  cursor: pointer;
+  border: none;
+  outline: none;
+  margin: 0;
+  padding: 0;
+  font-size: 1rem;
+  font-size: 16px;
+}
+
+sub,sup {
+  font-size: 0.75rem;
+  line-height: 0;
+  position: relative;
+  vertical-align: baseline;
+}
+
+sup {
+  top: -0.5em;
+}
+
+sub {
+  bottom: -0.25em;
+}
+
+header {
+  z-index: 1000;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+}
+
+header a.logo {
+  display: block;
+  border: none;
+  max-width: 9rem;
+  margin: 1rem auto;
+}
+
+header a.logo svg {
+  fill: #282828;
+  display: block;
+  width: 100%;
+}
+
+.intro {
+  margin: 0 auto;
+  padding: 4rem 1rem 1.5rem 1rem;
+}
+
+.intro__hed {
+  max-width: 60rem;
+  margin: 0 auto;
+  padding-top: 5rem;
+  text-align: center;
+  font-family: 'Alfa Slab One', cursive;
+  font-size: 40px;
+  line-height: 1.2;
+}
+
+.intro__byline {
+  max-width: 40rem;
+  margin: 0 auto;
+  padding-top: 5rem;
+  padding-bottom: 1.5rem;
+  text-align: center;
+  font-size: 14px;
+  line-height: 1.5;
+}
+
+.intro__dek {
+  max-width: 40rem;
+  margin: 0 auto;
+  padding-top: 1.5rem;
+  text-align: center;
+  font-size: 17px;
+  line-height: 1.7;
+}
+
+.annotation-note-title {
+  font-family: 'Atlas Grotesk Web';
+  fill: #000;
+  font-weight: 800;
+}
+
+.annotation-note-label {
+  font-size: 15px;
+  font-family: 'Atlas Grotesk Web';
+}
+
+.annotation-note-bg {
+  fill: #fff;
+  fill-opacity: 0.7;
+}
+
+.annotation-group-similar {
+  visibility: hidden;
+}
+
+.annotation-group-different {
+  visibility: hidden;
+}
+
+.prose {
+  position: relative;
+  background: #fff;
+  padding: 20px;
+  border: 2px solid rgba(152,169,179,0.38);
+  -webkit-box-shadow: 0 0 16px rgba(0,0,0,0.5);
+  box-shadow: 0 0 16px rgba(0,0,0,0.5);
+  opacity: 0.99;
+}
+
+.intro-prose {
+  max-width: 40rem;
+  margin: 0 auto;
+  padding-top: 1rem;
+}
+
+figure.sticky {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  width: 100%;
+  margin: 0 auto;
+}
+
+svg.scatter {
+  margin: auto;
+  display: block;
+  overflow: hidden;
+}
+
+.intro-x-axis .tick text {
+  font-size: 16px;
+}
+
+.intro-x-axis .tick line {
+  display: none;
+}
+
+.intro-x-axis path.domain {
+  stroke-dasharray: 3, 3;
+  stroke-width: 0.5;
+  stroke: #000;
+}
+
+.intro-automatability-values {
+  text-anchor: middle;
+}
+
+.automatability-label {
+  text-transform: uppercase;
+  font-weight: 600;
+  text-anchor: end;
+  font-family: 'Atlas Grotesk Web';
+  -webkit-transform: rotate(-90deg);
+  -ms-transform: rotate(-90deg);
+  transform: rotate(-90deg);
+}
+
+.trucker-developer-groups {
+  font-family: 'Atlas Grotesk Web';
+}
+
+.heavy-prose {
+  font-weight: 600;
+}
+
+.heavy-prose-blue-text {
+  font-weight: 600;
+  color: #2f80ed;
+}
+
+.heavy-prose-red-text {
+  font-weight: 600;
+  color: #eb5757;
+}
+
+.blue-text {
+  color: #2f80ed;
+}
+
+.red-text {
+  color: #eb5757;
+}
+
+.two-job-automatability-value {
+  font-family: 'Atlas Grotesk Web';
+  font-weight: 600;
+}
+
+.intro-y-axis {
+  font-family: 'Atlas Grotesk Web';
+}
+
+.intro-y-axis .tick text {
+  fill: #8e8d87;
+  opacity: 0;
+  font-size: 14px;
+}
+
+.intro-y-axis .tick line {
+  stroke: #8e8d87;
+}
+
+.intro-y-axis path {
+  stroke-width: 2;
+  stroke: #8e8d87;
+  stroke-dasharray: 3, 3;
+}
+
+.y-axis-label {
+  font-family: 'Atlas Grotesk Web';
+  font-weight: 500;
+}
+
+.y-axis-label .min text {
+  fill: #2f80ed;
+  font-weight: 600;
+}
+
+.y-axis-label .max text {
+  fill: #eb5757;
+  font-weight: 600;
+}
+
+.skill-axis {
+  stroke-dasharray: 3, 3;
+  stroke-width: 0.5;
+  stroke: #dadada;
+}
+
+.devs-skill-circle {
+  fill: #fff;
+  stroke: #3080ee;
+  stroke-width: 2;
+}
+
+.truckers-skill-circle {
+  fill: #fff;
+  stroke: #eb5756;
+  stroke-width: 2;
+}
+
+.jobTooltip {
+  position: absolute;
+  background: #fff;
+  visibility: hidden;
+  font-size: 16px;
+}
+
+.job-bar {
+  height: 20px;
+  background: #e0e0e0;
+  border-style: solid;
+  border-color: #d928bc;
+  overflow: visible;
+  display: inline-block;
+  vertical-align: middle;
+  line-height: 50px;
+}
+
+.job-bar-value {
+  display: inline-block;
+  margin-bottom: 1px;
+  font-weight: 600;
+}
+
+.bar-container {
+  display: block;
+  font-size: 16px;
+}
+
+.job-data-container {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+}
+
+.tooltip-section-names {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  text-decoration: underline;
+  font-weight: 600;
+  font-size: 16px;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
+.job-selected-name {
+  font-size: 24px;
+}
+
+.job-compared-name {
+  font-weight: 600;
+  font-size: 16px;
+  overflow: hidden;
+  max-width: 30ch;
+}
+
+.job-compared-number {
+  font-style: italic;
+  font-size: 14px;
+}
+
+.jobTooltip {
+  padding: 20px;
+  pointer-events: none;
+  border: 1px solid #000;
+  font-family: 'Atlask Grotesk Web', sans-serif;
+}
+
+.transition-button {
+  display: inline-block;
+  margin-left: 1em;
+}
+
+.scene {
+  margin-top: 100vh;
+}
+
+.all-automation {
+  margin-top: 0vh;
+}
+
+.two-jobs-automation {
+  margin-top: 20vh;
+}
+
+.skill-name {
+  font-size: 14px;
+  font-family: 'Atlas Grotesk Web';
+}
+
+.job-name {
+  font-size: 14px;
+  font-family: 'Atlas Grotesk Web';
+}
+
+.min-similarity {
+  font-size: 12px;
+}
+
+.max-similarity {
+  font-size: 12px;
+}
+
+.similarity-annotation {
+  font-family: 'Atlas Grotesk Web';
+  font-size: 14px;
+}
+
+.scatter-y-axis path.domain {
+  opacity: 0.2;
+}
+
+.scatter-y-axis g.tick text {
+  fill: #7a7676;
+  font-family: 'Atlas Grotesk Web';
+  font-size: 12px;
+}
+
+.scatter-y-axis g.tick line {
+  stroke: #c6c6c6;
+}
+
+.axis-label {
+  font-family: 'Atlas Grotesk Web';
+}
+
+.scatter-label-y-axis {
+  fill: #000;
+  font-family: 'Atlas Grotesk Web';
+  text-anchor: middle;
+}
+
+.chart-title-div {
+  font-family: 'Alfa Slab One', cursive;
+  font-size: 24px;
+  padding-top: 5vh;
+}
+
+.chart-title-pt1 {
+  font-family: 'Alfa Slab One', cursive;
+  text-align: center;
+}
+
+.bisecting-line {
+  stroke: #000;
+  stroke-dasharray: 3, 3;
+}
+
+.bisecting-line-label {
+  font-size: 14px;
+  text-anchor: start;
+  font-family: 'Atlas Grotesk Web';
+}
+
+.bisecting-line-label-background {
+  font-size: 14px;
+  text-anchor: start;
+  font-family: 'Atlas Grotesk Web';
+  stroke: #fff;
+  stroke-width: 5px;
+}
+
+.job-number-title {
+  font-family: 'Atlas Grotesk Web';
+  font-size: 14px;
+  font-weight: 400;
+  text-decoration: underline;
+  text-anchor: middle;
+}
+
+.job-number-title-background {
+  font-family: 'Atlas Grotesk Web';
+  font-size: 14px;
+  font-weight: 400;
+  text-decoration: underline;
+  text-anchor: middle;
+  stroke: #fff;
+  stroke-width: 1px;
+}
+
+.legend-job-number__text {
+  font-size: 14px;
+  font-family: 'Atlas Grotesk Web';
+  text-anchor: middle;
+}
+
+.legend-wages__title {
+  font-family: 'Atlas Grotesk Web';
+  font-size: 14px;
+  font-weight: 400;
+  text-decoration: underline;
+  text-anchor: middle;
+}
+
+.legend-wages__text-annotation {
+  font-size: 14px;
+  font-family: 'Atlas Grotesk Web';
+  text-anchor: middle;
+}
+
+.legend-wages__zero {
+  font-size: 12px;
+  font-family: 'Atlas Grotesk Web';
+  text-anchor: end;
+}
+
+.job-selector__container {
+  text-align: center;
+  width: 75%;
+  position: fixed;
+  left: 50%;
+  margin-left: -37.5%;
+  top: 5px;
+}
+
+.job-selector__dropdown -webkit-backface-visibility hidden option {
+  width: 75vw;
+}
+
+.section__scene {
+  padding-bottom: 100vh;
+}
+
+.misc-elements {
+  visibility: hidden;
+}
+
+.img-static {
+  visibility: hidden;
+  margin: 0 auto;
+}
+
+.invisible {
+  display: none;
+}
+
+.main-title {
+  display: none;
+}
+
+.secondary-title-stacking {
+  display: none;
+}
+
+.secondary-title-remaining {
+  display: none;
+}
+
+.example-skill-title {
+  text-anchor: middle;
+  font-family: 'Alfa Slab One', cursive;
+  font-size: 24px;
+  opacity: 0;
+}
+
+.conclusion__copy {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+
+.conclusion-prose {
+  max-width: 40rem;
+  margin: 0 auto;
+  position: relative;
+  padding-bottom: 5vh;
+}
+
+.method_copy {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+
+.methodology {
+  font-family: 'Atlas Grotesk Web';
+  max-width: 40rem;
+  margin: 0 auto;
+  position: relative;
+  font-size: 14px;
+}
+
+input,textarea,select {
+  font-size: 16px;
+}
+
+@media only screen and (min-width: 40em) {
+  body {
+    font-size: 17px;
+  }
+
+  p {
+    font-size: 17px;
+    line-height: 1.7;
+  }
+
+  li {
+    font-size: 17px;
+  }
+
+  button {
+    font-size: 17px;
+  }
+
+  .intro__hed {
+    font-size: 48px;
+    line-height: 1.2;
+  }
+}
+
+@media only screen and (min-width: 50em) {
+  .intro__hed {
+    font-size: 64px;
+    line-height: 1.2;
+  }
+}
+
+@media (max-width: 700px) {
+  .annotation-note-title {
+    font-size: 12px;
+    font-weight: 600;
+  }
+
+  .intro-prose {
+    padding: 1rem 1rem 0 1rem;
+  }
+
+  .intro-x-axis .tick text {
+    font-size: 10px;
+  }
+
+  .intro-job-names {
+    font-size: 12px;
+  }
+
+  .intro-automatability-values {
+    font-size: 12px;
+  }
+
+  .y-axis-label {
+    font-size: 12px;
+  }
+
+  .jobTooltip {
+    font-size: 12px;
+  }
+
+  .bar-container {
+    font-size: 12px;
+  }
+
+  .tooltip-section-names {
+    font-size: 12px;
+  }
+
+  .job-selected-name {
+    font-size: 12px;
+  }
+
+  .job-compared-name {
+    font-size: 12px;
+  }
+
+  .job-compared-number {
+    font-size: 12px;
+  }
+
+  .min-similarity {
+    font-size: 10px;
+  }
+
+  .max-similarity {
+    font-size: 10px;
+  }
+
+  .similarity-annotation {
+    font-size: 12px;
+  }
+
+  .scatter-y-axis g.tick text {
+    font-size: 10px;
+  }
+
+  .chart-title-div {
+    font-size: 12px;
+    padding-top: 5vh;
+    padding-right: 1rem;
+  }
+
+  .job-number-title {
+    font-size: 10px;
+  }
+
+  .job-number-title-background {
+    font-size: 10px;
+  }
+
+  .legend-job-number__text {
+    font-size: 8px;
+  }
+
+  .legend-wages__title {
+    font-size: 10px;
+  }
+
+  .legend-wages__text-annotation {
+    font-size: 8px;
+  }
+
+  .legend-wages__zero {
+    font-size: 8px;
+  }
+
+  .job-selector__dropdown {
+    width: 75%;
+  }
+}
+
+@media screen and (max-width: 700px) {
+  .example-skill-title {
+    font-size: 18px;
+  }
+}

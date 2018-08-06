@@ -1,0 +1,69 @@
+job_compared,job_selected,skills,difference,job_compared_name
+0,3,Programming,3,Dishwashers
+19,32,Computers and Electronics,14,Dishwashers
+14,19,Engineering and Technology,7,Dishwashers
+22,25,Systems Analysis,6,Dishwashers
+0,0,Science,4,Dishwashers
+22,28,Systems Evaluation,11,Dishwashers
+15,15,Design,6,Dishwashers
+0,22,Operations Analysis,29,Dishwashers
+6,16,Technology Design,18,Dishwashers
+14,39,Mathematics,34,Dishwashers
+38,47,Judgment and Decision Making,19,Dishwashers
+25,25,Mathematics.1,11,Dishwashers
+25,47,Complex Problem Solving,34,Dishwashers
+25,28,Management of Personnel Resources,16,Dishwashers
+28,28,Persuasion,14,Dishwashers
+41,50,Critical Thinking,24,Dishwashers
+28,31,Negotiation,19,Dishwashers
+22,38,Learning Strategies,33,Dishwashers
+28,38,Instructing,28,Dishwashers
+29,62,English Language,52,Dishwashers
+14,38,Telecommunications,44,Dishwashers
+41,50,Speaking,30,Dishwashers
+50,47,Active Listening,25,Dishwashers
+28,44,Active Learning,39,Dishwashers
+22,44,Writing,46,Dishwashers
+38,41,Quality Control Analysis,28,Dishwashers
+28,50,Reading Comprehension,48,Dishwashers
+44,47,Coordination,30,Dishwashers
+31,44,Service Orientation,41,Dishwashers
+41,44,Social Perceptiveness,32,Dishwashers
+0,16,Installation,46,Dishwashers
+18,29,Communications and Media,42,Dishwashers
+44,50,Monitoring,38,Dishwashers
+19,25,Management of Financial Resources,39,Dishwashers
+22,25,Management of Material Resources,37,Dishwashers
+35,39,Administration and Management,39,Dishwashers
+9,1,Fine Arts,44,Dishwashers
+31,50,Troubleshooting,56,Dishwashers
+27,24,Personnel and Human Resources,41,Dishwashers
+11,5,History and Archeology,45,Dishwashers
+8,6,Philosophy and Theology,42,Dishwashers
+14,19,Physics,46,Dishwashers
+11,7,Therapy and Counseling,46,Dishwashers
+47,53,Time Management,49,Dishwashers
+11,11,Sociology and Anthropology,44,Dishwashers
+24,25,Sales and Marketing,46,Dishwashers
+20,18,Economics and Accounting,48,Dishwashers
+11,9,Biology,49,Dishwashers
+28,31,Equipment Selection,51,Dishwashers
+12,15,Foreign Language,52,Dishwashers
+26,22,Production and Processing,54,Dishwashers
+8,15,Building and Construction,58,Dishwashers
+12,14,Medicine and Dentistry,54,Dishwashers
+42,67,Customer and Personal Service,78,Dishwashers
+31,16,Food Production,69,Dishwashers
+32,46,Education and Training,69,Dishwashers
+31,27,Chemistry,60,Dishwashers
+16,30,Psychology,71,Dishwashers
+21,32,Clerical,69,Dishwashers
+24,39,Law and Government,74,Dishwashers
+44,69,Operation Monitoring,85,Dishwashers
+15,49,Geography,95,Dishwashers
+35,47,Equipment Maintenance,74,Dishwashers
+28,47,Repairing,82,Dishwashers
+44,72,Operation and Control,92,Dishwashers
+29,55,Mechanical,91,Dishwashers
+30,68,Public Safety and Security,104,Dishwashers
+26,75,Transportation,116,Dishwashers

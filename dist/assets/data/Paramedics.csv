@@ -1,0 +1,69 @@
+job_compared,job_selected,skills,difference,job_compared_name
+16,3,Programming,13,Paramedics
+47,32,Computers and Electronics,16,Paramedics
+27,19,Engineering and Technology,10,Paramedics
+47,25,Systems Analysis,25,Paramedics
+53,0,Science,57,Paramedics
+50,28,Systems Evaluation,27,Paramedics
+23,15,Design,14,Paramedics
+31,22,Operations Analysis,16,Paramedics
+19,16,Technology Design,11,Paramedics
+67,39,Mathematics,37,Paramedics
+56,47,Judgment and Decision Making,19,Paramedics
+41,25,Mathematics.1,27,Paramedics
+63,47,Complex Problem Solving,28,Paramedics
+47,28,Management of Personnel Resources,32,Paramedics
+44,28,Persuasion,30,Paramedics
+75,50,Critical Thinking,40,Paramedics
+44,31,Negotiation,29,Paramedics
+60,38,Learning Strategies,39,Paramedics
+53,38,Instructing,33,Paramedics
+84,62,English Language,41,Paramedics
+58,38,Telecommunications,40,Paramedics
+72,50,Speaking,43,Paramedics
+72,47,Active Listening,47,Paramedics
+66,44,Active Learning,45,Paramedics
+60,44,Writing,40,Paramedics
+41,41,Quality Control Analysis,25,Paramedics
+63,50,Reading Comprehension,39,Paramedics
+72,47,Coordination,52,Paramedics
+69,44,Service Orientation,53,Paramedics
+69,44,Social Perceptiveness,54,Paramedics
+0,16,Installation,46,Paramedics
+48,29,Communications and Media,50,Paramedics
+60,50,Monitoring,42,Paramedics
+19,25,Management of Financial Resources,39,Paramedics
+25,25,Management of Material Resources,34,Paramedics
+59,39,Administration and Management,55,Paramedics
+9,1,Fine Arts,44,Paramedics
+35,50,Troubleshooting,52,Paramedics
+44,24,Personnel and Human Resources,58,Paramedics
+13,5,History and Archeology,47,Paramedics
+28,6,Philosophy and Theology,62,Paramedics
+36,19,Physics,58,Paramedics
+54,7,Therapy and Counseling,89,Paramedics
+50,53,Time Management,46,Paramedics
+37,11,Sociology and Anthropology,70,Paramedics
+20,25,Sales and Marketing,50,Paramedics
+25,18,Economics and Accounting,53,Paramedics
+61,9,Biology,99,Paramedics
+28,31,Equipment Selection,51,Paramedics
+28,15,Foreign Language,62,Paramedics
+23,22,Production and Processing,51,Paramedics
+38,15,Building and Construction,74,Paramedics
+85,14,Medicine and Dentistry,123,Paramedics
+88,67,Customer and Personal Service,74,Paramedics
+5,16,Food Production,65,Paramedics
+74,46,Education and Training,83,Paramedics
+53,27,Chemistry,82,Paramedics
+66,30,Psychology,93,Paramedics
+54,32,Clerical,80,Paramedics
+56,39,Law and Government,76,Paramedics
+53,69,Operation Monitoring,76,Paramedics
+47,49,Geography,63,Paramedics
+38,47,Equipment Maintenance,71,Paramedics
+19,47,Repairing,91,Paramedics
+56,72,Operation and Control,80,Paramedics
+48,55,Mechanical,72,Paramedics
+84,68,Public Safety and Security,82,Paramedics
+64,75,Transportation,78,Paramedics

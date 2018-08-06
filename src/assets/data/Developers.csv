@@ -1,0 +1,69 @@
+job_compared,job_selected,skills,difference,job_compared_name
+75,3,Programming,72,Developers
+99,32,Computers and Electronics,68,Developers
+76,19,Engineering and Technology,59,Developers
+72,25,Systems Analysis,50,Developers
+47,0,Science,51,Developers
+72,28,Systems Evaluation,49,Developers
+58,15,Design,49,Developers
+63,22,Operations Analysis,48,Developers
+50,16,Technology Design,42,Developers
+65,39,Mathematics,35,Developers
+69,47,Judgment and Decision Making,32,Developers
+47,25,Mathematics.1,33,Developers
+66,47,Complex Problem Solving,31,Developers
+47,28,Management of Personnel Resources,32,Developers
+47,28,Persuasion,33,Developers
+66,50,Critical Thinking,31,Developers
+44,31,Negotiation,29,Developers
+50,38,Learning Strategies,29,Developers
+47,38,Instructing,27,Developers
+69,62,English Language,26,Developers
+45,38,Telecommunications,27,Developers
+56,50,Speaking,27,Developers
+53,47,Active Listening,28,Developers
+50,44,Active Learning,29,Developers
+50,44,Writing,30,Developers
+47,41,Quality Control Analysis,31,Developers
+53,50,Reading Comprehension,29,Developers
+50,47,Coordination,30,Developers
+47,44,Service Orientation,31,Developers
+47,44,Social Perceptiveness,32,Developers
+19,16,Installation,33,Developers
+29,29,Communications and Media,31,Developers
+50,50,Monitoring,32,Developers
+25,25,Management of Financial Resources,33,Developers
+25,25,Management of Material Resources,34,Developers
+38,39,Administration and Management,36,Developers
+0,1,Fine Arts,37,Developers
+47,50,Troubleshooting,40,Developers
+20,24,Personnel and Human Resources,42,Developers
+1,5,History and Archeology,43,Developers
+1,6,Philosophy and Theology,45,Developers
+13,19,Physics,47,Developers
+1,7,Therapy and Counseling,48,Developers
+47,53,Time Management,49,Developers
+4,11,Sociology and Anthropology,51,Developers
+17,25,Sales and Marketing,53,Developers
+10,18,Economics and Accounting,54,Developers
+1,9,Biology,55,Developers
+22,31,Equipment Selection,57,Developers
+4,15,Foreign Language,60,Developers
+9,22,Production and Processing,63,Developers
+2,15,Building and Construction,64,Developers
+1,14,Medicine and Dentistry,65,Developers
+51,67,Customer and Personal Service,69,Developers
+0,16,Food Production,70,Developers
+29,46,Education and Training,72,Developers
+9,27,Chemistry,74,Developers
+9,30,Psychology,78,Developers
+10,32,Clerical,80,Developers
+16,39,Law and Government,82,Developers
+44,69,Operation Monitoring,85,Developers
+14,49,Geography,96,Developers
+6,47,Equipment Maintenance,103,Developers
+3,47,Repairing,107,Developers
+25,72,Operation and Control,111,Developers
+4,55,Mechanical,116,Developers
+8,68,Public Safety and Security,126,Developers
+10,75,Transportation,132,Developers

@@ -1,0 +1,121 @@
+job_compared,job_selected,skills,difference,job_compared_name
+0,3,Programming,3,pipelayers
+23,32,Computers and Electronics,10,pipelayers
+39,19,Engineering and Technology,22,pipelayers
+25,25,Systems Analysis,3,pipelayers
+10,0,Science,14,pipelayers
+25,28,Systems Evaluation,8,pipelayers
+55,15,Design,46,pipelayers
+10,22,Operations Analysis,19,pipelayers
+31,31,Fluency of Ideas,8,pipelayers
+16,16,Technology Design,9,pipelayers
+28,28,Mathematical Reasoning,10,pipelayers
+67,39,Mathematics,39,pipelayers
+31,31,Originality,12,pipelayers
+47,50,Inductive Reasoning,16,pipelayers
+44,47,Judgment and Decision Making,17,pipelayers
+28,25,Mathematics.1,18,pipelayers
+50,53,Deductive Reasoning,19,pipelayers
+56,47,Oral Expression,26,pipelayers
+28,31,Number Facility,21,pipelayers
+38,47,Complex Problem Solving,28,pipelayers
+31,28,Management of Personnel Resources,23,pipelayers
+31,28,Persuasion,24,pipelayers
+50,53,Information Ordering,25,pipelayers
+50,50,Critical Thinking,23,pipelayers
+50,50,Category Flexibility,24,pipelayers
+50,47,Written Comprehension,28,pipelayers
+25,25,Memorization,26,pipelayers
+31,31,Negotiation,27,pipelayers
+28,38,Learning Strategies,38,pipelayers
+53,63,Problem Sensitivity,39,pipelayers
+38,44,Flexibility of Closure,36,pipelayers
+41,44,Written Expression,34,pipelayers
+31,35,Speed of Closure,36,pipelayers
+31,38,Instructing,40,pipelayers
+38,62,English Language,58,pipelayers
+34,38,Telecommunications,39,pipelayers
+66,50,Oral Comprehension,52,pipelayers
+50,47,Speech Recognition,40,pipelayers
+47,50,Speaking,41,pipelayers
+53,47,Active Listening,45,pipelayers
+35,44,Active Learning,49,pipelayers
+25,44,Writing,60,pipelayers
+50,41,Quality Control Analysis,51,pipelayers
+50,50,Speech Clarity,43,pipelayers
+47,50,Reading Comprehension,47,pipelayers
+50,47,Coordination,48,pipelayers
+28,44,Service Orientation,62,pipelayers
+47,44,Social Perceptiveness,50,pipelayers
+38,16,Installation,70,pipelayers
+50,53,Selective Attention,52,pipelayers
+44,47,Perceptual Speed,53,pipelayers
+16,29,Communications and Media,64,pipelayers
+47,50,Monitoring,55,pipelayers
+19,25,Management of Financial Resources,59,pipelayers
+22,25,Management of Material Resources,57,pipelayers
+51,39,Administration and Management,67,pipelayers
+4,1,Fine Arts,59,pipelayers
+60,72,Near Vision,69,pipelayers
+47,50,Troubleshooting,61,pipelayers
+28,24,Personnel and Human Resources,63,pipelayers
+15,5,History and Archeology,70,pipelayers
+6,6,Philosophy and Theology,61,pipelayers
+45,19,Physics,88,pipelayers
+19,7,Therapy and Counseling,75,pipelayers
+44,53,Time Management,73,pipelayers
+24,11,Sociology and Anthropology,78,pipelayers
+24,25,Sales and Marketing,67,pipelayers
+15,18,Economics and Accounting,70,pipelayers
+32,9,Biology,91,pipelayers
+50,50,Visualization,69,pipelayers
+50,47,Finger Dexterity,73,pipelayers
+31,47,Time Sharing,87,pipelayers
+44,31,Equipment Selection,85,pipelayers
+6,10,Dynamic Flexibility,77,pipelayers
+17,15,Foreign Language,76,pipelayers
+25,13,Explosive Strength,87,pipelayers
+39,22,Production and Processing,93,pipelayers
+79,15,Building and Construction,141,pipelayers
+27,14,Medicine and Dentistry,91,pipelayers
+52,67,Customer and Personal Service,94,pipelayers
+3,16,Food Production,93,pipelayers
+43,46,Education and Training,84,pipelayers
+49,27,Chemistry,104,pipelayers
+31,47,Visual Color Discrimination,99,pipelayers
+32,30,Psychology,86,pipelayers
+35,47,Auditory Attention,97,pipelayers
+16,32,Clerical,102,pipelayers
+30,39,Law and Government,96,pipelayers
+31,50,Hearing Sensitivity,107,pipelayers
+53,69,Operation Monitoring,105,pipelayers
+66,53,Arm-Hand Steadiness,103,pipelayers
+53,53,Manual Dexterity,91,pipelayers
+19,41,Wrist-Finger Speed,114,pipelayers
+53,47,Trunk Strength,99,pipelayers
+29,49,Geography,114,pipelayers
+35,44,Dynamic Strength,104,pipelayers
+38,41,Gross Body Equilibrium,99,pipelayers
+47,41,Stamina,103,pipelayers
+44,47,Equipment Maintenance,101,pipelayers
+47,75,Far Vision,127,pipelayers
+56,44,Extent Flexibility,112,pipelayers
+38,44,Gross Body Coordination,107,pipelayers
+25,44,Sound Localization,121,pipelayers
+22,44,Speed of Limb Movement,125,pipelayers
+47,47,Repairing,104,pipelayers
+25,47,Glare Sensitivity,127,pipelayers
+56,72,Operation and Control,122,pipelayers
+66,75,Control Precision,116,pipelayers
+53,69,Depth Perception,124,pipelayers
+25,50,Night Vision,134,pipelayers
+25,50,Peripheral Vision,135,pipelayers
+53,50,Static Strength,114,pipelayers
+77,55,Mechanical,134,pipelayers
+62,68,Public Safety and Security,119,pipelayers
+37,75,Transportation,152,pipelayers
+50,69,Rate Control,134,pipelayers
+31,69,Spatial Orientation,154,pipelayers
+53,72,Multilimb Coordination,136,pipelayers
+53,72,Reaction Time,137,pipelayers
+31,72,Response Orientation,160,pipelayers

@@ -1,0 +1,69 @@
+job_compared,job_selected,skills,difference,job_compared_name
+16,3,Programming,13,CEOs
+31,32,Computers and Electronics,2,CEOs
+19,19,Engineering and Technology,2,CEOs
+78,25,Systems Analysis,56,CEOs
+22,0,Science,26,CEOs
+78,28,Systems Evaluation,55,CEOs
+26,15,Design,17,CEOs
+53,22,Operations Analysis,38,CEOs
+19,16,Technology Design,11,CEOs
+60,39,Mathematics,30,CEOs
+88,47,Judgment and Decision Making,51,CEOs
+56,25,Mathematics.1,42,CEOs
+85,47,Complex Problem Solving,50,CEOs
+81,28,Management of Personnel Resources,66,CEOs
+78,28,Persuasion,64,CEOs
+85,50,Critical Thinking,50,CEOs
+78,31,Negotiation,63,CEOs
+53,38,Learning Strategies,32,CEOs
+53,38,Instructing,33,CEOs
+77,62,English Language,34,CEOs
+19,38,Telecommunications,39,CEOs
+85,50,Speaking,56,CEOs
+78,47,Active Listening,53,CEOs
+75,44,Active Learning,54,CEOs
+75,44,Writing,55,CEOs
+19,41,Quality Control Analysis,47,CEOs
+78,50,Reading Comprehension,54,CEOs
+81,47,Coordination,61,CEOs
+53,44,Service Orientation,37,CEOs
+81,44,Social Perceptiveness,66,CEOs
+0,16,Installation,46,CEOs
+43,29,Communications and Media,45,CEOs
+78,50,Monitoring,60,CEOs
+78,25,Management of Financial Resources,86,CEOs
+72,25,Management of Material Resources,81,CEOs
+94,39,Administration and Management,90,CEOs
+11,1,Fine Arts,46,CEOs
+0,50,Troubleshooting,87,CEOs
+78,24,Personnel and Human Resources,92,CEOs
+12,5,History and Archeology,46,CEOs
+18,6,Philosophy and Theology,52,CEOs
+6,19,Physics,54,CEOs
+25,7,Therapy and Counseling,60,CEOs
+75,53,Time Management,65,CEOs
+40,11,Sociology and Anthropology,73,CEOs
+56,25,Sales and Marketing,76,CEOs
+68,18,Economics and Accounting,96,CEOs
+9,9,Biology,47,CEOs
+3,31,Equipment Selection,76,CEOs
+14,15,Foreign Language,50,CEOs
+41,22,Production and Processing,69,CEOs
+28,15,Building and Construction,64,CEOs
+9,14,Medicine and Dentistry,57,CEOs
+77,67,Customer and Personal Service,63,CEOs
+4,16,Food Production,66,CEOs
+56,46,Education and Training,65,CEOs
+11,27,Chemistry,72,CEOs
+53,30,Psychology,80,CEOs
+42,32,Clerical,68,CEOs
+73,39,Law and Government,93,CEOs
+22,69,Operation Monitoring,107,CEOs
+15,49,Geography,95,CEOs
+0,47,Equipment Maintenance,109,CEOs
+0,47,Repairing,110,CEOs
+19,72,Operation and Control,117,CEOs
+17,55,Mechanical,103,CEOs
+58,68,Public Safety and Security,76,CEOs
+30,75,Transportation,112,CEOs

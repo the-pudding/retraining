@@ -1,0 +1,69 @@
+job_compared,job_selected,skills,difference,job_compared_name
+13,3,Programming,10,Clergy
+40,32,Computers and Electronics,9,Clergy
+10,19,Engineering and Technology,11,Clergy
+50,25,Systems Analysis,28,Clergy
+16,0,Science,20,Clergy
+56,28,Systems Evaluation,33,Clergy
+13,15,Design,8,Clergy
+16,22,Operations Analysis,13,Clergy
+13,16,Technology Design,11,Clergy
+18,39,Mathematics,30,Clergy
+75,47,Judgment and Decision Making,38,Clergy
+35,25,Mathematics.1,21,Clergy
+63,47,Complex Problem Solving,28,Clergy
+53,28,Management of Personnel Resources,38,Clergy
+72,28,Persuasion,58,Clergy
+69,50,Critical Thinking,34,Clergy
+72,31,Negotiation,57,Clergy
+69,38,Learning Strategies,48,Clergy
+75,38,Instructing,55,Clergy
+83,62,English Language,40,Clergy
+29,38,Telecommunications,29,Clergy
+91,50,Speaking,62,Clergy
+85,47,Active Listening,60,Clergy
+72,44,Active Learning,51,Clergy
+78,44,Writing,58,Clergy
+6,41,Quality Control Analysis,60,Clergy
+78,50,Reading Comprehension,54,Clergy
+63,47,Coordination,43,Clergy
+81,44,Service Orientation,65,Clergy
+81,44,Social Perceptiveness,66,Clergy
+0,16,Installation,46,Clergy
+57,29,Communications and Media,59,Clergy
+60,50,Monitoring,42,Clergy
+47,25,Management of Financial Resources,55,Clergy
+50,25,Management of Material Resources,59,Clergy
+65,39,Administration and Management,61,Clergy
+29,1,Fine Arts,64,Clergy
+0,50,Troubleshooting,87,Clergy
+60,24,Personnel and Human Resources,74,Clergy
+62,5,History and Archeology,96,Clergy
+99,6,Philosophy and Theology,133,Clergy
+3,19,Physics,57,Clergy
+73,7,Therapy and Counseling,108,Clergy
+66,53,Time Management,56,Clergy
+63,11,Sociology and Anthropology,96,Clergy
+38,25,Sales and Marketing,58,Clergy
+38,18,Economics and Accounting,66,Clergy
+4,9,Biology,52,Clergy
+0,31,Equipment Selection,79,Clergy
+27,15,Foreign Language,61,Clergy
+16,22,Production and Processing,56,Clergy
+15,15,Building and Construction,51,Clergy
+8,14,Medicine and Dentistry,58,Clergy
+61,67,Customer and Personal Service,59,Clergy
+7,16,Food Production,63,Clergy
+67,46,Education and Training,76,Clergy
+3,27,Chemistry,80,Clergy
+70,30,Psychology,97,Clergy
+45,32,Clerical,71,Clergy
+42,39,Law and Government,62,Clergy
+19,69,Operation Monitoring,110,Clergy
+29,49,Geography,81,Clergy
+0,47,Equipment Maintenance,109,Clergy
+0,47,Repairing,110,Clergy
+19,72,Operation and Control,117,Clergy
+16,55,Mechanical,104,Clergy
+35,68,Public Safety and Security,99,Clergy
+22,75,Transportation,120,Clergy

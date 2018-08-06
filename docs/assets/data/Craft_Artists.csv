@@ -1,0 +1,69 @@
+job_compared,job_selected,skills,difference,job_compared_name
+13,3,Programming,10,Craft_Artists
+36,32,Computers and Electronics,5,Craft_Artists
+33,19,Engineering and Technology,16,Craft_Artists
+25,25,Systems Analysis,3,Craft_Artists
+10,0,Science,14,Craft_Artists
+28,28,Systems Evaluation,5,Craft_Artists
+69,15,Design,60,Craft_Artists
+41,22,Operations Analysis,26,Craft_Artists
+22,16,Technology Design,14,Craft_Artists
+39,39,Mathematics,9,Craft_Artists
+44,47,Judgment and Decision Making,13,Craft_Artists
+28,25,Mathematics.1,14,Craft_Artists
+47,47,Complex Problem Solving,12,Craft_Artists
+28,28,Management of Personnel Resources,13,Craft_Artists
+50,28,Persuasion,36,Craft_Artists
+50,50,Critical Thinking,15,Craft_Artists
+28,31,Negotiation,19,Craft_Artists
+31,38,Learning Strategies,24,Craft_Artists
+6,38,Instructing,50,Craft_Artists
+41,62,English Language,40,Craft_Artists
+18,38,Telecommunications,40,Craft_Artists
+53,50,Speaking,24,Craft_Artists
+53,47,Active Listening,28,Craft_Artists
+47,44,Active Learning,26,Craft_Artists
+47,44,Writing,27,Craft_Artists
+38,41,Quality Control Analysis,28,Craft_Artists
+53,50,Reading Comprehension,29,Craft_Artists
+38,47,Coordination,36,Craft_Artists
+47,44,Service Orientation,31,Craft_Artists
+53,44,Social Perceptiveness,38,Craft_Artists
+0,16,Installation,46,Craft_Artists
+38,29,Communications and Media,40,Craft_Artists
+50,50,Monitoring,32,Craft_Artists
+31,25,Management of Financial Resources,39,Craft_Artists
+38,25,Management of Material Resources,47,Craft_Artists
+43,39,Administration and Management,39,Craft_Artists
+72,1,Fine Arts,107,Craft_Artists
+22,50,Troubleshooting,65,Craft_Artists
+12,24,Personnel and Human Resources,50,Craft_Artists
+24,5,History and Archeology,58,Craft_Artists
+12,6,Philosophy and Theology,46,Craft_Artists
+18,19,Physics,42,Craft_Artists
+3,7,Therapy and Counseling,46,Craft_Artists
+41,53,Time Management,55,Craft_Artists
+17,11,Sociology and Anthropology,50,Craft_Artists
+71,25,Sales and Marketing,91,Craft_Artists
+42,18,Economics and Accounting,70,Craft_Artists
+3,9,Biology,53,Craft_Artists
+35,31,Equipment Selection,52,Craft_Artists
+2,15,Foreign Language,62,Craft_Artists
+70,22,Production and Processing,98,Craft_Artists
+31,15,Building and Construction,67,Craft_Artists
+5,14,Medicine and Dentistry,61,Craft_Artists
+70,67,Customer and Personal Service,56,Craft_Artists
+0,16,Food Production,70,Craft_Artists
+24,46,Education and Training,77,Craft_Artists
+25,27,Chemistry,58,Craft_Artists
+16,30,Psychology,71,Craft_Artists
+43,32,Clerical,69,Craft_Artists
+15,39,Law and Government,83,Craft_Artists
+31,69,Operation Monitoring,98,Craft_Artists
+13,49,Geography,97,Craft_Artists
+22,47,Equipment Maintenance,87,Craft_Artists
+22,47,Repairing,88,Craft_Artists
+31,72,Operation and Control,105,Craft_Artists
+50,55,Mechanical,70,Craft_Artists
+19,68,Public Safety and Security,115,Craft_Artists
+36,75,Transportation,106,Craft_Artists

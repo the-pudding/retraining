@@ -1,0 +1,69 @@
+job_compared,job_selected,skills,difference,job_compared_name
+0,3,Programming,3,Fast_Food_Cooks
+27,32,Computers and Electronics,6,Fast_Food_Cooks
+22,19,Engineering and Technology,5,Fast_Food_Cooks
+19,25,Systems Analysis,9,Fast_Food_Cooks
+6,0,Science,10,Fast_Food_Cooks
+19,28,Systems Evaluation,14,Fast_Food_Cooks
+12,15,Design,9,Fast_Food_Cooks
+6,22,Operations Analysis,23,Fast_Food_Cooks
+3,16,Technology Design,21,Fast_Food_Cooks
+38,39,Mathematics,10,Fast_Food_Cooks
+35,47,Judgment and Decision Making,22,Fast_Food_Cooks
+28,25,Mathematics.1,14,Fast_Food_Cooks
+31,47,Complex Problem Solving,28,Fast_Food_Cooks
+25,28,Management of Personnel Resources,16,Fast_Food_Cooks
+31,28,Persuasion,17,Fast_Food_Cooks
+44,50,Critical Thinking,21,Fast_Food_Cooks
+35,31,Negotiation,20,Fast_Food_Cooks
+22,38,Learning Strategies,33,Fast_Food_Cooks
+35,38,Instructing,21,Fast_Food_Cooks
+50,62,English Language,31,Fast_Food_Cooks
+18,38,Telecommunications,40,Fast_Food_Cooks
+50,50,Speaking,21,Fast_Food_Cooks
+53,47,Active Listening,28,Fast_Food_Cooks
+35,44,Active Learning,32,Fast_Food_Cooks
+28,44,Writing,40,Fast_Food_Cooks
+28,41,Quality Control Analysis,38,Fast_Food_Cooks
+41,50,Reading Comprehension,35,Fast_Food_Cooks
+41,47,Coordination,33,Fast_Food_Cooks
+50,44,Service Orientation,34,Fast_Food_Cooks
+41,44,Social Perceptiveness,32,Fast_Food_Cooks
+0,16,Installation,46,Fast_Food_Cooks
+17,29,Communications and Media,43,Fast_Food_Cooks
+41,50,Monitoring,41,Fast_Food_Cooks
+13,25,Management of Financial Resources,45,Fast_Food_Cooks
+10,25,Management of Material Resources,49,Fast_Food_Cooks
+44,39,Administration and Management,40,Fast_Food_Cooks
+5,1,Fine Arts,40,Fast_Food_Cooks
+10,50,Troubleshooting,77,Fast_Food_Cooks
+39,24,Personnel and Human Resources,53,Fast_Food_Cooks
+8,5,History and Archeology,42,Fast_Food_Cooks
+8,6,Philosophy and Theology,42,Fast_Food_Cooks
+12,19,Physics,48,Fast_Food_Cooks
+7,7,Therapy and Counseling,42,Fast_Food_Cooks
+38,53,Time Management,58,Fast_Food_Cooks
+9,11,Sociology and Anthropology,46,Fast_Food_Cooks
+47,25,Sales and Marketing,67,Fast_Food_Cooks
+33,18,Economics and Accounting,61,Fast_Food_Cooks
+8,9,Biology,48,Fast_Food_Cooks
+6,31,Equipment Selection,73,Fast_Food_Cooks
+16,15,Foreign Language,50,Fast_Food_Cooks
+45,22,Production and Processing,73,Fast_Food_Cooks
+9,15,Building and Construction,57,Fast_Food_Cooks
+16,14,Medicine and Dentistry,54,Fast_Food_Cooks
+65,67,Customer and Personal Service,55,Fast_Food_Cooks
+50,16,Food Production,88,Fast_Food_Cooks
+35,46,Education and Training,66,Fast_Food_Cooks
+19,27,Chemistry,64,Fast_Food_Cooks
+22,30,Psychology,65,Fast_Food_Cooks
+17,32,Clerical,73,Fast_Food_Cooks
+22,39,Law and Government,76,Fast_Food_Cooks
+31,69,Operation Monitoring,98,Fast_Food_Cooks
+11,49,Geography,99,Fast_Food_Cooks
+0,47,Equipment Maintenance,109,Fast_Food_Cooks
+0,47,Repairing,110,Fast_Food_Cooks
+28,72,Operation and Control,108,Fast_Food_Cooks
+13,55,Mechanical,107,Fast_Food_Cooks
+43,68,Public Safety and Security,91,Fast_Food_Cooks
+12,75,Transportation,130,Fast_Food_Cooks

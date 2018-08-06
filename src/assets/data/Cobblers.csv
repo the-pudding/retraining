@@ -1,0 +1,69 @@
+job_compared,job_selected,skills,difference,job_compared_name
+0,3,Programming,3,Cobblers
+10,32,Computers and Electronics,23,Cobblers
+21,19,Engineering and Technology,4,Cobblers
+22,25,Systems Analysis,6,Cobblers
+3,0,Science,7,Cobblers
+3,28,Systems Evaluation,30,Cobblers
+19,15,Design,10,Cobblers
+19,22,Operations Analysis,10,Cobblers
+3,16,Technology Design,21,Cobblers
+45,39,Mathematics,15,Cobblers
+44,47,Judgment and Decision Making,13,Cobblers
+16,25,Mathematics.1,20,Cobblers
+35,47,Complex Problem Solving,24,Cobblers
+25,28,Management of Personnel Resources,16,Cobblers
+31,28,Persuasion,17,Cobblers
+47,50,Critical Thinking,18,Cobblers
+22,31,Negotiation,25,Cobblers
+3,38,Learning Strategies,52,Cobblers
+25,38,Instructing,31,Cobblers
+46,62,English Language,35,Cobblers
+20,38,Telecommunications,38,Cobblers
+47,50,Speaking,24,Cobblers
+50,47,Active Listening,25,Cobblers
+28,44,Active Learning,39,Cobblers
+22,44,Writing,46,Cobblers
+38,41,Quality Control Analysis,28,Cobblers
+38,50,Reading Comprehension,38,Cobblers
+38,47,Coordination,36,Cobblers
+38,44,Service Orientation,34,Cobblers
+44,44,Social Perceptiveness,29,Cobblers
+0,16,Installation,46,Cobblers
+8,29,Communications and Media,52,Cobblers
+44,50,Monitoring,38,Cobblers
+6,25,Management of Financial Resources,52,Cobblers
+13,25,Management of Material Resources,46,Cobblers
+39,39,Administration and Management,35,Cobblers
+6,1,Fine Arts,41,Cobblers
+19,50,Troubleshooting,68,Cobblers
+13,24,Personnel and Human Resources,49,Cobblers
+11,5,History and Archeology,45,Cobblers
+4,6,Philosophy and Theology,42,Cobblers
+3,19,Physics,57,Cobblers
+3,7,Therapy and Counseling,46,Cobblers
+38,53,Time Management,58,Cobblers
+8,11,Sociology and Anthropology,47,Cobblers
+29,25,Sales and Marketing,49,Cobblers
+29,18,Economics and Accounting,57,Cobblers
+5,9,Biology,51,Cobblers
+22,31,Equipment Selection,57,Cobblers
+21,15,Foreign Language,55,Cobblers
+38,22,Production and Processing,66,Cobblers
+12,15,Building and Construction,54,Cobblers
+6,14,Medicine and Dentistry,60,Cobblers
+52,67,Customer and Personal Service,68,Cobblers
+2,16,Food Production,68,Cobblers
+24,46,Education and Training,77,Cobblers
+16,27,Chemistry,67,Cobblers
+15,30,Psychology,72,Cobblers
+25,32,Clerical,65,Cobblers
+15,39,Law and Government,83,Cobblers
+44,69,Operation Monitoring,85,Cobblers
+6,49,Geography,104,Cobblers
+0,47,Equipment Maintenance,109,Cobblers
+3,47,Repairing,107,Cobblers
+35,72,Operation and Control,101,Cobblers
+42,55,Mechanical,78,Cobblers
+17,68,Public Safety and Security,117,Cobblers
+22,75,Transportation,120,Cobblers

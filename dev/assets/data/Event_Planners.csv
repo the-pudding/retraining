@@ -1,0 +1,69 @@
+job_compared,job_selected,skills,difference,job_compared_name
+10,3,Programming,7,Event_Planners
+57,32,Computers and Electronics,26,Event_Planners
+23,19,Engineering and Technology,6,Event_Planners
+56,25,Systems Analysis,34,Event_Planners
+6,0,Science,10,Event_Planners
+53,28,Systems Evaluation,30,Event_Planners
+32,15,Design,23,Event_Planners
+44,22,Operations Analysis,29,Event_Planners
+19,16,Technology Design,11,Event_Planners
+44,39,Mathematics,14,Event_Planners
+66,47,Judgment and Decision Making,29,Event_Planners
+38,25,Mathematics.1,24,Event_Planners
+66,47,Complex Problem Solving,31,Event_Planners
+56,28,Management of Personnel Resources,41,Event_Planners
+63,28,Persuasion,49,Event_Planners
+72,50,Critical Thinking,37,Event_Planners
+60,31,Negotiation,45,Event_Planners
+35,38,Learning Strategies,20,Event_Planners
+50,38,Instructing,30,Event_Planners
+81,62,English Language,38,Event_Planners
+45,38,Telecommunications,27,Event_Planners
+75,50,Speaking,46,Event_Planners
+75,47,Active Listening,50,Event_Planners
+60,44,Active Learning,39,Event_Planners
+63,44,Writing,43,Event_Planners
+31,41,Quality Control Analysis,35,Event_Planners
+75,50,Reading Comprehension,51,Event_Planners
+72,47,Coordination,52,Event_Planners
+72,44,Service Orientation,56,Event_Planners
+72,44,Social Perceptiveness,57,Event_Planners
+0,16,Installation,46,Event_Planners
+68,29,Communications and Media,70,Event_Planners
+63,50,Monitoring,45,Event_Planners
+50,25,Management of Financial Resources,58,Event_Planners
+47,25,Management of Material Resources,56,Event_Planners
+61,39,Administration and Management,57,Event_Planners
+29,1,Fine Arts,64,Event_Planners
+19,50,Troubleshooting,68,Event_Planners
+33,24,Personnel and Human Resources,47,Event_Planners
+19,5,History and Archeology,53,Event_Planners
+36,6,Philosophy and Theology,70,Event_Planners
+16,19,Physics,44,Event_Planners
+14,7,Therapy and Counseling,49,Event_Planners
+69,53,Time Management,59,Event_Planners
+27,11,Sociology and Anthropology,60,Event_Planners
+48,25,Sales and Marketing,68,Event_Planners
+43,18,Economics and Accounting,71,Event_Planners
+12,9,Biology,50,Event_Planners
+19,31,Equipment Selection,60,Event_Planners
+21,15,Foreign Language,55,Event_Planners
+14,22,Production and Processing,58,Event_Planners
+18,15,Building and Construction,54,Event_Planners
+19,14,Medicine and Dentistry,57,Event_Planners
+83,67,Customer and Personal Service,69,Event_Planners
+26,16,Food Production,64,Event_Planners
+38,46,Education and Training,63,Event_Planners
+16,27,Chemistry,67,Event_Planners
+45,30,Psychology,72,Event_Planners
+63,32,Clerical,89,Event_Planners
+50,39,Law and Government,70,Event_Planners
+25,69,Operation Monitoring,104,Event_Planners
+25,49,Geography,85,Event_Planners
+16,47,Equipment Maintenance,93,Event_Planners
+19,47,Repairing,91,Event_Planners
+25,72,Operation and Control,111,Event_Planners
+15,55,Mechanical,105,Event_Planners
+54,68,Public Safety and Security,80,Event_Planners
+46,75,Transportation,96,Event_Planners

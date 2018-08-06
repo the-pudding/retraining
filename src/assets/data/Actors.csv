@@ -1,0 +1,69 @@
+job_compared,job_selected,skills,difference,job_compared_name
+0,3,Programming,3,Actors
+31,32,Computers and Electronics,2,Actors
+4,19,Engineering and Technology,17,Actors
+25,25,Systems Analysis,3,Actors
+13,0,Science,17,Actors
+25,28,Systems Evaluation,8,Actors
+34,15,Design,25,Actors
+19,22,Operations Analysis,10,Actors
+6,16,Technology Design,18,Actors
+18,39,Mathematics,30,Actors
+47,47,Judgment and Decision Making,10,Actors
+0,25,Mathematics.1,36,Actors
+47,47,Complex Problem Solving,12,Actors
+35,28,Management of Personnel Resources,20,Actors
+38,28,Persuasion,24,Actors
+50,50,Critical Thinking,15,Actors
+38,31,Negotiation,23,Actors
+44,38,Learning Strategies,23,Actors
+44,38,Instructing,24,Actors
+83,62,English Language,40,Actors
+15,38,Telecommunications,43,Actors
+72,50,Speaking,43,Actors
+69,47,Active Listening,44,Actors
+41,44,Active Learning,26,Actors
+47,44,Writing,27,Actors
+0,41,Quality Control Analysis,66,Actors
+72,50,Reading Comprehension,48,Actors
+47,47,Coordination,27,Actors
+28,44,Service Orientation,44,Actors
+69,44,Social Perceptiveness,54,Actors
+0,16,Installation,46,Actors
+78,29,Communications and Media,80,Actors
+50,50,Monitoring,32,Actors
+0,25,Management of Financial Resources,58,Actors
+0,25,Management of Material Resources,59,Actors
+39,39,Administration and Management,35,Actors
+92,1,Fine Arts,127,Actors
+0,50,Troubleshooting,87,Actors
+25,24,Personnel and Human Resources,39,Actors
+40,5,History and Archeology,74,Actors
+38,6,Philosophy and Theology,72,Actors
+6,19,Physics,54,Actors
+31,7,Therapy and Counseling,66,Actors
+50,53,Time Management,46,Actors
+61,11,Sociology and Anthropology,94,Actors
+47,25,Sales and Marketing,67,Actors
+18,18,Economics and Accounting,46,Actors
+1,9,Biology,55,Actors
+0,31,Equipment Selection,79,Actors
+24,15,Foreign Language,58,Actors
+9,22,Production and Processing,63,Actors
+14,15,Building and Construction,52,Actors
+6,14,Medicine and Dentistry,60,Actors
+52,67,Customer and Personal Service,68,Actors
+0,16,Food Production,70,Actors
+43,46,Education and Training,58,Actors
+0,27,Chemistry,83,Actors
+57,30,Psychology,84,Actors
+30,32,Clerical,60,Actors
+13,39,Law and Government,85,Actors
+6,69,Operation Monitoring,123,Actors
+17,49,Geography,93,Actors
+0,47,Equipment Maintenance,109,Actors
+0,47,Repairing,110,Actors
+0,72,Operation and Control,136,Actors
+7,55,Mechanical,113,Actors
+30,68,Public Safety and Security,104,Actors
+14,75,Transportation,128,Actors

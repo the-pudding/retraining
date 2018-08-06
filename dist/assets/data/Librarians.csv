@@ -1,0 +1,69 @@
+job_compared,job_selected,skills,difference,job_compared_name
+6,3,Programming,3,Librarians
+74,32,Computers and Electronics,43,Librarians
+18,19,Engineering and Technology,3,Librarians
+53,25,Systems Analysis,31,Librarians
+16,0,Science,20,Librarians
+50,28,Systems Evaluation,27,Librarians
+22,15,Design,13,Librarians
+44,22,Operations Analysis,29,Librarians
+22,16,Technology Design,14,Librarians
+40,39,Mathematics,10,Librarians
+56,47,Judgment and Decision Making,19,Librarians
+25,25,Mathematics.1,11,Librarians
+53,47,Complex Problem Solving,18,Librarians
+47,28,Management of Personnel Resources,32,Librarians
+47,28,Persuasion,33,Librarians
+63,50,Critical Thinking,28,Librarians
+44,31,Negotiation,29,Librarians
+50,38,Learning Strategies,29,Librarians
+56,38,Instructing,36,Librarians
+83,62,English Language,40,Librarians
+26,38,Telecommunications,32,Librarians
+72,50,Speaking,43,Librarians
+75,47,Active Listening,50,Librarians
+53,44,Active Learning,32,Librarians
+69,44,Writing,49,Librarians
+3,41,Quality Control Analysis,63,Librarians
+78,50,Reading Comprehension,54,Librarians
+50,47,Coordination,30,Librarians
+53,44,Service Orientation,37,Librarians
+53,44,Social Perceptiveness,38,Librarians
+0,16,Installation,46,Librarians
+57,29,Communications and Media,59,Librarians
+60,50,Monitoring,42,Librarians
+41,25,Management of Financial Resources,49,Librarians
+41,25,Management of Material Resources,50,Librarians
+57,39,Administration and Management,53,Librarians
+17,1,Fine Arts,52,Librarians
+3,50,Troubleshooting,84,Librarians
+41,24,Personnel and Human Resources,55,Librarians
+39,5,History and Archeology,73,Librarians
+33,6,Philosophy and Theology,67,Librarians
+5,19,Physics,55,Librarians
+15,7,Therapy and Counseling,50,Librarians
+53,53,Time Management,43,Librarians
+40,11,Sociology and Anthropology,73,Librarians
+40,25,Sales and Marketing,60,Librarians
+34,18,Economics and Accounting,62,Librarians
+14,9,Biology,52,Librarians
+0,31,Equipment Selection,79,Librarians
+17,15,Foreign Language,51,Librarians
+26,22,Production and Processing,54,Librarians
+3,15,Building and Construction,63,Librarians
+9,14,Medicine and Dentistry,57,Librarians
+90,67,Customer and Personal Service,76,Librarians
+7,16,Food Production,63,Librarians
+73,46,Education and Training,82,Librarians
+12,27,Chemistry,71,Librarians
+45,30,Psychology,72,Librarians
+74,32,Clerical,100,Librarians
+41,39,Law and Government,61,Librarians
+22,69,Operation Monitoring,107,Librarians
+42,49,Geography,68,Librarians
+3,47,Equipment Maintenance,106,Librarians
+3,47,Repairing,107,Librarians
+0,72,Operation and Control,136,Librarians
+10,55,Mechanical,110,Librarians
+41,68,Public Safety and Security,93,Librarians
+7,75,Transportation,135,Librarians

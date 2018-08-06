@@ -1,0 +1,69 @@
+job_compared,job_selected,skills,difference,job_compared_name
+16,3,Programming,13,Art_Directors
+73,32,Computers and Electronics,42,Art_Directors
+24,19,Engineering and Technology,7,Art_Directors
+50,25,Systems Analysis,28,Art_Directors
+10,0,Science,14,Art_Directors
+47,28,Systems Evaluation,24,Art_Directors
+71,15,Design,62,Art_Directors
+50,22,Operations Analysis,35,Art_Directors
+19,16,Technology Design,11,Art_Directors
+29,39,Mathematics,19,Art_Directors
+72,47,Judgment and Decision Making,35,Art_Directors
+35,25,Mathematics.1,21,Art_Directors
+69,47,Complex Problem Solving,34,Art_Directors
+60,28,Management of Personnel Resources,45,Art_Directors
+60,28,Persuasion,46,Art_Directors
+69,50,Critical Thinking,34,Art_Directors
+50,31,Negotiation,35,Art_Directors
+50,38,Learning Strategies,29,Art_Directors
+50,38,Instructing,30,Art_Directors
+84,62,English Language,41,Art_Directors
+41,38,Telecommunications,23,Art_Directors
+75,50,Speaking,46,Art_Directors
+75,47,Active Listening,50,Art_Directors
+60,44,Active Learning,39,Art_Directors
+56,44,Writing,36,Art_Directors
+38,41,Quality Control Analysis,28,Art_Directors
+69,50,Reading Comprehension,45,Art_Directors
+66,47,Coordination,46,Art_Directors
+50,44,Service Orientation,34,Art_Directors
+60,44,Social Perceptiveness,45,Art_Directors
+0,16,Installation,46,Art_Directors
+79,29,Communications and Media,81,Art_Directors
+56,50,Monitoring,38,Art_Directors
+50,25,Management of Financial Resources,58,Art_Directors
+41,25,Management of Material Resources,50,Art_Directors
+66,39,Administration and Management,62,Art_Directors
+71,1,Fine Arts,106,Art_Directors
+22,50,Troubleshooting,65,Art_Directors
+41,24,Personnel and Human Resources,55,Art_Directors
+28,5,History and Archeology,62,Art_Directors
+23,6,Philosophy and Theology,57,Art_Directors
+6,19,Physics,54,Art_Directors
+16,7,Therapy and Counseling,51,Art_Directors
+72,53,Time Management,62,Art_Directors
+59,11,Sociology and Anthropology,92,Art_Directors
+86,25,Sales and Marketing,106,Art_Directors
+32,18,Economics and Accounting,60,Art_Directors
+9,9,Biology,47,Art_Directors
+19,31,Equipment Selection,60,Art_Directors
+11,15,Foreign Language,53,Art_Directors
+46,22,Production and Processing,74,Art_Directors
+14,15,Building and Construction,52,Art_Directors
+7,14,Medicine and Dentistry,59,Art_Directors
+71,67,Customer and Personal Service,57,Art_Directors
+4,16,Food Production,66,Art_Directors
+33,46,Education and Training,68,Art_Directors
+5,27,Chemistry,78,Art_Directors
+34,30,Psychology,61,Art_Directors
+49,32,Clerical,75,Art_Directors
+25,39,Law and Government,73,Art_Directors
+22,69,Operation Monitoring,107,Art_Directors
+22,49,Geography,88,Art_Directors
+19,47,Equipment Maintenance,90,Art_Directors
+19,47,Repairing,91,Art_Directors
+3,72,Operation and Control,133,Art_Directors
+12,55,Mechanical,108,Art_Directors
+9,68,Public Safety and Security,125,Art_Directors
+17,75,Transportation,125,Art_Directors

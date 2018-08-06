@@ -1,0 +1,69 @@
+job_compared,job_selected,skills,difference,job_compared_name
+0,3,Programming,3,Athletes
+41,32,Computers and Electronics,10,Athletes
+32,19,Engineering and Technology,15,Athletes
+28,25,Systems Analysis,6,Athletes
+19,0,Science,23,Athletes
+35,28,Systems Evaluation,12,Athletes
+32,15,Design,23,Athletes
+25,22,Operations Analysis,10,Athletes
+22,16,Technology Design,14,Athletes
+52,39,Mathematics,22,Athletes
+56,47,Judgment and Decision Making,19,Athletes
+28,25,Mathematics.1,14,Athletes
+50,47,Complex Problem Solving,15,Athletes
+47,28,Management of Personnel Resources,32,Athletes
+50,28,Persuasion,36,Athletes
+69,50,Critical Thinking,34,Athletes
+47,31,Negotiation,32,Athletes
+47,38,Learning Strategies,26,Athletes
+50,38,Instructing,30,Athletes
+67,62,English Language,24,Athletes
+33,38,Telecommunications,25,Athletes
+72,50,Speaking,43,Athletes
+69,47,Active Listening,44,Athletes
+50,44,Active Learning,29,Athletes
+44,44,Writing,24,Athletes
+25,41,Quality Control Analysis,41,Athletes
+53,50,Reading Comprehension,29,Athletes
+66,47,Coordination,46,Athletes
+47,44,Service Orientation,31,Athletes
+53,44,Social Perceptiveness,38,Athletes
+0,16,Installation,46,Athletes
+58,29,Communications and Media,60,Athletes
+56,50,Monitoring,38,Athletes
+16,25,Management of Financial Resources,42,Athletes
+19,25,Management of Material Resources,40,Athletes
+68,39,Administration and Management,64,Athletes
+10,1,Fine Arts,45,Athletes
+22,50,Troubleshooting,65,Athletes
+60,24,Personnel and Human Resources,74,Athletes
+16,5,History and Archeology,50,Athletes
+14,6,Philosophy and Theology,48,Athletes
+27,19,Physics,49,Athletes
+31,7,Therapy and Counseling,66,Athletes
+50,53,Time Management,46,Athletes
+27,11,Sociology and Anthropology,60,Athletes
+54,25,Sales and Marketing,74,Athletes
+47,18,Economics and Accounting,75,Athletes
+10,9,Biology,48,Athletes
+0,31,Equipment Selection,79,Athletes
+34,15,Foreign Language,68,Athletes
+35,22,Production and Processing,63,Athletes
+22,15,Building and Construction,58,Athletes
+17,14,Medicine and Dentistry,55,Athletes
+65,67,Customer and Personal Service,55,Athletes
+20,16,Food Production,58,Athletes
+56,46,Education and Training,65,Athletes
+22,27,Chemistry,61,Athletes
+37,30,Psychology,64,Athletes
+47,32,Clerical,73,Athletes
+26,39,Law and Government,72,Athletes
+35,69,Operation Monitoring,94,Athletes
+23,49,Geography,87,Athletes
+22,47,Equipment Maintenance,87,Athletes
+0,47,Repairing,110,Athletes
+19,72,Operation and Control,117,Athletes
+44,55,Mechanical,76,Athletes
+47,68,Public Safety and Security,87,Athletes
+36,75,Transportation,106,Athletes

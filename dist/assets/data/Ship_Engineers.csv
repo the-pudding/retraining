@@ -1,0 +1,69 @@
+job_compared,job_selected,skills,difference,job_compared_name
+19,3,Programming,16,Ship_Engineers
+47,32,Computers and Electronics,16,Ship_Engineers
+59,19,Engineering and Technology,42,Ship_Engineers
+50,25,Systems Analysis,28,Ship_Engineers
+38,0,Science,42,Ship_Engineers
+47,28,Systems Evaluation,24,Ship_Engineers
+42,15,Design,33,Ship_Engineers
+19,22,Operations Analysis,10,Ship_Engineers
+19,16,Technology Design,11,Ship_Engineers
+56,39,Mathematics,26,Ship_Engineers
+53,47,Judgment and Decision Making,16,Ship_Engineers
+28,25,Mathematics.1,14,Ship_Engineers
+63,47,Complex Problem Solving,28,Ship_Engineers
+47,28,Management of Personnel Resources,32,Ship_Engineers
+25,28,Persuasion,17,Ship_Engineers
+72,50,Critical Thinking,37,Ship_Engineers
+25,31,Negotiation,22,Ship_Engineers
+41,38,Learning Strategies,20,Ship_Engineers
+44,38,Instructing,24,Ship_Engineers
+59,62,English Language,22,Ship_Engineers
+37,38,Telecommunications,21,Ship_Engineers
+63,50,Speaking,34,Ship_Engineers
+63,47,Active Listening,38,Ship_Engineers
+50,44,Active Learning,29,Ship_Engineers
+53,44,Writing,33,Ship_Engineers
+53,41,Quality Control Analysis,37,Ship_Engineers
+56,50,Reading Comprehension,32,Ship_Engineers
+50,47,Coordination,30,Ship_Engineers
+41,44,Service Orientation,31,Ship_Engineers
+47,44,Social Perceptiveness,32,Ship_Engineers
+35,16,Installation,49,Ship_Engineers
+27,29,Communications and Media,33,Ship_Engineers
+66,50,Monitoring,48,Ship_Engineers
+19,25,Management of Financial Resources,39,Ship_Engineers
+25,25,Management of Material Resources,34,Ship_Engineers
+60,39,Administration and Management,56,Ship_Engineers
+0,1,Fine Arts,37,Ship_Engineers
+69,50,Troubleshooting,56,Ship_Engineers
+20,24,Personnel and Human Resources,42,Ship_Engineers
+1,5,History and Archeology,43,Ship_Engineers
+5,6,Philosophy and Theology,41,Ship_Engineers
+44,19,Physics,66,Ship_Engineers
+7,7,Therapy and Counseling,42,Ship_Engineers
+50,53,Time Management,46,Ship_Engineers
+3,11,Sociology and Anthropology,52,Ship_Engineers
+17,25,Sales and Marketing,53,Ship_Engineers
+31,18,Economics and Accounting,59,Ship_Engineers
+11,9,Biology,49,Ship_Engineers
+53,31,Equipment Selection,70,Ship_Engineers
+3,15,Foreign Language,61,Ship_Engineers
+22,22,Production and Processing,50,Ship_Engineers
+33,15,Building and Construction,69,Ship_Engineers
+29,14,Medicine and Dentistry,67,Ship_Engineers
+43,67,Customer and Personal Service,77,Ship_Engineers
+5,16,Food Production,65,Ship_Engineers
+39,46,Education and Training,62,Ship_Engineers
+46,27,Chemistry,75,Ship_Engineers
+29,30,Psychology,58,Ship_Engineers
+42,32,Clerical,68,Ship_Engineers
+48,39,Law and Government,68,Ship_Engineers
+72,69,Operation Monitoring,63,Ship_Engineers
+30,49,Geography,80,Ship_Engineers
+69,47,Equipment Maintenance,84,Ship_Engineers
+66,47,Repairing,82,Ship_Engineers
+72,72,Operation and Control,64,Ship_Engineers
+83,55,Mechanical,93,Ship_Engineers
+55,68,Public Safety and Security,79,Ship_Engineers
+57,75,Transportation,85,Ship_Engineers

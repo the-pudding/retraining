@@ -1,0 +1,69 @@
+job_compared,job_selected,skills,difference,job_compared_name
+16,3,Programming,13,Travel_Guides
+40,32,Computers and Electronics,9,Travel_Guides
+2,19,Engineering and Technology,19,Travel_Guides
+44,25,Systems Analysis,22,Travel_Guides
+6,0,Science,10,Travel_Guides
+38,28,Systems Evaluation,15,Travel_Guides
+5,15,Design,16,Travel_Guides
+25,22,Operations Analysis,10,Travel_Guides
+16,16,Technology Design,8,Travel_Guides
+42,39,Mathematics,12,Travel_Guides
+53,47,Judgment and Decision Making,16,Travel_Guides
+44,25,Mathematics.1,30,Travel_Guides
+53,47,Complex Problem Solving,18,Travel_Guides
+44,28,Management of Personnel Resources,29,Travel_Guides
+63,28,Persuasion,49,Travel_Guides
+56,50,Critical Thinking,21,Travel_Guides
+53,31,Negotiation,38,Travel_Guides
+47,38,Learning Strategies,26,Travel_Guides
+47,38,Instructing,27,Travel_Guides
+52,62,English Language,29,Travel_Guides
+20,38,Telecommunications,38,Travel_Guides
+72,50,Speaking,43,Travel_Guides
+72,47,Active Listening,47,Travel_Guides
+47,44,Active Learning,26,Travel_Guides
+53,44,Writing,33,Travel_Guides
+16,41,Quality Control Analysis,50,Travel_Guides
+56,50,Reading Comprehension,32,Travel_Guides
+66,47,Coordination,46,Travel_Guides
+69,44,Service Orientation,53,Travel_Guides
+63,44,Social Perceptiveness,48,Travel_Guides
+0,16,Installation,46,Travel_Guides
+36,29,Communications and Media,38,Travel_Guides
+47,50,Monitoring,35,Travel_Guides
+38,25,Management of Financial Resources,46,Travel_Guides
+38,25,Management of Material Resources,47,Travel_Guides
+65,39,Administration and Management,61,Travel_Guides
+32,1,Fine Arts,67,Travel_Guides
+0,50,Troubleshooting,87,Travel_Guides
+43,24,Personnel and Human Resources,57,Travel_Guides
+44,5,History and Archeology,78,Travel_Guides
+33,6,Philosophy and Theology,67,Travel_Guides
+0,19,Physics,60,Travel_Guides
+13,7,Therapy and Counseling,48,Travel_Guides
+53,53,Time Management,43,Travel_Guides
+36,11,Sociology and Anthropology,69,Travel_Guides
+86,25,Sales and Marketing,106,Travel_Guides
+50,18,Economics and Accounting,78,Travel_Guides
+3,9,Biology,53,Travel_Guides
+13,31,Equipment Selection,66,Travel_Guides
+35,15,Foreign Language,69,Travel_Guides
+32,22,Production and Processing,60,Travel_Guides
+2,15,Building and Construction,64,Travel_Guides
+9,14,Medicine and Dentistry,57,Travel_Guides
+86,67,Customer and Personal Service,72,Travel_Guides
+2,16,Food Production,68,Travel_Guides
+37,46,Education and Training,64,Travel_Guides
+2,27,Chemistry,81,Travel_Guides
+17,30,Psychology,70,Travel_Guides
+67,32,Clerical,93,Travel_Guides
+26,39,Law and Government,72,Travel_Guides
+31,69,Operation Monitoring,98,Travel_Guides
+70,49,Geography,82,Travel_Guides
+0,47,Equipment Maintenance,109,Travel_Guides
+0,47,Repairing,110,Travel_Guides
+28,72,Operation and Control,108,Travel_Guides
+5,55,Mechanical,115,Travel_Guides
+37,68,Public Safety and Security,97,Travel_Guides
+63,75,Transportation,79,Travel_Guides

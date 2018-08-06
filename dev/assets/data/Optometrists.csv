@@ -1,0 +1,69 @@
+job_compared,job_selected,skills,difference,job_compared_name
+16,3,Programming,13,Optometrists
+41,32,Computers and Electronics,10,Optometrists
+22,19,Engineering and Technology,5,Optometrists
+47,25,Systems Analysis,25,Optometrists
+69,0,Science,73,Optometrists
+50,28,Systems Evaluation,27,Optometrists
+14,15,Design,7,Optometrists
+28,22,Operations Analysis,13,Optometrists
+22,16,Technology Design,14,Optometrists
+68,39,Mathematics,38,Optometrists
+60,47,Judgment and Decision Making,23,Optometrists
+50,25,Mathematics.1,36,Optometrists
+60,47,Complex Problem Solving,25,Optometrists
+47,28,Management of Personnel Resources,32,Optometrists
+53,28,Persuasion,39,Optometrists
+75,50,Critical Thinking,40,Optometrists
+44,31,Negotiation,29,Optometrists
+44,38,Learning Strategies,23,Optometrists
+50,38,Instructing,30,Optometrists
+71,62,English Language,28,Optometrists
+18,38,Telecommunications,40,Optometrists
+72,50,Speaking,43,Optometrists
+75,47,Active Listening,50,Optometrists
+60,44,Active Learning,39,Optometrists
+66,44,Writing,46,Optometrists
+38,41,Quality Control Analysis,28,Optometrists
+66,50,Reading Comprehension,42,Optometrists
+56,47,Coordination,36,Optometrists
+60,44,Service Orientation,44,Optometrists
+63,44,Social Perceptiveness,48,Optometrists
+0,16,Installation,46,Optometrists
+32,29,Communications and Media,34,Optometrists
+53,50,Monitoring,35,Optometrists
+28,25,Management of Financial Resources,36,Optometrists
+31,25,Management of Material Resources,40,Optometrists
+65,39,Administration and Management,61,Optometrists
+1,1,Fine Arts,36,Optometrists
+25,50,Troubleshooting,62,Optometrists
+56,24,Personnel and Human Resources,70,Optometrists
+6,5,History and Archeology,40,Optometrists
+14,6,Philosophy and Theology,48,Optometrists
+52,19,Physics,74,Optometrists
+51,7,Therapy and Counseling,86,Optometrists
+50,53,Time Management,46,Optometrists
+33,11,Sociology and Anthropology,66,Optometrists
+57,25,Sales and Marketing,77,Optometrists
+53,18,Economics and Accounting,81,Optometrists
+83,9,Biology,121,Optometrists
+10,31,Equipment Selection,69,Optometrists
+21,15,Foreign Language,55,Optometrists
+35,22,Production and Processing,63,Optometrists
+1,15,Building and Construction,65,Optometrists
+93,14,Medicine and Dentistry,131,Optometrists
+88,67,Customer and Personal Service,74,Optometrists
+0,16,Food Production,70,Optometrists
+48,46,Education and Training,57,Optometrists
+59,27,Chemistry,88,Optometrists
+72,30,Psychology,99,Optometrists
+52,32,Clerical,78,Optometrists
+49,39,Law and Government,69,Optometrists
+25,69,Operation Monitoring,104,Optometrists
+11,49,Geography,99,Optometrists
+0,47,Equipment Maintenance,109,Optometrists
+0,47,Repairing,110,Optometrists
+31,72,Operation and Control,105,Optometrists
+20,55,Mechanical,100,Optometrists
+41,68,Public Safety and Security,93,Optometrists
+13,75,Transportation,129,Optometrists

@@ -1,0 +1,683 @@
+,Occupation,Automatability,Wage,Employment,Job_Compared,wage_Compensation_and_Benefits_Managers,similar_Compensation_and_Benefits_Managers,empl_Compensation_and_Benefits_Managers,auto_Compensation_and_Benefits_Managers
+0,Recreational Therapists,0.0028,48190,18100,Recreational Therapists,1.63332641627,0.338238973,0.841436464088,0.96
+1,"First-Line Supervisors of Mechanics, Installers, and Repairers",0.003,66730,453330,"First-Line Supervisors of Mechanics, Installers, and Repairers",0.901693391278,0.21124534,0.1,0.96
+2,Emergency Management Directors,0.003,78060,9570,Emergency Management Directors,0.62567255957,0.352727883,1.0,0.96
+3,Mental Health and Substance Abuse Social Workers,0.0031,47880,114040,Mental Health and Substance Abuse Social Workers,1.65037593985,0.323835191,0.133549631708,0.96
+4,Audiologists,0.0033,79290,12310,Audiologists,0.600454029512,0.298103394,1.0,0.96
+5,Occupational Therapists,0.0035,83730,118070,Occupational Therapists,0.515585811537,0.288901336,0.128991276361,0.96
+6,Orthotists and Prosthetists,0.0035,69920,7500,Orthotists and Prosthetists,0.814931350114,0.237864626,1.0,0.96
+7,Healthcare Social Workers,0.0035,55510,159310,Healthcare Social Workers,1.28607458116,0.304711613,0.1,0.96
+8,Oral and Maxillofacial Surgeons,0.0036,232870,5380,Oral and Maxillofacial Surgeons,-0.455060763516,0.247966363,1.0,0.96
+9,First-Line Supervisors of Fire Fighting and Prevention Workers,0.0036,77050,57170,First-Line Supervisors of Fire Fighting and Prevention Workers,0.64698247891,0.233742005,0.266398460731,0.96
+10,Dietitians and Nutritionists,0.0039,59670,61430,Dietitians and Nutritionists,1.12669683258,0.31016419,0.247924466873,0.96
+11,Lodging Managers,0.0039,59410,35410,Lodging Managers,1.13600403972,0.320473658,0.430104490257,0.96
+12,Choreographers,0.004,53610,5160,Choreographers,1.3670956911,0.301825628,1.0,0.96
+13,Sales Engineers,0.0041,108880,74330,Sales Engineers,0.165503306392,0.337348064,0.204897080587,0.96
+14,Instructional Coordinators,0.0042,65500,147330,Instructional Coordinators,0.937404580153,0.36392536,0.103373379488,0.96
+15,"Psychologists, All Other",0.0043,94650,13310,"Psychologists, All Other",0.340729001585,0.285987229,1.0,0.96
+16,First-Line Supervisors of Police and Detectives,0.0044,88400,100200,First-Line Supervisors of Police and Detectives,0.435520361991,0.360438964,0.151996007984,0.96
+17,"Dentists, General",0.0044,173860,105620,"Dentists, General",-0.270102381226,0.273704237,0.144196174967,0.96
+18,"Elementary School Teachers, Except Special Education",0.0044,59020,1392660,"Elementary School Teachers, Except Special Education",1.15011860386,0.314427264,0.1,0.96
+19,"Medical Scientists, Except Epidemiologists",0.0045,95000,108870,"Medical Scientists, Except Epidemiologists",0.335789473684,0.295865651,0.139891613851,0.96
+20,"Education Administrators, Elementary and Secondary School",0.0046,95390,242970,"Education Administrators, Elementary and Secondary School",0.330328126638,0.33658391,0.1,0.96
+21,Podiatrists,0.0046,144110,9800,Podiatrists,-0.119422663243,0.304196888,1.0,0.96
+22,"Clinical, Counseling, and School Psychologists",0.0047,78690,107980,"Clinical, Counseling, and School Psychologists",0.612657262676,0.337756499,0.141044637896,0.96
+23,Mental Health Counselors,0.0048,46050,139820,Mental Health Counselors,1.75570032573,0.29114019,0.108925761694,0.96
+24,Fabric and Apparel Patternmakers,0.0049,48460,5310,Fabric and Apparel Patternmakers,1.61865456046,0.272059012,1.0,0.96
+25,Set and Exhibit Designers,0.0055,57600,12060,Set and Exhibit Designers,1.203125,0.223669676,1.0,0.96
+26,Human Resources Managers,0.0055,120210,129810,Human Resources Managers,0.0556526079361,0.647516699,0.117325321624,0.96
+27,Recreation Workers,0.0061,27230,336880,Recreation Workers,3.66030113845,0.401761984,0.1,0.96
+28,Training and Development Managers,0.0063,115180,32880,Training and Development Managers,0.101753776697,0.479181805,0.463199513382,0.96
+29,Speech-Language Pathologists,0.0064,78210,135980,Speech-Language Pathologists,0.622554660529,0.33594524,0.112001764965,0.96
+30,Computer Systems Analysts,0.0065,91620,568960,Computer Systems Analysts,0.385068762279,0.357199608,0.1,0.96
+31,Social and Community Service Managers,0.0067,70870,126230,Social and Community Service Managers,0.790602511641,0.38528894,0.120652776677,0.96
+32,Curators,0.0068,58910,11170,Curators,1.15413342387,0.358588289,1.0,0.96
+33,Athletic Trainers,0.0071,47880,24130,Athletic Trainers,1.65037593985,0.294454241,0.631164525487,0.96
+34,Medical and Health Services Managers,0.0073,109370,332150,Medical and Health Services Managers,0.160281612874,0.523096903,0.1,0.96
+35,"Preschool Teachers, Except Special Education",0.0074,33300,385550,"Preschool Teachers, Except Special Education",2.81081081081,0.347298219,0.1,0.96
+36,Farm and Home Management Advisors,0.0075,52150,8620,Farm and Home Management Advisors,1.43336529243,0.299302491,1.0,0.96
+37,Anthropologists and Archeologists,0.0077,66440,6470,Anthropologists and Archeologists,0.90999397953,0.264014778,1.0,0.96
+38,"Special Education Teachers, Secondary School",0.0077,64020,132490,"Special Education Teachers, Secondary School",0.982193064667,0.369017638,0.114952071854,0.96
+39,"Secondary School Teachers, Except Special and Career/Technical Education",0.0078,61420,1003250,"Secondary School Teachers, Except Special and Career/Technical Education",1.06610224683,0.355945296,0.1,0.96
+40,Clergy,0.0081,49450,49320,Clergy,1.56622851365,0.317019998,0.308799675588,0.96
+41,Foresters,0.0081,60300,8420,Foresters,1.10447761194,0.325663345,1.0,0.96
+42,"Educational, Guidance, School, and Vocational Counselors",0.0085,57620,260670,"Educational, Guidance, School, and Vocational Counselors",1.20236029157,0.316942277,0.1,0.96
+43,"Career/Technical Education Teachers, Secondary School",0.0088,59480,80100,"Career/Technical Education Teachers, Secondary School",1.13349024882,0.339156788,0.19013732834,0.96
+44,Registered Nurses,0.009,72180,18100,Registered Nurses,0.758104738155,0.299374378,0.841436464088,0.96
+45,Rehabilitation Counselors,0.0094,38740,103030,Rehabilitation Counselors,2.2756840475,0.394089815,0.147821023003,0.96
+46,Forensic Science Technicians,0.0095,60690,14800,Forensic Science Technicians,1.09095402867,0.263923959,1.0,0.96
+47,"Makeup Artists, Theatrical and Performance",0.01,71590,3600,"Makeup Artists, Theatrical and Performance",0.772593937701,0.346951056,1.0,0.96
+48,Marine Engineers and Naval Architects,0.01,99860,8120,Marine Engineers and Naval Architects,0.270779090727,0.214335145,1.0,0.96
+49,"Education Administrators, Postsecondary",0.01,105770,138430,"Education Administrators, Postsecondary",0.199773092559,0.466863586,0.110019504443,0.96
+50,Mechanical Engineers,0.011,89800,285790,Mechanical Engineers,0.413140311804,0.148769171,0.1,0.96
+51,Pharmacists,0.012,120270,305510,Pharmacists,0.0551259665752,0.327328817,0.1,0.96
+52,Logisticians,0.012,77810,146060,Logisticians,0.630895771752,0.387981409,0.104272216897,0.96
+53,Microbiologists,0.012,76850,21670,Microbiologists,0.65126870527,0.27207639,0.702814951546,0.96
+54,Industrial-Organizational Psychologists,0.012,104570,1020,Industrial-Organizational Psychologists,0.213541168595,0.435953434,1.0,0.96
+55,Coaches and Scouts,0.013,41000,230930,Coaches and Scouts,2.09512195122,0.408842887,0.1,0.96
+56,Sales Managers,0.013,135090,365230,Sales Managers,-0.0606262491672,0.432240019,0.1,0.96
+57,Hydrologists,0.014,83740,6300,Hydrologists,0.515404824457,0.206896152,1.0,0.96
+58,Marketing Managers,0.014,144140,205900,Marketing Managers,-0.119605938671,0.427466366,0.1,0.96
+59,Marriage and Family Therapists,0.014,54090,36960,Marriage and Family Therapists,1.34608985025,0.311119151,0.412067099567,0.96
+60,"Engineers, All Other",0.014,99250,123390,"Engineers, All Other",0.278589420655,0.225446261,0.123429775509,0.96
+61,Training and Development Specialists,0.014,63350,269710,Training and Development Specialists,1.00315706393,0.466069425,0.1,0.96
+62,First-Line Supervisors of Office and Administrative Support Workers,0.014,57890,1443150,First-Line Supervisors of Office and Administrative Support Workers,1.1920884436,0.575154959,0.1,0.96
+63,"Biological Scientists, All Other",0.015,77830,35110,"Biological Scientists, All Other",0.630476679943,0.282912945,0.433779549986,0.96
+64,Public Relations and Fundraising Managers,0.015,123360,63970,Public Relations and Fundraising Managers,0.0286964980545,0.498213757,0.238080350164,0.96
+65,Multimedia Artists and Animators,0.015,72200,29810,Multimedia Artists and Animators,0.757617728532,0.306060795,0.510902381751,0.96
+66,Computer and Information Research Scientists,0.015,116320,26580,Computer and Information Research Scientists,0.0909559834938,0.302215805,0.572987208427,0.96
+67,Chief Executives,0.015,194350,223260,Chief Executives,-0.347054283509,0.456096319,0.1,0.96
+68,"Education Administrators, Preschool and Childcare Center/Program",0.015,52150,48530,"Education Administrators, Preschool and Childcare Center/Program",1.43336529243,0.478516448,0.313826499073,0.96
+69,Music Directors and Composers,0.015,60630,18380,Music Directors and Composers,1.09302325581,0.368369249,0.828618063112,0.96
+70,First-Line Supervisors of Production and Operating Workers,0.016,61450,610480,First-Line Supervisors of Production and Operating Workers,1.06509357201,0.320574139,0.1,0.96
+71,"Securities, Commodities, and Financial Services Sales Agents",0.016,102260,353780,"Securities, Commodities, and Financial Services Sales Agents",0.240954429885,0.530156742,0.1,0.96
+72,Conservation Scientists,0.016,65130,20470,Conservation Scientists,0.948410870567,0.322705091,0.744015632633,0.96
+73,"Special Education Teachers, Middle School",0.016,61910,90250,"Special Education Teachers, Middle School",1.04974963657,0.345407406,0.168753462604,0.96
+74,Chemical Engineers,0.017,105420,31990,Chemical Engineers,0.20375640296,0.137891506,0.476086276962,0.96
+75,Architectural and Engineering Managers,0.017,143870,178390,Architectural and Engineering Managers,-0.117953708209,0.255349382,0.1,0.96
+76,Aerospace Engineers,0.017,112010,68510,Aerospace Engineers,0.132934559414,0.207548449,0.222303313385,0.96
+77,Natural Sciences Managers,0.018,136150,54780,Natural Sciences Managers,-0.06793977231,0.384782886,0.278021175612,0.96
+78,Environmental Engineers,0.018,88530,52280,Environmental Engineers,0.433412402575,0.198914062,0.291315990819,0.96
+79,"Architects, Except Landscape and Naval",0.018,84470,99860,"Architects, Except Landscape and Naval",0.502308511898,0.233095057,0.152513518926,0.96
+80,Physical Therapist Assistants,0.018,56850,85580,Physical Therapist Assistants,1.23218997361,0.317416088,0.177962140687,0.96
+81,Civil Engineers,0.019,89730,287800,Civil Engineers,0.414242728185,0.239654373,0.1,0.96
+82,"Health Diagnosing and Treating Practitioners, All Other",0.02,84800,36280,"Health Diagnosing and Treating Practitioners, All Other",0.496462264151,0.311633031,0.419790518192,0.96
+83,Soil and Plant Scientists,0.021,69290,14690,Soil and Plant Scientists,0.83143310723,0.267125944,1.0,0.96
+84,Materials Scientists,0.021,101570,7750,Materials Scientists,0.249384660825,0.204408668,1.0,0.96
+85,Materials Engineers,0.021,97050,26800,Materials Engineers,0.307573415765,0.195065362,0.56828358209,0.96
+86,Fashion Designers,0.021,76480,19230,Fashion Designers,0.659257322176,0.411221214,0.791991679667,0.96
+87,Physical Therapists,0.021,87220,216920,Physical Therapists,0.454941527173,0.287917503,0.1,0.96
+88,Photographers,0.021,42640,48660,Photographers,1.97607879925,0.312555734,0.312988080559,0.96
+89,Producers and Directors,0.022,93840,114510,Producers and Directors,0.352301790281,0.418708734,0.133001484586,0.96
+90,Interior Designers,0.022,56220,53160,Interior Designers,1.25720384205,0.272935363,0.286493604214,0.96
+91,Orthodontists,0.023,228780,5200,Orthodontists,-0.445318646735,0.297266499,1.0,0.96
+92,Art Directors,0.023,101170,36210,Art Directors,0.254324404468,0.325340516,0.420602043634,0.96
+93,First-Line Supervisors of Correctional Officers,0.025,65100,43230,First-Line Supervisors of Correctional Officers,0.94930875576,0.40427439,0.352301642378,0.96
+94,"Directors, Religious Activities and Education",0.025,44840,20590,"Directors, Religious Activities and Education",1.83006244425,0.376735191,0.739679456047,0.96
+95,"Electronics Engineers, Except Computer",0.025,103760,132100,"Electronics Engineers, Except Computer",0.22301464919,0.17883912,0.115291445874,0.96
+96,Biochemists and Biophysicists,0.027,94340,29200,Biochemists and Biophysicists,0.345134619462,0.190104767,0.521575342466,0.96
+97,Chiropractors,0.027,81210,32960,Chiropractors,0.562615441448,0.326524026,0.462075242718,0.96
+98,Occupational Therapy Assistants,0.028,59530,38170,Occupational Therapy Assistants,1.13169830338,0.337789206,0.399004453759,0.96
+99,"Child, Family, and School Social Workers",0.028,47510,298840,"Child, Family, and School Social Workers",1.67101662808,0.335515348,0.1,0.96
+100,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",0.028,90190,25410,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",0.407029604169,0.217806984,0.599370326643,0.96
+101,Industrial Engineers,0.029,88530,256550,Industrial Engineers,0.433412402575,0.265325226,0.1,0.96
+102,First-Line Supervisors of Transportation and Material-Moving Machine and Vehicle Operators,0.029,59800,202760,First-Line Supervisors of Transportation and Material-Moving Machine and Vehicle Operators,1.1220735786,0.391726897,0.1,0.96
+103,Veterinary Technologists and Technicians,0.029,33870,99390,Veterinary Technologists and Technicians,2.74667847653,0.317359461,0.153234731864,0.96
+104,Industrial Production Managers,0.03,107060,168400,Industrial Production Managers,0.185316644872,0.327521209,0.1,0.96
+105,Industrial Engineering Technicians,0.03,56920,63220,Industrial Engineering Technicians,1.22944483486,0.222024817,0.240904776969,0.96
+106,Network and Computer Systems Administrators,0.03,84500,376820,Network and Computer Systems Administrators,0.501775147929,0.231627383,0.1,0.96
+107,Database Administrators,0.03,87130,113730,Database Administrators,0.456444393435,0.343436944,0.133913655148,0.96
+108,Purchasing Managers,0.03,117720,71750,Purchasing Managers,0.0779816513761,0.416043372,0.212264808362,0.96
+109,"Environmental Scientists and Specialists, Including Health",0.033,75360,84250,"Environmental Scientists and Specialists, Including Health",0.683917197452,0.278647368,0.180771513353,0.96
+110,Substance Abuse and Behavioral Disorder Counselors,0.033,44160,91040,Substance Abuse and Behavioral Disorder Counselors,1.87364130435,0.304110101,0.167289103691,0.96
+111,Lawyers,0.035,139880,619530,Lawyers,-0.0927938232771,0.592421278,0.1,0.96
+112,Craft Artists,0.035,38900,5070,Craft Artists,2.26221079692,0.213541119,1.0,0.96
+113,Operations Research Analysts,0.035,84340,109150,Operations Research Analysts,0.504624140384,0.339460955,0.139532753092,0.96
+114,Computer and Information Systems Managers,0.035,145740,352510,Computer and Information Systems Managers,-0.129271305064,0.424251975,0.1,0.96
+115,Commercial and Industrial Designers,0.037,70880,31860,Commercial and Industrial Designers,0.790349887133,0.206865757,0.478028876334,0.96
+116,Biomedical Engineers,0.037,89970,20590,Biomedical Engineers,0.410470156719,0.138487644,0.739679456047,0.96
+117,"Meeting, Convention, and Event Planners",0.037,52020,95850,"Meeting, Convention, and Event Planners",1.43944636678,0.419553489,0.158894105373,0.96
+118,Veterinarians,0.038,100560,67650,Veterinarians,0.261933174224,0.298070899,0.225129342203,0.96
+119,Writers and Authors,0.038,71920,44690,Writers and Authors,0.76446051168,0.358127978,0.340792123518,0.96
+120,Advertising and Promotions Managers,0.039,117810,28860,Advertising and Promotions Managers,0.0771581359817,0.412586961,0.52772002772,0.96
+121,Political Scientists,0.039,112250,6350,Political Scientists,0.130512249443,0.376652372,1.0,0.96
+122,Credit Counselors,0.04,49480,34110,Credit Counselors,1.56467259499,0.462408795,0.446496628555,0.96
+123,"Social Scientists and Related Workers, All Other",0.04,80860,36380,"Social Scientists and Related Workers, All Other",0.569379173881,0.304030021,0.418636613524,0.96
+124,Astronomers,0.041,110380,1830,Astronomers,0.149664794347,0.234415328,1.0,0.96
+125,Ship Engineers,0.041,74120,9750,Ship Engineers,0.712088505127,0.158556165,1.0,0.96
+126,"Software Developers, Applications",0.042,104300,794000,"Software Developers, Applications",0.216682646213,0.251794504,0.1,0.96
+127,"Fine Artists, Including Painters, Sculptors, and Illustrators",0.042,57410,11520,"Fine Artists, Including Painters, Sculptors, and Illustrators",1.21041630378,0.240378284,1.0,0.96
+128,Psychiatric Technicians,0.043,35870,61720,Psychiatric Technicians,2.53777529969,0.379252598,0.2467595593,0.96
+129,Landscape Architects,0.045,68820,19420,Landscape Architects,0.843940714908,0.230169172,0.784243048404,0.96
+130,Health Educators,0.045,57900,57570,Health Educators,1.19170984456,0.396869768,0.264547507382,0.96
+131,Mathematicians,0.047,105600,2730,Mathematicians,0.201704545455,0.298799921,1.0,0.96
+132,Floral Designers,0.047,27610,43990,Floral Designers,3.5961608113,0.325817585,0.346215048875,0.96
+133,"Farmers, Ranchers, and Other Agricultural Managers",0.047,75790,4560,"Farmers, Ranchers, and Other Agricultural Managers",0.674363372477,0.251719197,1.0,0.96
+134,Forest Fire Inspectors and Prevention Specialists,0.048,44300,1650,Forest Fire Inspectors and Prevention Specialists,1.86455981941,0.289983503,1.0,0.96
+135,Emergency Medical Technicians and Paramedics,0.049,36110,244960,Emergency Medical Technicians and Paramedics,2.51426197729,0.203636906,0.1,0.96
+136,Editors,0.055,66080,97170,Editors,0.920399515738,0.386102911,0.156735617989,0.96
+137,Prosthodontists,0.055,168140,750,Prosthodontists,-0.245271797312,0.234018437,1.0,0.96
+138,Travel Guides,0.057,35930,3030,Travel Guides,2.53186752018,0.34143627,1.0,0.96
+139,Licensed Practical and Licensed Vocational Nurses,0.058,44840,702400,Licensed Practical and Licensed Vocational Nurses,1.83006244425,0.311712016,0.1,0.96
+140,Sociologists,0.059,86840,2870,Sociologists,0.461308152925,0.363447552,1.0,0.96
+141,"Arbitrators, Mediators, and Conciliators",0.06,72730,6300,"Arbitrators, Mediators, and Conciliators",0.744809569641,0.452052445,1.0,0.96
+142,Animal Scientists,0.061,72890,2470,Animal Scientists,0.740979558238,0.207648634,1.0,0.96
+143,Residential Advisors,0.064,27690,110330,Residential Advisors,3.58288190683,0.442310143,0.138040424182,0.96
+144,Aircraft Cargo Handling Supervisors,0.066,51900,7460,Aircraft Cargo Handling Supervisors,1.4450867052,0.281600699,1.0,0.96
+145,Respiratory Therapists,0.066,60640,126770,Respiratory Therapists,1.09267810026,0.256665884,0.120138834109,0.96
+146,Broadcast News Analysts,0.067,78200,5070,Broadcast News Analysts,0.622762148338,0.329708195,1.0,0.96
+147,Financial Managers,0.069,139720,543300,Financial Managers,-0.0917549384483,0.76323576,0.1,0.96
+148,Nuclear Engineers,0.07,105950,17680,Nuclear Engineers,0.197734780557,0.176075076,0.861425339367,0.96
+149,Construction Managers,0.071,99510,249650,Construction Managers,0.275248718722,0.275979515,0.1,0.96
+150,Musicians and Singers,0.074,61862,40110,Musicians and Singers,1.05134007953,0.317933462,0.379705809025,0.96
+151,First-Line Supervisors of Non-Retail Sales Workers,0.075,85830,252670,First-Line Supervisors of Non-Retail Sales Workers,0.478504019574,0.511037074,0.1,0.96
+152,First-Line Supervisors of Personal Service Workers,0.076,39830,190420,First-Line Supervisors of Personal Service Workers,2.18604067286,0.491414449,0.1,0.96
+153,Food Scientists and Technologists,0.077,71270,14200,Food Scientists and Technologists,0.780552827277,0.193783218,1.0,0.96
+154,Compliance Officers,0.08,70250,273910,Compliance Officers,0.80640569395,0.434661253,0.1,0.96
+155,Fish and Game Wardens,0.08,54760,6610,Fish and Game Wardens,1.31738495252,0.241939543,1.0,0.96
+156,Graphic Designers,0.082,52290,210710,Graphic Designers,1.42685025818,0.311367138,0.1,0.96
+157,Food Service Managers,0.083,56010,201470,Food Service Managers,1.26566684521,0.363960149,0.1,0.96
+158,Childcare Workers,0.084,22930,569370,Childcare Workers,4.53423462713,0.389291117,0.1,0.96
+159,Fitness Trainers and Aerobics Instructors,0.085,42780,257410,Fitness Trainers and Aerobics Instructors,1.96633941094,0.320115161,0.1,0.96
+160,Gaming Managers,0.091,79690,4280,Gaming Managers,0.592420629941,0.520925435,1.0,0.96
+161,Electrical Power-Line Installers and Repairers,0.097,67160,117670,Electrical Power-Line Installers and Repairers,0.889517569982,0.227756346,0.129429761197,0.96
+162,Police and Sheriff's Patrol Officers,0.098,62760,657690,Police and Sheriff's Patrol Officers,1.02198852772,0.334192429,0.1,0.96
+163,Travel Agents,0.099,39900,68680,Travel Agents,2.18045112782,0.33676121,0.221753057659,0.96
+164,Chefs and Head Cooks,0.1,47390,134190,Chefs and Head Cooks,1.67778012239,0.320179648,0.113495789552,0.96
+165,Animal Trainers,0.1,34580,13590,Animal Trainers,2.66975130133,0.416712482,1.0,0.96
+166,Radio and Television Announcers,0.1,48170,29210,Radio and Television Announcers,1.63441976334,0.305039777,0.521396781924,0.96
+167,Electrical Engineers,0.1,98620,183770,Electrical Engineers,0.286757250051,0.244596611,0.1,0.96
+168,Chemists,0.1,80820,86660,Chemists,0.570155902004,0.209060293,0.175744288022,0.96
+169,Respiratory Therapy Technicians,0.1,50520,10600,Respiratory Therapy Technicians,1.51187648456,0.184388064,1.0,0.96
+170,Physicists,0.1,121770,16680,Physicists,0.0421286031042,0.199434446,0.913069544365,0.96
+171,"Hairdressers, Hairstylists, and Cosmetologists",0.11,29590,352380,"Hairdressers, Hairstylists, and Cosmetologists",3.28861101724,0.40202947,0.1,0.96
+172,Reporters and Correspondents,0.11,49770,40090,Reporters and Correspondents,1.54972875226,0.320093669,0.37989523572,0.96
+173,Air Traffic Controllers,0.11,118200,23240,Air Traffic Controllers,0.0736040609137,0.313493041,0.655335628227,0.96
+174,Dancers,0.13,32739,10060,Dancers,2.8761110602,0.248388526,1.0,0.96
+175,Nuclear Medicine Technologists,0.13,75960,19650,Nuclear Medicine Technologists,0.670616113744,0.212016897,0.775063613232,0.96
+176,"Software Developers, Systems Software",0.13,110590,409820,"Software Developers, Systems Software",0.147481689122,0.311946835,0.1,0.96
+177,Management Analysts,0.13,91910,637690,Management Analysts,0.380698509411,0.473474783,0.1,0.96
+178,Dietetic Technicians,0.13,29360,32240,Dietetic Technicians,3.32220708447,0.39122586,0.472394540943,0.96
+179,Urban and Regional Planners,0.13,73060,34810,Urban and Regional Planners,0.736928551875,0.379718424,0.437517954611,0.96
+180,Social and Human Service Assistants,0.13,34120,360650,Social and Human Service Assistants,2.71922626026,0.364805429,0.1,0.96
+181,Self-Enrichment Education Teachers,0.13,43150,229840,Self-Enrichment Education Teachers,1.94090382387,0.397141595,0.1,0.96
+182,Sound Engineering Technicians,0.13,65240,15210,Sound Engineering Technicians,0.945125689761,0.22655478,1.0,0.96
+183,Optometrists,0.14,117580,36430,Optometrists,0.0792651811533,0.286622647,0.418062036783,0.96
+184,"Mining and Geological Engineers, Including Mining Safety Engineers",0.14,103010,6940,"Mining and Geological Engineers, Including Mining Safety Engineers",0.231919231143,0.217884466,1.0,0.96
+185,Physician Assistants,0.14,102090,104050,Physician Assistants,0.243020863944,0.250390159,0.146371936569,0.96
+186,"Kindergarten Teachers, Except Special Education",0.15,55460,151290,"Kindergarten Teachers, Except Special Education",1.28813559322,0.330606958,0.100667592042,0.96
+187,Electricians,0.15,56650,607120,Electricians,1.240070609,0.171773714,0.1,0.96
+188,Petroleum Engineers,0.16,147030,32780,Petroleum Engineers,-0.136910834524,0.257082934,0.464612568639,0.96
+189,Desktop Publishers,0.16,44380,13090,Desktop Publishers,1.85939612438,0.306134864,1.0,0.96
+190,General and Operations Managers,0.16,122090,2188870,General and Operations Managers,0.0393971660251,0.424081668,0.1,0.96
+191,Occupational Health and Safety Specialists,0.17,72480,76630,Occupational Health and Safety Specialists,0.75082781457,0.241433101,0.198747226935,0.96
+192,Firefighters,0.17,50520,315910,Firefighters,1.51187648456,0.187049293,0.1,0.96
+193,Financial Examiners,0.17,88940,49750,Financial Examiners,0.426804587362,0.570830627,0.306130653266,0.96
+194,First-Line Supervisors of Construction Trades and Extraction Workers,0.17,68040,538220,First-Line Supervisors of Construction Trades and Extraction Workers,0.865079365079,0.26240363,0.1,0.96
+195,"Middle School Teachers, Except Special and Career/Technical Education",0.17,59800,626310,"Middle School Teachers, Except Special and Career/Technical Education",1.1220735786,0.337533703,0.1,0.96
+196,Public Relations Specialists,0.18,66540,226940,Public Relations Specialists,0.907123534716,0.437224979,0.1,0.96
+197,Commercial Divers,0.18,53990,3370,Commercial Divers,1.35043526579,0.169472911,1.0,0.96
+198,Manufactured Building and Mobile Home Installers,0.18,31030,3200,Manufactured Building and Mobile Home Installers,3.08959071866,0.153054598,1.0,0.96
+199,"Airline Pilots, Copilots, and Flight Engineers",0.18,152770,81520,"Airline Pilots, Copilots, and Flight Engineers",-0.169339530012,0.183936437,0.18682531894,0.96
+200,Adult Basic and Secondary Education and Literacy Teachers and Instructors,0.19,55140,58810,Adult Basic and Secondary Education and Literacy Teachers and Instructors,1.30141458107,0.363621184,0.258969562999,0.96
+201,Epidemiologists,0.2,77720,5690,Epidemiologists,0.632784354092,0.367307431,1.0,0.96
+202,Actuaries,0.21,114120,19940,Actuaries,0.111987381703,0.541627161,0.763791374122,0.96
+203,Animal Control Workers,0.21,36600,12970,Animal Control Workers,2.46721311475,0.34249371,1.0,0.96
+204,Concierges,0.21,31440,32020,Concierges,3.03625954198,0.376735191,0.475640224859,0.96
+205,Statisticians,0.22,85160,33440,Statisticians,0.490136214185,0.336699525,0.455442583732,0.96
+206,Computer Hardware Engineers,0.22,118700,72950,Computer Hardware Engineers,0.0690817186184,0.183301758,0.208773132282,0.96
+207,Survey Researchers,0.23,59950,11930,Survey Researchers,1.11676396997,0.538647873,1.0,0.96
+208,"Business Operations Specialists, All Other",0.23,74870,958670,"Business Operations Specialists, All Other",0.694937892347,0.423407063,0.1,0.96
+209,Financial Analysts,0.23,97640,281610,Financial Analysts,0.299672265465,0.440667469,0.1,0.96
+210,Cardiovascular Technologists and Technicians,0.23,57100,53760,Cardiovascular Technologists and Technicians,1.22241681261,0.262547983,0.283296130952,0.96
+211,"Agents and Business Managers of Artists, Performers, and Athletes",0.24,86560,13470,"Agents and Business Managers of Artists, Performers, and Athletes",0.466035120148,0.417835769,1.0,0.96
+212,"Engineering Technicians, Except Drafters, All Other",0.24,64050,74290,"Engineering Technicians, Except Drafters, All Other",0.981264637002,0.197541688,0.205007403419,0.96
+213,Geographers,0.25,74090,1370,Geographers,0.712781751923,0.277060647,1.0,0.96
+214,Occupational Health and Safety Technicians,0.25,52520,16560,Occupational Health and Safety Technicians,1.41622239147,0.29066171,0.919685990338,0.96
+215,Probation Officers and Correctional Treatment Specialists,0.25,55380,87500,Probation Officers and Correctional Treatment Specialists,1.29144095341,0.329999901,0.174057142857,0.96
+216,Environmental Engineering Technicians,0.25,52500,16550,Environmental Engineering Technicians,1.41714285714,0.228509981,0.920241691843,0.96
+217,"Managers, All Other",0.25,112150,403670,"Managers, All Other",0.131520285332,0.502689809,0.1,0.96
+218,"Ambulance Drivers and Attendants, Except Emergency Medical Technicians",0.25,25600,17300,"Ambulance Drivers and Attendants, Except Emergency Medical Technicians",3.95703125,0.286061167,0.880346820809,0.96
+219,"Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",0.25,92910,328370,"Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",0.365837907653,0.374856243,0.1,0.96
+220,"Career/Technical Education Teachers, Middle School",0.26,60350,12730,"Career/Technical Education Teachers, Middle School",1.10273405137,0.339250334,1.0,0.96
+221,"Captains, Mates, and Pilots of Water Vessels",0.27,81520,36720,"Captains, Mates, and Pilots of Water Vessels",0.556673209028,0.239823413,0.414760348584,0.96
+222,Occupational Therapy Aides,0.27,31840,7210,Occupational Therapy Aides,2.98555276382,0.326723111,1.0,0.96
+223,Medical Equipment Repairers,0.27,50910,43370,Medical Equipment Repairers,1.49263406011,0.162211702,0.351164399354,0.96
+224,First-Line Supervisors of Retail Sales Workers,0.28,43910,1194220,First-Line Supervisors of Retail Sales Workers,1.89000227739,0.48299456,0.1,0.96
+225,Athletes and Sports Competitors,0.28,83730,10260,Athletes and Sports Competitors,0.515585811537,0.39373231,1.0,0.96
+226,Gaming Supervisors,0.28,50810,22130,Gaming Supervisors,1.49753985436,0.523501983,0.688206055129,0.96
+227,Skincare Specialists,0.29,35160,43980,Skincare Specialists,2.60921501706,0.319835928,0.346293769895,0.96
+228,"Wholesale and Retail Buyers, Except Farm Products",0.29,60040,109440,"Wholesale and Retail Buyers, Except Farm Products",1.11359093937,0.444970996,0.139163011696,0.96
+229,Biological Technicians,0.3,46130,74720,Biological Technicians,1.75092130934,0.232778362,0.203827623126,0.96
+230,Medical Assistants,0.3,32850,623560,Medical Assistants,2.86301369863,0.374145409,0.1,0.96
+231,Zoologists and Wildlife Biologists,0.3,64890,17720,Zoologists and Wildlife Biologists,0.955617198336,0.289657682,0.859480812641,0.96
+232,"Cooks, Private Household",0.3,42220,370,"Cooks, Private Household",2.00568450971,0.306512317,1.0,0.96
+233,Private Detectives and Investigators,0.31,53530,28490,Private Detectives and Investigators,1.37063328974,0.461884908,0.534573534574,0.96
+234,Film and Video Editors,0.31,82190,29880,Film and Video Editors,0.543983452975,0.303317219,0.509705488621,0.96
+235,"Financial Specialists, All Other",0.33,76230,123270,"Financial Specialists, All Other",0.664698937426,0.552789103,0.123549931046,0.96
+236,Detectives and Criminal Investigators,0.34,81490,104980,Detectives and Criminal Investigators,0.557246287888,0.365575375,0.145075252429,0.96
+237,Surgical Technologists,0.34,46800,105720,Surgical Technologists,1.71153846154,0.280900902,0.144059780552,0.96
+238,Radiation Therapists,0.34,84980,17450,Radiation Therapists,0.493292539421,0.235950637,0.872779369628,0.96
+239,"Plumbers, Pipefitters, and Steamfitters",0.35,56030,411870,"Plumbers, Pipefitters, and Steamfitters",1.26485811173,0.200097149,0.1,0.96
+240,Flight Attendants,0.35,51620,113390,Flight Attendants,1.45834947695,0.269221232,0.134315195344,0.96
+241,Diagnostic Medical Sonographers,0.35,71750,65790,Diagnostic Medical Sonographers,0.768641114983,0.259119617,0.231494148047,0.96
+242,Bailiffs,0.36,45740,17880,Bailiffs,1.77437691299,0.304016677,0.851789709172,0.96
+243,"Computer Numerically Controlled Machine Tool Programmers, Metal and Plastic",0.36,53560,25180,"Computer Numerically Controlled Machine Tool Programmers, Metal and Plastic",1.36930545183,0.194966477,0.604845115171,0.96
+244,"Telecommunications Equipment Installers and Repairers, Except Line Installers",0.36,54520,228430,"Telecommunications Equipment Installers and Repairers, Except Line Installers",1.3275862069,0.171840646,0.1,0.96
+245,"Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders",0.37,37600,19520,"Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders",2.375,0.214567496,0.780225409836,0.96
+246,Cleaners of Vehicles and Equipment,0.37,24660,348770,Cleaners of Vehicles and Equipment,4.14598540146,0.166936736,0.1,0.96
+247,Funeral Attendants,0.37,27110,35770,Funeral Attendants,3.68092954629,0.297720244,0.425775789768,0.96
+248,Helpers-Extraction Workers,0.37,37160,17660,Helpers-Extraction Workers,2.41496232508,0.19404563,0.862400906002,0.96
+249,Actors,0.37,71313,48620,Actors,0.779479197341,0.248524202,0.313245577951,0.96
+250,Mine Shuttle Car Operators,0.37,56370,1590,Mine Shuttle Car Operators,1.25119744545,0.143264976,1.0,0.96
+251,"Electrical and Electronics Repairers, Powerhouse, Substation, and Relay",0.38,74540,23060,"Electrical and Electronics Repairers, Powerhouse, Substation, and Relay",0.702441642071,0.151540008,0.660450997398,0.96
+252,Surveyors,0.38,63480,43340,Surveyors,0.999054820416,0.247103644,0.351407475773,0.96
+253,Mechanical Engineering Technicians,0.38,57180,45510,Mechanical Engineering Technicians,1.21930745016,0.194760606,0.334651724896,0.96
+254,"Packers and Packagers, Hand",0.38,24430,705660,"Packers and Packagers, Hand",4.19443307409,0.265477083,0.1,0.96
+255,Interpreters and Translators,0.38,51260,51350,Interpreters and Translators,1.47561451424,0.2983375,0.296592015579,0.96
+256,Home Health Aides,0.39,23600,814300,Home Health Aides,4.37711864407,0.392900324,0.1,0.96
+257,Upholsterers,0.39,34640,32520,Upholsterers,2.66339491917,0.254003061,0.468327183272,0.96
+258,Elevator Installers and Repairers,0.39,76860,22240,Elevator Installers and Repairers,0.651053864169,0.10437628,0.684802158273,0.96
+259,Gaming Cage Workers,0.39,28120,18810,Gaming Cage Workers,3.51280227596,0.377981134,0.809675704413,0.96
+260,Audio-Visual and Multimedia Collections Specialists,0.39,50130,10300,Audio-Visual and Multimedia Collections Specialists,1.53141831239,0.244068836,1.0,0.96
+261,"Judges, Magistrate Judges, and Magistrates",0.4,115460,27210,"Judges, Magistrate Judges, and Magistrates",0.099081933137,0.412231287,0.559720690922,0.96
+262,"Mobile Heavy Equipment Mechanics, Except Engines",0.4,50810,123570,"Mobile Heavy Equipment Mechanics, Except Engines",1.49753985436,0.131532057,0.123249979769,0.96
+263,"Graders and Sorters, Agricultural Products",0.41,24280,38780,"Graders and Sorters, Agricultural Products",4.22652388797,0.174338689,0.392728210418,0.96
+264,Structural Metal Fabricators and Fitters,0.41,40000,77270,Structural Metal Fabricators and Fitters,2.1725,0.178520967,0.197101074156,0.96
+265,Judicial Law Clerks,0.41,59840,13410,Judicial Law Clerks,1.12065508021,0.337556918,1.0,0.96
+266,"Electrical and Electronics Repairers, Commercial and Industrial Equipment",0.41,56990,67390,"Electrical and Electronics Repairers, Commercial and Industrial Equipment",1.22670643973,0.135484531,0.22599792254,0.96
+267,Forest and Conservation Technicians,0.42,38630,30090,Forest and Conservation Technicians,2.28501164898,0.251789209,0.506148222001,0.96
+268,"First-Line Supervisors of Helpers, Laborers, and Material Movers, Hand",0.42,50160,183620,"First-Line Supervisors of Helpers, Laborers, and Material Movers, Hand",1.52990430622,0.386458145,0.1,0.96
+269,"Locker Room, Coatroom, and Dressing Room Attendants",0.43,24390,18040,"Locker Room, Coatroom, and Dressing Room Attendants",4.20295202952,0.246683871,0.844235033259,0.96
+270,"Physical Scientists, All Other",0.43,98460,18960,"Physical Scientists, All Other",0.288848263254,0.274288462,0.803270042194,0.96
+271,Economists,0.43,112860,19380,Economists,0.124401913876,0.439935798,0.785861713106,0.96
+272,Historians,0.44,60990,2950,Historians,1.08066896212,0.299139196,1.0,0.96
+273,Medical Appliance Technicians,0.45,39880,14570,Medical Appliance Technicians,2.18204613842,0.215824299,1.0,0.96
+274,"Court, Municipal, and License Clerks",0.46,39160,128620,"Court, Municipal, and License Clerks",2.24055158325,0.455836364,0.118410822578,0.96
+275,"Compensation, Benefits, and Job Analysis Specialists",0.47,66490,79190,"Compensation, Benefits, and Job Analysis Specialists",0.908557677846,0.668840132,0.192322262912,0.96
+276,Psychiatric Aides,0.47,28770,67410,Psychiatric Aides,3.41084462982,0.338200164,0.225930870791,0.96
+277,Medical and Clinical Laboratory Technicians,0.47,41700,160190,Medical and Clinical Laboratory Technicians,2.04316546763,0.224766666,0.1,0.96
+278,Fire Inspectors and Investigators,0.48,61660,11910,Fire Inspectors and Investigators,1.05806033085,0.257934312,1.0,0.96
+279,Aerospace Engineering and Operations Technicians,0.48,71070,11970,Aerospace Engineering and Operations Technicians,0.785563528915,0.181991037,1.0,0.96
+280,Merchandise Displayers and Window Trimmers,0.48,30090,114690,Merchandise Displayers and Window Trimmers,3.21734795613,0.371566979,0.132792745662,0.96
+281,"Explosives Workers, Ordnance Handling Experts, and Blasters",0.48,54580,6310,"Explosives Workers, Ordnance Handling Experts, and Blasters",1.32502748259,0.259250941,1.0,0.96
+282,Computer Programmers,0.48,85180,271200,Computer Programmers,0.48978633482,0.299793083,0.1,0.96
+283,Crossing Guards,0.49,29190,72900,Crossing Guards,3.34737923947,0.246368258,0.208916323731,0.96
+284,Agricultural Engineers,0.49,77330,1980,Agricultural Engineers,0.64101900944,0.162571958,1.0,0.96
+285,"Roof Bolters, Mining",0.49,58110,3930,"Roof Bolters, Mining",1.183789365,0.189842857,1.0,0.96
+286,Telecommunications Line Installers and Repairers,0.49,54700,100080,Telecommunications Line Installers and Repairers,1.31992687386,0.191025871,0.152178257394,0.96
+287,"Police, Fire, and Ambulance Dispatchers",0.49,41070,95170,"Police, Fire, and Ambulance Dispatchers",2.08984660336,0.321487691,0.160029421036,0.96
+288,"Loading Machine Operators, Underground Mining",0.5,51260,2550,"Loading Machine Operators, Underground Mining",1.47561451424,0.168378833,1.0,0.96
+289,Court Reporters,0.5,56940,17700,Court Reporters,1.22866174921,0.238872742,0.860451977401,0.96
+290,Demonstrators and Product Promoters,0.51,30570,86500,Demonstrators and Product Promoters,3.15112855741,0.335776256,0.176069364162,0.96
+291,Dental Assistants,0.51,37890,327290,Dental Assistants,2.34916864608,0.298936875,0.1,0.96
+292,Shoe and Leather Workers and Repairers,0.52,26040,7780,Shoe and Leather Workers and Repairers,3.8732718894,0.227370959,1.0,0.96
+293,Architectural and Civil Drafters,0.52,54290,96810,Architectural and Civil Drafters,1.33744704365,0.255333243,0.157318458837,0.96
+294,"Rotary Drill Operators, Oil and Gas",0.53,57140,17400,"Rotary Drill Operators, Oil and Gas",1.22086104305,0.222922648,0.875287356322,0.96
+295,Hazardous Materials Removal Workers,0.53,45500,44280,Hazardous Materials Removal Workers,1.78901098901,0.233989065,0.343947606143,0.96
+296,Embalmers,0.54,42260,3710,Embalmers,2.0028395646,0.261688773,1.0,0.96
+297,Continuous Mining Machine Operators,0.54,52650,12030,Continuous Mining Machine Operators,1.41025641026,0.169402996,1.0,0.96
+298,Slot Supervisors,0.54,38300,7640,Slot Supervisors,2.31331592689,0.399816831,1.0,0.96
+299,Massage Therapists,0.54,44480,95830,Massage Therapists,1.8529676259,0.344927169,0.158927267035,0.96
+300,Advertising Sales Agents,0.54,63660,141100,Advertising Sales Agents,0.993402450518,0.353283071,0.107937632884,0.96
+301,Automotive Glass Installers and Repairers,0.55,36140,18610,Automotive Glass Installers and Repairers,2.51134477034,0.232180287,0.81837721655,0.96
+302,Commercial Pilots,0.55,86260,38980,Commercial Pilots,0.471133781591,0.224151884,0.390713186249,0.96
+303,Customer Service Representatives,0.55,35170,2707040,Customer Service Representatives,2.60818879727,0.365873072,0.1,0.96
+304,Audio and Video Equipment Technicians,0.55,47450,69670,Audio and Video Equipment Technicians,1.67439409905,0.237466612,0.218601980766,0.96
+305,Teacher Assistants,0.56,27120,1263820,Teacher Assistants,3.67920353982,0.346483632,0.1,0.96
+306,"First-Line Supervisors of Farming, Fishing, and Forestry Workers",0.57,48820,19550,"First-Line Supervisors of Farming, Fishing, and Forestry Workers",1.59934453093,0.278615315,0.779028132992,0.96
+307,Chemical Technicians,0.57,49770,65510,Chemical Technicians,1.54972875226,0.214571988,0.232483590292,0.96
+308,"Helpers-Pipelayers, Plumbers, Pipefitters, and Steamfitters",0.57,30640,54080,"Helpers-Pipelayers, Plumbers, Pipefitters, and Steamfitters",3.14164490862,0.185270351,0.281619822485,0.96
+309,Cost Estimators,0.57,66620,214610,Cost Estimators,0.904833383368,0.34802657,0.1,0.96
+310,Transit and Railroad Police,0.57,67850,4810,Transit and Railroad Police,0.870302137067,0.287352802,1.0,0.96
+311,"First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers",0.57,48790,103070,"First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers",1.60094281615,0.370096479,0.147763655768,0.96
+312,Personal Financial Advisors,0.58,123100,201850,Personal Financial Advisors,0.0308692120227,0.56296824,0.1,0.96
+313,Millwrights,0.59,53950,39670,Millwrights,1.35217794254,0.138041995,0.383917317872,0.96
+314,Museum Technicians and Conservators,0.59,44780,10970,Museum Technicians and Conservators,1.83385439929,0.235186601,1.0,0.96
+315,Mine Cutting and Channeling Machine Operators,0.59,50670,5930,Mine Cutting and Channeling Machine Operators,1.50444049734,0.185092829,1.0,0.96
+316,"Transportation, Storage, and Distribution Managers",0.59,97630,113270,"Transportation, Storage, and Distribution Managers",0.299805387688,0.386219127,0.134457490951,0.96
+317,Recreational Vehicle Service Technicians,0.59,38040,13520,Recreational Vehicle Service Technicians,2.33596214511,0.194801765,1.0,0.96
+318,Automotive Service Technicians and Mechanics,0.59,41400,647380,Automotive Service Technicians and Mechanics,2.0652173913,0.16560686,0.1,0.96
+319,Correctional Officers and Jailers,0.6,46750,431600,Correctional Officers and Jailers,1.71443850267,0.356449551,0.1,0.96
+320,"Camera Operators, Television, Video, and Motion Picture",0.6,63200,21710,"Camera Operators, Television, Video, and Motion Picture",1.00791139241,0.240021066,0.701520036849,0.96
+321,Slaughterers and Meat Packers,0.6,27040,80780,Slaughterers and Meat Packers,3.69304733728,0.191800396,0.188536766526,0.96
+322,"Electronic Equipment Installers and Repairers, Motor Vehicles",0.61,34200,11750,"Electronic Equipment Installers and Repairers, Motor Vehicles",2.71052631579,0.184054166,1.0,0.96
+323,Physical Therapist Aides,0.61,27890,50030,Physical Therapist Aides,3.55001792757,0.29752567,0.30441734959,0.96
+324,Costume Attendants,0.61,50470,6640,Costume Attendants,1.51436496929,0.281921156,1.0,0.96
+325,Market Research Analysts and Marketing Specialists,0.61,70620,558630,Market Research Analysts and Marketing Specialists,0.796941376381,0.514228895,0.1,0.96
+326,Reservation and Transportation Ticket Agents and Travel Clerks,0.61,38050,146350,Reservation and Transportation Ticket Agents and Travel Clerks,2.33508541393,0.331931643,0.104065596174,0.96
+327,Water and Wastewater Treatment Plant and System Operators,0.61,47930,115840,Water and Wastewater Treatment Plant and System Operators,1.64761109952,0.150393769,0.131474447514,0.96
+328,"Life, Physical, and Social Science Technicians, All Other",0.61,49270,68540,"Life, Physical, and Social Science Technicians, All Other",1.57560381571,0.289121936,0.222206011088,0.96
+329,Food Cooking Machine Operators and Tenders,0.61,30330,36520,Food Cooking Machine Operators and Tenders,3.18397626113,0.215413606,0.417031763417,0.96
+330,"Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders",0.61,38380,46920,"Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders",2.30640958833,0.229170281,0.324595055413,0.96
+331,Motorboat Operators,0.62,43340,3290,Motorboat Operators,1.92801107522,0.179469077,1.0,0.96
+332,Tapers,0.62,53790,18480,Tapers,1.35917456776,0.200723765,0.824134199134,0.96
+333,Pipelayers,0.62,42860,39620,Pipelayers,1.96080261316,0.147763869,0.384401817264,0.96
+334,"Geoscientists, Except Hydrologists and Geographers",0.63,106390,30420,"Geoscientists, Except Hydrologists and Geographers",0.192781276436,0.233544062,0.500657462196,0.96
+335,"Control and Valve Installers and Repairers, Except Mechanical Door",0.63,56180,45740,"Control and Valve Installers and Repairers, Except Mechanical Door",1.25881096476,0.173247077,0.332968954963,0.96
+336,First-Line Supervisors of Food Preparation and Serving Workers,0.63,34700,908550,First-Line Supervisors of Food Preparation and Serving Workers,2.65706051873,0.379755732,0.1,0.96
+337,Construction and Building Inspectors,0.63,61250,94960,Construction and Building Inspectors,1.07183673469,0.273826799,0.160383319292,0.96
+338,"Cutters and Trimmers, Hand",0.64,29580,14250,"Cutters and Trimmers, Hand",3.29006085193,0.212964986,1.0,0.96
+339,"Maintenance and Repair Workers, General",0.64,39360,1332480,"Maintenance and Repair Workers, General",2.22408536585,0.153068289,0.1,0.96
+340,"Administrative Law Judges, Adjudicators, and Hearing Officers",0.64,95240,14540,"Administrative Law Judges, Adjudicators, and Hearing Officers",0.332423351533,0.520246769,1.0,0.96
+341,Stock Clerks and Order Fillers,0.64,26670,2016340,Stock Clerks and Order Fillers,3.7581552306,0.285909852,0.1,0.96
+342,Power Distributors and Dispatchers,0.64,81500,11380,Power Distributors and Dispatchers,0.557055214724,0.281371216,1.0,0.96
+343,"Insulation Workers, Mechanical",0.64,51100,27270,"Insulation Workers, Mechanical",1.48336594912,0.251895149,0.558489182252,0.96
+344,Social Science Research Assistants,0.65,46820,30030,Social Science Research Assistants,1.71038017941,0.399816831,0.50715950716,0.96
+345,Machinists,0.65,43220,391120,Machinists,1.93614067561,0.202923229,0.1,0.96
+346,Librarians,0.65,59870,129350,Librarians,1.11959245031,0.448774975,0.117742558949,0.96
+347,Electronic Home Entertainment Equipment Installers and Repairers,0.65,39340,25550,Electronic Home Entertainment Equipment Installers and Repairers,2.22572445348,0.194567257,0.596086105675,0.96
+348,"Heating, Air Conditioning, and Refrigeration Mechanics and Installers",0.65,48320,294730,"Heating, Air Conditioning, and Refrigeration Mechanics and Installers",1.62624172185,0.128129003,0.1,0.96
+349,Hoist and Winch Operators,0.65,50020,2960,Hoist and Winch Operators,1.53698520592,0.215887549,1.0,0.96
+350,Pest Control Workers,0.66,35020,72830,Pest Control Workers,2.62364363221,0.304236954,0.209117122065,0.96
+351,Helpers-Production Workers,0.66,26930,429890,Helpers-Production Workers,3.71221685852,0.206839708,0.1,0.96
+352,Statistical Assistants,0.66,48300,10900,Statistical Assistants,1.62732919255,0.435511273,1.0,0.96
+353,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",0.66,27030,2161740,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",3.69478357381,0.216371543,0.1,0.96
+354,Motorboat Mechanics and Service Technicians,0.66,40860,20260,Motorboat Mechanics and Service Technicians,2.10572687225,0.131834134,0.751727541955,0.96
+355,"Paper Goods Machine Setters, Operators, and Tenders",0.67,38570,93100,"Paper Goods Machine Setters, Operators, and Tenders",2.29012185637,0.207757582,0.163587540279,0.96
+356,Foundry Mold and Coremakers,0.67,36030,12810,Foundry Mold and Coremakers,2.52206494588,0.217633885,1.0,0.96
+357,Atmospheric and Space Scientists,0.67,94840,9800,Atmospheric and Space Scientists,0.338043019823,0.261334952,1.0,0.96
+358,"Bus Drivers, Transit and Intercity",0.67,41780,169680,"Bus Drivers, Transit and Intercity",2.03733843944,0.219729059,0.1,0.96
+359,"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers",0.67,22640,145100,"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers",4.60512367491,0.295743408,0.104962095107,0.96
+360,Industrial Machinery Mechanics,0.67,51890,334490,Industrial Machinery Mechanics,1.44555791097,0.1181256,0.1,0.96
+361,Postal Service Mail Carriers,0.68,50610,328950,Postal Service Mail Carriers,1.50740960285,0.248044482,0.1,0.96
+362,"Roustabouts, Oil and Gas",0.68,40480,51290,"Roustabouts, Oil and Gas",2.13488142292,0.180008237,0.296938974459,0.96
+363,Boilermakers,0.68,62200,16660,Boilermakers,1.04019292605,0.15268525,0.914165666267,0.96
+364,Mechanical Drafters,0.68,57480,63630,Mechanical Drafters,1.20772442589,0.194197476,0.239352506679,0.96
+365,Dental Hygienists,0.68,73440,204990,Dental Hygienists,0.727941176471,0.267483273,0.1,0.96
+366,Light Truck or Delivery Services Drivers,0.69,34790,858710,Light Truck or Delivery Services Drivers,2.64759988502,0.25184747,0.1,0.96
+367,Maids and Housekeeping Cleaners,0.69,23830,924640,Maids and Housekeeping Cleaners,4.32522031053,0.257506185,0.1,0.96
+368,"Painters, Transportation Equipment",0.69,46270,54860,"Painters, Transportation Equipment",1.74259779555,0.22369306,0.27761574918,0.96
+369,"Eligibility Interviewers, Government Programs",0.7,43550,135940,"Eligibility Interviewers, Government Programs",1.91389207807,0.43176983,0.112034721201,0.96
+370,Tire Repairers and Changers,0.7,27150,109350,Tire Repairers and Changers,3.67403314917,0.225312452,0.139277549154,0.96
+371,Food Batchmakers,0.7,30130,148540,Food Batchmakers,3.21174908729,0.200740668,0.102531304699,0.96
+372,Avionics Technicians,0.7,61390,17330,Avionics Technicians,1.06711190748,0.144158285,0.878822850548,0.96
+373,Aircraft Mechanics and Service Technicians,0.71,61190,128570,Aircraft Mechanics and Service Technicians,1.07386827913,0.132183426,0.118456871743,0.96
+374,Airfield Operations Specialists,0.71,52380,8760,Airfield Operations Specialists,1.42268041237,0.335461669,1.0,0.96
+375,"Petroleum Pump System Operators, Refinery Operators, and Gaugers",0.71,67870,41630,"Petroleum Pump System Operators, Refinery Operators, and Gaugers",0.869750994548,0.218313375,0.365841940908,0.96
+376,"Opticians, Dispensing",0.71,37860,75270,"Opticians, Dispensing",2.35182250396,0.397312913,0.20233824897,0.96
+377,Laundry and Dry-Cleaning Workers,0.71,23210,207710,Laundry and Dry-Cleaning Workers,4.46747091771,0.283847393,0.1,0.96
+378,Amusement and Recreation Attendants,0.72,22000,286740,Amusement and Recreation Attendants,4.76818181818,0.310644602,0.1,0.96
+379,Pharmacy Aides,0.72,28420,36660,Pharmacy Aides,3.4651653765,0.350569849,0.415439170758,0.96
+380,Helpers-Roofers,0.72,28890,10190,Helpers-Roofers,3.39252336449,0.210344094,1.0,0.96
+381,"Tank Car, Truck, and Ship Loaders",0.72,39590,10920,"Tank Car, Truck, and Ship Loaders",2.2053548876,0.152558853,1.0,0.96
+382,Home Appliance Repairers,0.72,40390,33480,Home Appliance Repairers,2.14186679871,0.188649972,0.454898446834,0.96
+383,Carpenters,0.72,48340,676980,Carpenters,1.62515515101,0.22605443,0.1,0.96
+384,Public Address System and Other Announcers,0.72,42740,8020,Public Address System and Other Announcers,1.96911558259,0.27981928,1.0,0.96
+385,"Textile Knitting and Weaving Machine Setters, Operators, and Tenders",0.73,28380,21550,"Textile Knitting and Weaving Machine Setters, Operators, and Tenders",3.47145877378,0.228414446,0.706728538283,0.96
+386,Administrative Services Managers,0.73,98930,266280,Administrative Services Managers,0.282725159203,0.497662841,0.1,0.96
+387,Glaziers,0.73,47260,47140,Glaziers,1.68514600085,0.217124468,0.323080186678,0.96
+388,"Coil Winders, Tapers, and Finishers",0.73,35340,14090,"Coil Winders, Tapers, and Finishers",2.59083191851,0.215761067,1.0,0.96
+389,Bus and Truck Mechanics and Diesel Engine Specialists,0.73,46710,254280,Bus and Truck Mechanics and Diesel Engine Specialists,1.71676300578,0.159395877,0.1,0.96
+390,"Computer, Automated Teller, and Office Machine Repairers",0.74,39410,102170,"Computer, Automated Teller, and Office Machine Repairers",2.21999492515,0.178816106,0.149065283351,0.96
+391,Personal Care Aides,0.74,22710,1492250,Personal Care Aides,4.58784676354,0.317126026,0.1,0.96
+392,Broadcast Technicians,0.74,45430,30330,Broadcast Technicians,1.79330838653,0.208058549,0.502143092648,0.96
+393,Helpers-Electricians,0.74,30980,71890,Helpers-Electricians,3.09619109103,0.149569901,0.2118514397,0.96
+394,Postmasters and Mail Superintendents,0.75,71980,14720,Postmasters and Mail Superintendents,0.762989719366,0.388601361,1.0,0.96
+395,Tile and Marble Setters,0.75,44770,36830,Tile and Marble Setters,1.83448737994,0.246989554,0.413521585664,0.96
+396,"Painters, Construction and Maintenance",0.75,41510,217280,"Painters, Construction and Maintenance",2.05709467598,0.252606235,0.1,0.96
+397,"Transportation Attendants, Except Flight Attendants",0.75,31080,18410,"Transportation Attendants, Except Flight Attendants",3.08301158301,0.291449222,0.827267789245,0.96
+398,Civil Engineering Technicians,0.75,52120,72150,Civil Engineering Technicians,1.43476592479,0.224170631,0.211088011088,0.96
+399,Farm Equipment Mechanics and Service Technicians,0.75,39310,35110,Farm Equipment Mechanics and Service Technicians,2.22818621216,0.14433276,0.433779549986,0.96
+400,Archivists,0.76,54570,5760,Archivists,1.3254535459,0.39857661,1.0,0.96
+401,Chemical Equipment Operators and Tenders,0.76,50300,73840,Chemical Equipment Operators and Tenders,1.52286282306,0.170742488,0.206256771398,0.96
+402,"Electric Motor, Power Tool, and Related Repairers",0.76,44720,17050,"Electric Motor, Power Tool, and Related Repairers",1.83765652952,0.15466211,0.893255131965,0.96
+403,Fallers,0.76,42900,5370,Fallers,1.95804195804,0.174956221,1.0,0.96
+404,"Environmental Science and Protection Technicians, Including Health",0.77,47930,32950,"Environmental Science and Protection Technicians, Including Health",1.64761109952,0.229218204,0.462215477997,0.96
+405,Locksmiths and Safe Repairers,0.77,42180,18640,Locksmiths and Safe Repairers,2.00853485064,0.201553482,0.817060085837,0.96
+406,Tree Trimmers and Pruners,0.77,37310,40680,Tree Trimmers and Pruners,2.40123291343,0.203397338,0.374385447394,0.96
+407,Bartenders,0.77,25580,603320,Bartenders,3.96090695856,0.416383164,0.1,0.96
+408,"Purchasing Agents, Except Wholesale, Retail, and Farm Products",0.77,67420,297600,"Purchasing Agents, Except Wholesale, Retail, and Farm Products",0.88223079205,0.390481271,0.1,0.96
+409,Dishwashers,0.77,21260,506450,Dishwashers,4.96895578551,0.215693338,0.1,0.96
+410,Medical Equipment Preparers,0.78,35960,52500,Medical Equipment Preparers,2.52892102336,0.223165162,0.290095238095,0.96
+411,"Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic",0.78,34210,192800,"Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic",2.70944168372,0.172873166,0.1,0.96
+412,Computer Operators,0.78,43880,46810,Computer Operators,1.89197812215,0.29911308,0.325357829524,0.96
+413,Gas Plant Operators,0.78,67980,17350,Gas Plant Operators,0.866725507502,0.189199444,0.877809798271,0.96
+414,"Postal Service Mail Sorters, Processors, and Processing Machine Operators",0.79,49710,110770,"Postal Service Mail Sorters, Processors, and Processing Machine Operators",1.5528062764,0.253079762,0.137492100749,0.96
+415,Heavy and Tractor-Trailer Truck Drivers,0.79,43590,1704520,Heavy and Tractor-Trailer Truck Drivers,1.9112181693,0.205092588,0.1,0.96
+416,Shampooers,0.79,20960,15240,Shampooers,5.05438931298,0.246989554,0.999343832021,0.96
+417,Drywall and Ceiling Tile Installers,0.79,47400,93180,Drywall and Ceiling Tile Installers,1.67721518987,0.206085581,0.163447091651,0.96
+418,"Helpers-Installation, Maintenance, and Repair Workers",0.79,29370,118720,"Helpers-Installation, Maintenance, and Repair Workers",3.32073544433,0.182887437,0.128285040431,0.96
+419,Motorcycle Mechanics,0.79,37040,16000,Motorcycle Mechanics,2.42602591793,0.17930758,0.951875,0.96
+420,"Aircraft Structure, Surfaces, Rigging, and Systems Assemblers",0.79,52530,42010,"Aircraft Structure, Surfaces, Rigging, and Systems Assemblers",1.41576242147,0.214823695,0.362532730302,0.96
+421,Logging Equipment Operators,0.79,38880,27250,Logging Equipment Operators,2.26388888889,0.14143034,0.558899082569,0.96
+422,"Floor Layers, Except Carpet, Wood, and HardTiles",0.79,42370,10340,"Floor Layers, Except Carpet, Wood, and HardTiles",1.99504366297,0.211879243,1.0,0.96
+423,Barbers,0.8,29900,15900,Barbers,3.24414715719,0.269650652,0.95786163522,0.96
+424,"Derrick Operators, Oil and Gas",0.8,51140,11580,"Derrick Operators, Oil and Gas",1.48142354321,0.209846416,1.0,0.96
+425,"Cooks, Fast Food",0.81,20570,513200,"Cooks, Fast Food",5.16917841517,0.284678848,0.1,0.96
+426,Word Processors and Typists,0.81,39970,67230,Word Processors and Typists,2.17488116087,0.298871648,0.226535772721,0.96
+427,Electrical and Electronics Drafters,0.81,63390,26750,Electrical and Electronics Drafters,1.00189304307,0.287566726,0.569345794393,0.96
+428,Electro-Mechanical Technicians,0.81,57860,13710,Electro-Mechanical Technicians,1.19322502592,0.133247092,1.0,0.96
+429,"Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders",0.81,30590,17860,"Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders",3.14841451455,0.192708052,0.85274356103,0.96
+430,"Property, Real Estate, and Community Association Managers",0.81,70290,180290,"Property, Real Estate, and Community Association Managers",0.805377720871,0.445357253,0.1,0.96
+431,Medical Secretaries,0.81,35060,556820,Medical Secretaries,2.61950941244,0.359925738,0.1,0.96
+432,"Pressers, Textile, Garment, and Related Materials",0.81,22270,45150,"Pressers, Textile, Garment, and Related Materials",4.69824876515,0.178647408,0.337320044297,0.96
+433,Engine and Other Machine Assemblers,0.82,43090,38150,Engine and Other Machine Assemblers,1.94499883964,0.19667418,0.399213630406,0.96
+434,Security and Fire Alarm Systems Installers,0.82,45660,67700,Security and Fire Alarm Systems Installers,1.77923784494,0.191759779,0.224963072378,0.96
+435,"Refractory Materials Repairers, Except Brickmasons",0.82,47000,1540,"Refractory Materials Repairers, Except Brickmasons",1.7,0.172346999,1.0,0.96
+436,Nonfarm Animal Caretakers,0.82,24420,187360,Nonfarm Animal Caretakers,4.19656019656,0.28194536,0.1,0.96
+437,Sheet Metal Workers,0.82,51080,134450,Sheet Metal Workers,1.48433829287,0.203102505,0.113276310896,0.96
+438,Pile-Driver Operators,0.82,61740,3570,Pile-Driver Operators,1.05539358601,0.154627642,1.0,0.96
+439,Brickmasons and Blockmasons,0.82,53440,64370,Brickmasons and Blockmasons,1.3746257485,0.222936632,0.236600901041,0.96
+440,Fishers and Related Fishing Workers,0.83,30740,520,Fishers and Related Fishing Workers,3.12817176318,0.175378921,1.0,0.96
+441,Structural Iron and Steel Workers,0.83,56040,69440,Structural Iron and Steel Workers,1.26445396146,0.193705373,0.219326036866,0.96
+442,"Railroad Brake, Signal, and Switch Operators",0.83,55320,19860,"Railroad Brake, Signal, and Switch Operators",1.29392624729,0.261998821,0.766868076536,0.96
+443,Railroad Conductors and Yardmasters,0.83,58220,42880,Railroad Conductors and Yardmasters,1.17966334593,0.29208754,0.355177238806,0.96
+444,"Cooks, Institution and Cafeteria",0.83,26370,409850,"Cooks, Institution and Cafeteria",3.81228668942,0.346378998,0.1,0.96
+445,Sailors and Marine Oilers,0.83,46170,32530,Sailors and Marine Oilers,1.7485380117,0.206007711,0.468183215493,0.96
+446,"Mixing and Blending Machine Setters, Operators, and Tenders",0.83,37630,130480,"Mixing and Blending Machine Setters, Operators, and Tenders",2.37230932766,0.180490718,0.116722869405,0.96
+447,"Helpers-Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters",0.83,33610,23950,"Helpers-Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters",2.77566200536,0.170143718,0.635908141962,0.96
+448,Segmental Pavers,0.83,34160,1720,Segmental Pavers,2.71487119438,0.24065035,1.0,0.96
+449,"Insulation Workers, Floor, Ceiling, and Wall",0.83,39490,29500,"Insulation Workers, Floor, Ceiling, and Wall",2.213471765,0.238373113,0.516271186441,0.96
+450,Printing Press Operators,0.83,37460,169910,Printing Press Operators,2.38761345435,0.203726809,0.1,0.96
+451,Automotive and Watercraft Service Attendants,0.83,24280,109790,Automotive and Watercraft Service Attendants,4.22652388797,0.219196565,0.138719373349,0.96
+452,Septic Tank Servicers and Sewer Pipe Cleaners,0.83,38870,26320,Septic Tank Servicers and Sewer Pipe Cleaners,2.26472858245,0.198252722,0.578647416413,0.96
+453,Baggage Porters and Bellhops,0.83,24910,44750,Baggage Porters and Bellhops,4.09433962264,0.312161146,0.340335195531,0.96
+454,Gaming Change Persons and Booth Cashiers,0.83,25940,23120,Gaming Change Persons and Booth Cashiers,3.89205859676,0.363152685,0.658737024221,0.96
+455,"Rolling Machine Setters, Operators, and Tenders, Metal and Plastic",0.83,41900,29060,"Rolling Machine Setters, Operators, and Tenders, Metal and Plastic",2.02863961814,0.208442974,0.524088093599,0.96
+456,"Paving, Surfacing, and Tamping Equipment Operators",0.83,43800,51880,"Paving, Surfacing, and Tamping Equipment Operators",1.89726027397,0.184600443,0.293562066307,0.96
+457,Tool and Die Makers,0.84,51610,72210,Tool and Die Makers,1.45882580895,0.151373477,0.210912615981,0.96
+458,Electrical and Electronics Engineering Technicians,0.84,62950,134870,Electrical and Electronics Engineering Technicians,1.01588562351,0.206570708,0.112923556017,0.96
+459,Plasterers and Stucco Masons,0.84,44070,22810,Plasterers and Stucco Masons,1.87950987066,0.249214279,0.66768960982,0.96
+460,"Layout Workers, Metal and Plastic",0.84,47720,9070,"Layout Workers, Metal and Plastic",1.65926236379,0.198440882,1.0,0.96
+461,"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic",0.84,39630,33850,"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic",2.20211960636,0.191597384,0.449926144756,0.96
+462,Security Guards,0.84,29730,1103120,Security Guards,3.26841574168,0.307377443,0.1,0.96
+463,"Tailors, Dressmakers, and Custom Sewers",0.84,30670,21660,"Tailors, Dressmakers, and Custom Sewers",3.13759373981,0.277992314,0.703139427516,0.96
+464,Wellhead Pumpers,0.84,50730,11610,Wellhead Pumpers,1.50147841514,0.143442044,1.0,0.96
+465,Proofreaders and Copy Markers,0.84,39640,11430,Proofreaders and Copy Markers,2.20131180626,0.249670257,1.0,0.96
+466,Parking Enforcement Workers,0.84,39650,8920,Parking Enforcement Workers,2.20050441362,0.300698564,1.0,0.96
+467,"Laborers and Freight, Stock, and Material Movers, Hand",0.85,28720,2587900,"Laborers and Freight, Stock, and Material Movers, Hand",3.41852367688,0.219292872,0.1,0.96
+468,"Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products",0.85,68410,1404050,"Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products",0.85499196024,0.366840044,0.1,0.96
+469,"Meter Readers, Utilities",0.85,41890,34070,"Meter Readers, Utilities",2.02936261638,0.273902704,0.447020839448,0.96
+470,Power Plant Operators,0.85,73800,35010,Power Plant Operators,0.719512195122,0.206818003,0.435018566124,0.96
+471,Chemical Plant and System Operators,0.85,59430,33300,Chemical Plant and System Operators,1.13528520949,0.197918602,0.457357357357,0.96
+472,"Earth Drillers, Except Oil and Gas",0.85,51240,18500,"Earth Drillers, Except Oil and Gas",1.47658079625,0.175847834,0.823243243243,0.96
+473,Nuclear Technicians,0.85,77820,6840,Nuclear Technicians,0.630686198921,0.208316217,1.0,0.96
+474,Executive Secretaries and Executive Administrative Assistants,0.86,57910,631610,Executive Secretaries and Executive Administrative Assistants,1.19133137627,0.482876732,0.1,0.96
+475,"Plant and System Operators, All Other",0.86,55340,11970,"Plant and System Operators, All Other",1.2930972172,0.175225769,1.0,0.96
+476,"Food Servers, Nonrestaurant",0.86,23490,261520,"Food Servers, Nonrestaurant",4.40229885057,0.263477382,0.1,0.96
+477,"Sawing Machine Setters, Operators, and Tenders, Wood",0.86,29960,50640,"Sawing Machine Setters, Operators, and Tenders, Wood",3.23564753004,0.150224699,0.300750394945,0.96
+478,Subway and Streetcar Operators,0.86,62380,12350,Subway and Streetcar Operators,1.03430586727,0.229050519,1.0,0.96
+479,Veterinary Assistants and Laboratory Animal Caretakers,0.86,26810,79990,Veterinary Assistants and Laboratory Animal Caretakers,3.73330846699,0.301792593,0.19039879985,0.96
+480,"Cutting and Slicing Machine Setters, Operators, and Tenders",0.86,34000,61330,"Cutting and Slicing Machine Setters, Operators, and Tenders",2.73235294118,0.196313373,0.248328713517,0.96
+481,Real Estate Sales Agents,0.86,59360,151840,Real Estate Sales Agents,1.1378032345,0.412856785,0.100302950474,0.96
+482,"Computer-Controlled Machine Tool Operators, Metal and Plastic",0.86,39590,146190,"Computer-Controlled Machine Tool Operators, Metal and Plastic",2.2053548876,0.168848124,0.104179492441,0.96
+483,"Maintenance Workers, Machinery",0.86,46000,89630,"Maintenance Workers, Machinery",1.75869565217,0.14514766,0.169920785451,0.96
+484,Correspondence Clerks,0.86,37660,6780,Correspondence Clerks,2.36962294211,0.480503858,1.0,0.96
+485,Forest and Conservation Workers,0.87,31200,7170,Forest and Conservation Workers,3.06730769231,0.275826331,1.0,0.96
+486,"Pourers and Casters, Metal",0.87,37300,8560,"Pourers and Casters, Metal",2.40214477212,0.179303736,1.0,0.96
+487,Carpet Installers,0.87,44310,25660,Carpet Installers,1.86391333785,0.268119923,0.593530787217,0.96
+488,Paperhangers,0.87,36470,3190,Paperhangers,2.47957225117,0.231661295,1.0,0.96
+489,"Buyers and Purchasing Agents, Farm Products",0.87,63910,11490,"Buyers and Purchasing Agents, Farm Products",0.985604756689,0.340015748,1.0,0.96
+490,Furniture Finishers,0.87,32330,17370,Furniture Finishers,2.92514692236,0.247503412,0.876799078872,0.96
+491,Food Preparation Workers,0.87,22920,850670,Food Preparation Workers,4.53664921466,0.290730901,0.1,0.96
+492,Floor Sanders and Finishers,0.87,38890,4590,Floor Sanders and Finishers,2.26304962715,0.204322786,1.0,0.96
+493,Parking Lot Attendants,0.87,23250,146350,Parking Lot Attendants,4.45806451613,0.298760806,0.104065596174,0.96
+494,Highway Maintenance Workers,0.87,39540,143320,Highway Maintenance Workers,2.20940819423,0.192716209,0.106265699135,0.96
+495,Construction Laborers,0.88,37890,912100,Construction Laborers,2.34916864608,0.197376708,0.1,0.96
+496,"Production, Planning, and Expediting Clerks",0.88,49050,321780,"Production, Planning, and Expediting Clerks",1.5871559633,0.404108102,0.1,0.96
+497,Semiconductor Processors,0.88,37890,24430,Semiconductor Processors,2.34916864608,0.209301548,0.623413835448,0.96
+498,Cartographers and Photogrammetrists,0.88,66160,12100,Cartographers and Photogrammetrists,0.91807738815,0.321963912,1.0,0.96
+499,Metal-Refining Furnace Operators and Tenders,0.88,41840,17730,Metal-Refining Furnace Operators and Tenders,2.03298279159,0.174293569,0.858996051889,0.96
+500,"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders",0.88,41450,47160,"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders",2.0615199035,0.208128396,0.32294317218,0.96
+501,"Extruding and Forming Machine Setters, Operators, and Tenders, Synthetic and Glass Fibers",0.88,35420,19340,"Extruding and Forming Machine Setters, Operators, and Tenders, Synthetic and Glass Fibers",2.5827216262,0.196064875,0.787487073423,0.96
+502,Terrazzo Workers and Finishers,0.88,45990,3420,Terrazzo Workers and Finishers,1.75929549902,0.177363302,1.0,0.96
+503,"Tool Grinders, Filers, and Sharpeners",0.88,38860,9550,"Tool Grinders, Filers, and Sharpeners",2.26556870818,0.193320638,1.0,0.96
+504,Rail Car Repairers,0.88,53590,22090,Rail Car Repairers,1.36797910058,0.182953833,0.689452240833,0.96
+505,Bakers,0.89,27110,180450,Bakers,3.68092954629,0.268182548,0.1,0.96
+506,Medical Transcriptionists,0.89,37150,54070,Medical Transcriptionists,2.41588156124,0.246802986,0.281671906787,0.96
+507,Stonemasons,0.89,43650,13190,Stonemasons,1.90721649485,0.211843733,1.0,0.96
+508,"Bus Drivers, School or Special Client",0.89,31110,515020,"Bus Drivers, School or Special Client",3.07907425265,0.20118058,0.1,0.96
+509,Technical Writers,0.89,73160,49780,Technical Writers,0.734554401312,0.306006942,0.305946163118,0.96
+510,Riggers,0.89,49030,21020,Riggers,1.5882112992,0.177996801,0.724548049477,0.96
+511,Rail-Track Laying and Maintenance Equipment Operators,0.89,52810,14250,Rail-Track Laying and Maintenance Equipment Operators,1.40295398599,0.161056341,1.0,0.96
+512,Stationary Engineers and Boiler Operators,0.89,61410,33720,Stationary Engineers and Boiler Operators,1.06643869077,0.190512337,0.451660735469,0.96
+513,Sewing Machine Operators,0.89,25830,139500,Sewing Machine Operators,3.91289198606,0.208233207,0.10917562724,0.96
+514,Taxi Drivers and Chauffeurs,0.89,26790,188860,Taxi Drivers and Chauffeurs,3.73684210526,0.299760344,0.1,0.96
+515,"Human Resources Assistants, Except Payroll and Timekeeping",0.9,40100,137150,"Human Resources Assistants, Except Payroll and Timekeeping",2.16458852868,0.513367702,0.111046299672,0.96
+516,Medical and Clinical Laboratory Technologists,0.9,62440,166730,Medical and Clinical Laboratory Technologists,1.03235105701,0.226313338,0.1,0.96
+517,Reinforcing Iron and Rebar Workers,0.9,53600,20020,Reinforcing Iron and Rebar Workers,1.36753731343,0.205273592,0.760739260739,0.96
+518,Roofers,0.9,42080,116410,Roofers,2.01568441065,0.21209242,0.130830684649,0.96
+519,Crane and Tower Operators,0.9,55280,45020,Crane and Tower Operators,1.29558610709,0.196682481,0.338294091515,0.96
+520,Traffic Technicians,0.9,48650,6410,Traffic Technicians,1.60842754368,0.263065081,1.0,0.96
+521,Transportation Inspectors,0.9,72650,27430,Transportation Inspectors,0.746730901583,0.246704006,0.555231498359,0.96
+522,"Patternmakers, Metal and Plastic",0.9,44490,3420,"Patternmakers, Metal and Plastic",1.85232636548,0.201248334,1.0,0.96
+523,"Molders, Shapers, and Casters, Except Metal and Plastic",0.9,32590,39450,"Molders, Shapers, and Casters, Except Metal and Plastic",2.89383246395,0.231482409,0.386058301648,0.96
+524,Appraisers and Assessors of Real Estate,0.9,58030,60770,Appraisers and Assessors of Real Estate,1.18679993107,0.408577813,0.250617080796,0.96
+525,"Pump Operators, Except Wellhead Pumpers",0.9,46270,12030,"Pump Operators, Except Wellhead Pumpers",1.74259779555,0.219430524,1.0,0.96
+526,Signal and Track Switch Repairers,0.9,62710,8680,Signal and Track Switch Repairers,1.02360070164,0.10832446,1.0,0.96
+527,Gaming and Sports Book Writers and Runners,0.91,25710,11460,Gaming and Sports Book Writers and Runners,3.93582263711,0.376505213,1.0,0.96
+528,Musical Instrument Repairers and Tuners,0.91,37690,7980,Musical Instrument Repairers and Tuners,2.36694083311,0.209003306,1.0,0.96
+529,Tour Guides and Escorts,0.91,28100,38660,Tour Guides and Escorts,3.51601423488,0.312327205,0.393947232281,0.96
+530,Mechanical Door Repairers,0.91,40420,19840,Mechanical Door Repairers,2.13953488372,0.201786858,0.767641129032,0.96
+531,"Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders",0.91,30970,20080,"Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders",3.09751372296,0.219072802,0.758466135458,0.96
+532,Gas Compressor and Gas Pumping Station Operators,0.91,59620,3890,Gas Compressor and Gas Pumping Station Operators,1.12848037571,0.145607541,1.0,0.96
+533,Medical Records and Health Information Technicians,0.91,41460,200140,Medical Records and Health Information Technicians,2.06078147612,0.329872701,0.1,0.96
+534,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",0.91,34460,85760,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",2.68253047011,0.180947126,0.177588619403,0.96
+535,"Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic",0.91,36190,117300,"Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic",2.50649350649,0.167607354,0.129838022165,0.96
+536,"Rail Yard Engineers, Dinkey Operators, and Hostlers",0.91,52320,4530,"Rail Yard Engineers, Dinkey Operators, and Hostlers",1.4254587156,0.220336528,1.0,0.96
+537,"Electrical and Electronics Installers and Repairers, Transportation Equipment",0.91,59840,13960,"Electrical and Electronics Installers and Repairers, Transportation Equipment",1.12065508021,0.171963407,1.0,0.96
+538,Dining Room and Cafeteria Attendants and Bartender Helpers,0.91,22340,423080,Dining Room and Cafeteria Attendants and Bartender Helpers,4.68039391227,0.25734873,0.1,0.96
+539,"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic",0.91,39010,19780,"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic",2.25301204819,0.195742235,0.76996966633,0.96
+540,Geological and Petroleum Technicians,0.91,62240,15100,Geological and Petroleum Technicians,1.03888174807,0.242833645,1.0,0.96
+541,Automotive Body and Related Repairers,0.91,45180,143940,Automotive Body and Related Repairers,1.80876494024,0.210803104,0.105807975545,0.96
+542,"Patternmakers, Wood",0.91,47850,970,"Patternmakers, Wood",1.65203761755,0.190040268,1.0,0.96
+543,"Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic",0.91,35340,71960,"Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic",2.59083191851,0.212537186,0.211645358533,0.96
+544,Pharmacy Technicians,0.92,32170,398390,Pharmacy Technicians,2.94466894622,0.391490976,0.1,0.96
+545,Loan Interviewers and Clerks,0.92,40300,224340,Loan Interviewers and Clerks,2.14888337469,0.480824641,0.1,0.96
+546,Dredge Operators,0.92,46530,1760,Dredge Operators,1.72727272727,0.190585051,1.0,0.96
+547,Insurance Sales Agents,0.92,67760,385700,Insurance Sales Agents,0.872786304604,0.458661012,0.1,0.96
+548,Cabinetmakers and Bench Carpenters,0.92,34800,97980,Cabinetmakers and Bench Carpenters,2.64655172414,0.165623141,0.155439885691,0.96
+549,"Painting, Coating, and Decorating Workers",0.92,32040,15450,"Painting, Coating, and Decorating Workers",2.9606741573,0.165507389,0.985760517799,0.96
+550,Fence Erectors,0.92,36380,21500,Fence Erectors,2.48818031886,0.244509418,0.708372093023,0.96
+551,"Plating and Coating Machine Setters, Operators, and Tenders, Metal and Plastic",0.92,33690,35570,"Plating and Coating Machine Setters, Operators, and Tenders, Metal and Plastic",2.76669634906,0.195052999,0.428169806016,0.96
+552,Retail Salespersons,0.92,27180,4528550,Retail Salespersons,3.66887417219,0.386506193,0.1,0.96
+553,"Combined Food Preparation and Serving Workers, Including Fast Food",0.92,20460,3426090,"Combined Food Preparation and Serving Workers, Including Fast Food",5.20234604106,0.271775361,0.1,0.96
+554,Helpers-Carpenters,0.92,30200,35890,Helpers-Carpenters,3.20198675497,0.166507709,0.424352187239,0.96
+555,Cooling and Freezing Equipment Operators and Tenders,0.93,32100,8170,Cooling and Freezing Equipment Operators and Tenders,2.95327102804,0.185681157,1.0,0.96
+556,Fiberglass Laminators and Fabricators,0.93,33020,19400,Fiberglass Laminators and Fabricators,2.84312537856,0.258371428,0.785051546392,0.96
+557,"Service Unit Operators, Oil, Gas, and Mining",0.93,53520,42890,"Service Unit Operators, Oil, Gas, and Mining",1.37107623318,0.19016525,0.355094427606,0.96
+558,Conveyor Operators and Tenders,0.93,33870,28590,Conveyor Operators and Tenders,2.74667847653,0.190754806,0.532703742567,0.96
+559,Outdoor Power Equipment and Other Small Engine Mechanics,0.93,35320,33020,Outdoor Power Equipment and Other Small Engine Mechanics,2.59286523216,0.176545435,0.461235614779,0.96
+560,Locomotive Firers,0.93,63750,1210,Locomotive Firers,0.990588235294,0.181431616,1.0,0.96
+561,Machine Feeders and Offbearers,0.93,30490,88070,Machine Feeders and Offbearers,3.16202033454,0.217998458,0.172930623368,0.96
+562,"Model Makers, Metal and Plastic",0.93,50360,6250,"Model Makers, Metal and Plastic",1.51985702939,0.159476851,1.0,0.96
+563,"Radio, Cellular, and Tower Equipment Installers and Repairs",0.93,53620,14120,"Radio, Cellular, and Tower Equipment Installers and Repairs",1.36665423349,0.167147912,1.0,0.96
+564,Butchers and Meat Cutters,0.93,31740,133880,Butchers and Meat Cutters,2.99810964083,0.285040506,0.113758589782,0.96
+565,"Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders",0.93,34370,71260,"Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders",2.69217340704,0.179299892,0.213724389559,0.96
+566,Refuse and Recyclable Material Collectors,0.93,37690,114680,Refuse and Recyclable Material Collectors,2.36694083311,0.192716209,0.132804325078,0.96
+567,"Tax Examiners and Collectors, and Revenue Agents",0.93,57950,58450,"Tax Examiners and Collectors, and Revenue Agents",1.18981880932,0.505940662,0.260564585115,0.96
+568,"Forging Machine Setters, Operators, and Tenders, Metal and Plastic",0.93,38710,19160,"Forging Machine Setters, Operators, and Tenders, Metal and Plastic",2.27822268148,0.195102455,0.794885177453,0.96
+569,Industrial Truck and Tractor Operators,0.93,34260,542750,Industrial Truck and Tractor Operators,2.70402802102,0.21967851,0.1,0.96
+570,Accountants and Auditors,0.94,76730,1246540,Accountants and Auditors,0.653851166428,0.640124194,0.1,0.96
+571,"Drilling and Boring Machine Tool Setters, Operators, and Tenders, Metal and Plastic",0.94,38880,12290,"Drilling and Boring Machine Tool Setters, Operators, and Tenders, Metal and Plastic",2.26388888889,0.21078985,1.0,0.96
+572,"Mail Clerks and Mail Machine Operators, Except Postal Service",0.94,30580,91530,"Mail Clerks and Mail Machine Operators, Except Postal Service",3.14977109222,0.289476178,0.166393532175,0.96
+573,Waiters and Waitresses,0.94,24410,2564610,Waiters and Waitresses,4.19868906186,0.310795799,0.1,0.96
+574,"Meat, Poultry, and Fish Cutters and Trimmers",0.94,25510,149800,"Meat, Poultry, and Fish Cutters and Trimmers",3.97451979616,0.202790997,0.101668891856,0.96
+575,Budget Analysts,0.94,77170,54700,Budget Analysts,0.644421407283,0.644482309,0.278427787934,0.96
+576,Cement Masons and Concrete Finishers,0.94,43720,173920,Cement Masons and Concrete Finishers,1.90256175663,0.225779296,0.1,0.96
+577,Bicycle Repairers,0.94,28520,12560,Bicycle Repairers,3.44950911641,0.161191125,1.0,0.96
+578,"Coin, Vending, and Amusement Machine Servicers and Repairers",0.94,34860,33600,"Coin, Vending, and Amusement Machine Servicers and Repairers",2.64027538726,0.205705138,0.453273809524,0.96
+579,"Welders, Cutters, Solderers, and Brazers",0.94,42450,382730,"Welders, Cutters, Solderers, and Brazers",1.98939929329,0.204177935,0.1,0.96
+580,Couriers and Messengers,0.94,29920,74120,Couriers and Messengers,3.24131016043,0.262647975,0.205477603886,0.96
+581,"Interviewers, Except Eligibility and Loan",0.94,33640,186030,"Interviewers, Except Eligibility and Loan",2.77229488704,0.376523602,0.1,0.96
+582,"Cooks, Short Order",0.94,23130,183990,"Cooks, Short Order",4.48638132296,0.273715906,0.1,0.96
+583,Excavating and Loading Machine and Dragline Operators,0.94,45230,48320,Excavating and Loading Machine and Dragline Operators,1.8056599602,0.198102307,0.315190397351,0.96
+584,"Helpers-Painters, Paperhangers, Plasterers, and Stucco Masons",0.94,28760,10780,"Helpers-Painters, Paperhangers, Plasterers, and Stucco Masons",3.4123783032,0.192830436,1.0,0.96
+585,"Hotel, Motel, and Resort Desk Clerks",0.94,23530,248440,"Hotel, Motel, and Resort Desk Clerks",4.39311517212,0.387151017,0.1,0.96
+586,Tire Builders,0.94,42230,22280,Tire Builders,2.00497276817,0.196470896,0.683572710952,0.96
+587,"Door-to-Door Sales Workers, News and Street Vendors, and Related Workers",0.94,28630,8040,"Door-to-Door Sales Workers, News and Street Vendors, and Related Workers",3.43241355222,0.360456091,1.0,0.96
+588,First-Line Supervisors of Housekeeping and Janitorial Workers,0.94,41240,161140,First-Line Supervisors of Housekeeping and Janitorial Workers,2.07710960233,0.37689171,0.1,0.96
+589,Agricultural Inspectors,0.94,44260,14710,Agricultural Inspectors,1.86714866697,0.32923777,1.0,0.96
+590,Paralegals and Legal Assistants,0.94,53180,277310,Paralegals and Legal Assistants,1.38623542685,0.392367089,0.1,0.96
+591,Manicurists and Pedicurists,0.95,24330,90630,Manicurists and Pedicurists,4.21578298397,0.302235663,0.168045900916,0.96
+592,"Weighers, Measurers, Checkers, and Samplers, Recordkeeping",0.95,31080,74460,"Weighers, Measurers, Checkers, and Samplers, Recordkeeping",3.08301158301,0.330089733,0.204539349987,0.96
+593,"Textile Cutting Machine Setters, Operators, and Tenders",0.95,27860,15040,"Textile Cutting Machine Setters, Operators, and Tenders",3.55491744436,0.218857525,1.0,0.96
+594,Bill and Account Collectors,0.95,37620,298960,Bill and Account Collectors,2.37320574163,0.444473574,0.1,0.96
+595,Nuclear Power Reactor Operators,0.95,91370,7170,Nuclear Power Reactor Operators,0.388858487469,0.195465463,1.0,0.96
+596,Gaming Surveillance Officers and Gaming Investigators,0.95,35280,10460,Gaming Surveillance Officers and Gaming Investigators,2.59693877551,0.374974933,1.0,0.96
+597,"Library Assistants, Clerical",0.95,27450,98560,"Library Assistants, Clerical",3.62295081967,0.35242187,0.154525162338,0.96
+598,Operating Engineers and Other Construction Equipment Operators,0.95,50560,356750,Operating Engineers and Other Construction Equipment Operators,1.50988924051,0.176959705,0.1,0.96
+599,Print Binding and Finishing Workers,0.95,33270,52730,Print Binding and Finishing Workers,2.81424706943,0.249135755,0.288829888109,0.96
+600,Animal Breeders,0.95,42340,1270,Animal Breeders,1.99716580066,0.257354158,1.0,0.96
+601,"Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic",0.95,32660,145560,"Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic",2.88548683405,0.196516515,0.104630392965,0.96
+602,Electrical and Electronic Equipment Assemblers,0.95,33700,218530,Electrical and Electronic Equipment Assemblers,2.76557863501,0.205523789,0.1,0.96
+603,Adhesive Bonding Machine Operators and Tenders,0.95,34610,16940,Adhesive Bonding Machine Operators and Tenders,2.66657035539,0.201901513,0.899055489965,0.96
+604,Landscaping and Groundskeeping Workers,0.95,28560,906570,Landscaping and Groundskeeping Workers,3.44327731092,0.195494364,0.1,0.96
+605,"Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic",0.95,34920,74600,"Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic",2.63402061856,0.191131148,0.204155495979,0.96
+606,Postal Service Clerks,0.95,48360,82030,Postal Service Clerks,1.62406947891,0.360747459,0.185663781543,0.96
+607,Jewelers and Precious Stone and Metal Workers,0.95,42310,26480,Jewelers and Precious Stone and Metal Workers,1.99929094777,0.278562567,0.575151057402,0.96
+608,"Dispatchers, Except Police, Fire, and Ambulance",0.96,41190,197910,"Dispatchers, Except Police, Fire, and Ambulance",2.08084486526,0.372721373,0.1,0.96
+609,Receptionists and Information Clerks,0.96,29120,997770,Receptionists and Information Clerks,3.35782967033,0.390090365,0.1,0.96
+610,"Office Clerks, General",0.96,33010,2955550,"Office Clerks, General",2.84428960921,0.408038023,0.1,0.96
+611,Compensation and Benefits Managers,0.96,126900,15230,Compensation and Benefits Managers,0.0,0.0,1.0,0.96
+612,"Switchboard Operators, Including Answering Service",0.96,29720,90910,"Switchboard Operators, Including Answering Service",3.26985195155,0.31338175,0.167528324717,0.96
+613,"Counter Attendants, Cafeteria, Food Concession, and Coffee Shop",0.96,21380,499550,"Counter Attendants, Cafeteria, Food Concession, and Coffee Shop",4.93545369504,0.348806074,0.1,0.96
+614,"Rock Splitters, Quarry",0.96,34860,3770,"Rock Splitters, Quarry",2.64027538726,0.211130275,1.0,0.96
+615,"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",0.96,36140,2295510,"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",2.51134477034,0.460227246,0.1,0.96
+616,Surveying and Mapping Technicians,0.96,45490,53920,Surveying and Mapping Technicians,1.78962409321,0.285541038,0.282455489614,0.96
+617,"Model Makers, Wood",0.96,47480,1040,"Model Makers, Wood",1.67270429655,0.212443713,1.0,0.96
+618,"Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders",0.96,28110,30340,"Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders",3.5144076841,0.200251005,0.501977587343,0.96
+619,Locomotive Engineers,0.96,61020,39900,Locomotive Engineers,1.0796460177,0.231874568,0.381704260652,0.96
+620,Gaming Dealers,0.96,21990,94570,Gaming Dealers,4.77080491132,0.359661028,0.161044728772,0.96
+621,"Fabric Menders, Except Garment",0.96,27670,550,"Fabric Menders, Except Garment",3.58619443441,0.236781678,1.0,0.96
+622,"Cooks, Restaurant",0.96,25430,1217370,"Cooks, Restaurant",3.99016909162,0.270724907,0.1,0.96
+623,"Ushers, Lobby Attendants, and Ticket Takers",0.96,21740,117920,"Ushers, Lobby Attendants, and Ticket Takers",4.83716651334,0.298767325,0.129155359566,0.96
+624,Billing and Posting Clerks,0.96,37570,485220,Billing and Posting Clerks,2.37769496939,0.362769499,0.1,0.96
+625,Bridge and Lock Tenders,0.97,46680,3510,Bridge and Lock Tenders,1.71850899743,0.244514546,1.0,0.96
+626,"Woodworking Machine Setters, Operators, and Tenders, Except Sawing",0.97,29850,76130,"Woodworking Machine Setters, Operators, and Tenders, Except Sawing",3.25125628141,0.149199463,0.200052541705,0.96
+627,Team Assemblers,0.97,32550,1112780,Team Assemblers,2.89861751152,0.224616336,0.1,0.96
+628,Shoe Machine Operators and Tenders,0.97,26530,3500,Shoe Machine Operators and Tenders,3.78326422917,0.174515492,1.0,0.96
+629,Electromechanical Equipment Assemblers,0.97,35410,45540,Electromechanical Equipment Assemblers,2.58373340864,0.179142356,0.334431269214,0.96
+630,Farm Labor Contractors,0.97,47290,810,Farm Labor Contractors,1.68344258829,0.324411292,1.0,0.96
+631,Textile Bleaching and Dyeing Machine Operators and Tenders,0.97,28480,10860,Textile Bleaching and Dyeing Machine Operators and Tenders,3.45575842697,0.2111347,1.0,0.96
+632,Dental Laboratory Technicians,0.97,40760,37110,Dental Laboratory Technicians,2.11334641806,0.180691734,0.410401509027,0.96
+633,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders",0.97,36050,29830,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders",2.520110957,0.188493797,0.510559839088,0.96
+634,"Grinding and Polishing Workers, Hand",0.97,30860,26670,"Grinding and Polishing Workers, Hand",3.11211924822,0.199367233,0.571053618298,0.96
+635,"Pesticide Handlers, Sprayers, and Applicators, Vegetation",0.97,35720,25230,"Pesticide Handlers, Sprayers, and Applicators, Vegetation",2.55263157895,0.234229046,0.603646452636,0.96
+636,Log Graders and Scalers,0.97,38150,3020,Log Graders and Scalers,2.32634338139,0.310349371,1.0,0.96
+637,Ophthalmic Laboratory Technicians,0.97,34220,28570,Ophthalmic Laboratory Technicians,2.70835768556,0.241904055,0.533076653833,0.96
+638,Cashiers,0.97,21680,3541010,Cashiers,4.85332103321,0.321704031,0.1,0.96
+639,Motion Picture Projectionists,0.97,24750,5480,Motion Picture Projectionists,4.12727272727,0.217879907,1.0,0.96
+640,Prepress Technicians and Workers,0.97,40640,33340,Prepress Technicians and Workers,2.12253937008,0.277161343,0.456808638272,0.96
+641,Counter and Rental Clerks,0.97,29390,450330,Counter and Rental Clerks,3.31779516842,0.378286746,0.1,0.96
+642,File Clerks,0.97,31260,130950,File Clerks,3.05950095969,0.374345674,0.116303932799,0.96
+643,Real Estate Brokers,0.97,79340,40850,Real Estate Brokers,0.599445424754,0.397393578,0.372827417381,0.96
+644,Telephone Operators,0.97,43030,8860,Telephone Operators,1.94910527539,0.283481544,1.0,0.96
+645,Agricultural and Food Science Technicians,0.97,40470,20420,Agricultural and Food Science Technicians,2.13565604151,0.259550811,0.7458374143,0.96
+646,Payroll and Timekeeping Clerks,0.97,43580,159650,Payroll and Timekeeping Clerks,1.91188618632,0.41781369,0.1,0.96
+647,"Credit Authorizers, Checkers, and Clerks",0.97,39320,37680,"Credit Authorizers, Checkers, and Clerks",2.22736520855,0.451920814,0.404193205945,0.96
+648,"Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop",0.97,21410,404360,"Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop",4.92713685194,0.333887651,0.1,0.96
+649,Models,0.98,36560,4390,Models,2.47100656455,0.162158248,1.0,0.96
+650,"Inspectors, Testers, Sorters, Samplers, and Weighers",0.98,40340,518950,"Inspectors, Testers, Sorters, Samplers, and Weighers",2.14576103123,0.258137105,0.1,0.96
+651,"Bookkeeping, Accounting, and Auditing Clerks",0.98,40220,1566960,"Bookkeeping, Accounting, and Auditing Clerks",2.15514669319,0.403941936,0.1,0.96
+652,Legal Secretaries,0.98,47900,191200,Legal Secretaries,1.64926931106,0.346854268,0.1,0.96
+653,Radio Operators,0.98,46780,870,Radio Operators,1.71269773407,0.294038915,1.0,0.96
+654,Driver/Sales Workers,0.98,28440,426310,Driver/Sales Workers,3.46202531646,0.288938781,0.1,0.96
+655,"Claims Adjusters, Examiners, and Investigators",0.98,64990,274420,"Claims Adjusters, Examiners, and Investigators",0.952608093553,0.483706515,0.1,0.96
+656,Parts Salespersons,0.98,33220,248740,Parts Salespersons,2.81998795906,0.316384877,0.1,0.96
+657,Credit Analysts,0.98,81160,72930,Credit Analysts,0.563578117299,0.474479825,0.208830385301,0.96
+658,"Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic",0.98,41180,17560,"Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic",2.08159300631,0.216032186,0.867312072893,0.96
+659,"Shipping, Receiving, and Traffic Clerks",0.98,33150,676990,"Shipping, Receiving, and Traffic Clerks",2.82805429864,0.307506143,0.1,0.96
+660,Procurement Clerks,0.98,41980,72120,Procurement Clerks,2.0228680324,0.440594195,0.211175818081,0.96
+661,Packaging and Filling Machine Operators and Tenders,0.98,30910,386520,Packaging and Filling Machine Operators and Tenders,3.10546748625,0.220295058,0.1,0.96
+662,Etchers and Engravers,0.98,34390,9520,Etchers and Engravers,2.6900261704,0.212350278,1.0,0.96
+663,Tellers,0.98,28060,496760,Tellers,3.52245188881,0.397262512,0.1,0.96
+664,"Umpires, Referees, and Other Sports Officials",0.98,35540,18660,"Umpires, Referees, and Other Sports Officials",2.57062464828,0.403175006,0.816184351554,0.96
+665,"Insurance Appraisers, Auto Damage",0.98,65930,15130,"Insurance Appraisers, Auto Damage",0.924768694069,0.358316656,1.0,0.96
+666,Loan Officers,0.98,76260,305700,Loan Officers,0.664044059795,0.516046462,0.1,0.96
+667,Order Clerks,0.98,35160,176850,Order Clerks,2.60921501706,0.360841806,0.1,0.96
+668,Brokerage Clerks,0.98,52380,59820,Brokerage Clerks,1.42268041237,0.475275702,0.254597124707,0.96
+669,Insurance Claims and Policy Processing Clerks,0.98,40780,274350,Insurance Claims and Policy Processing Clerks,2.11181951937,0.41570409,0.1,0.96
+670,Timing Device Assemblers and Adjusters,0.98,42470,790,Timing Device Assemblers and Adjusters,1.98799152343,0.167932444,1.0,0.96
+671,Data Entry Keyers,0.99,31640,194810,Data Entry Keyers,3.01074589128,0.411919187,0.1,0.96
+672,Library Technicians,0.99,34780,93410,Library Technicians,2.64864864865,0.348838611,0.163044641901,0.96
+673,New Accounts Clerks,0.99,36480,41630,New Accounts Clerks,2.47861842105,0.427316644,0.365841940908,0.96
+674,Photographic Process Workers and Processing Machine Operators,0.99,31740,26430,Photographic Process Workers and Processing Machine Operators,2.99810964083,0.24440688,0.57623912221,0.96
+675,Tax Preparers,0.99,45340,70030,Tax Preparers,1.79885310984,0.47620302,0.217478223618,0.96
+676,Cargo and Freight Agents,0.99,44250,88920,Cargo and Freight Agents,1.86779661017,0.318352481,0.171277552857,0.96
+677,Watch Repairers,0.99,39720,1620,Watch Repairers,2.19486404834,0.16102443,1.0,0.96
+678,Insurance Underwriters,0.99,75480,91650,Insurance Underwriters,0.681240063593,0.445619287,0.166175668303,0.96
+679,Mathematical Technicians,0.99,58490,510,Mathematical Technicians,1.16960164131,0.156882552,1.0,0.96
+680,"Sewers, Hand",0.99,25630,6540,"Sewers, Hand",3.95122902848,0.270799778,1.0,0.96
+681,Telemarketers,0.99,27170,215290,Telemarketers,3.67059256533,0.214612422,0.1,0.96

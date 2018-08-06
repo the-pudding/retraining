@@ -1,0 +1,69 @@
+job_compared,job_selected,skills,difference,job_compared_name
+3,3,Programming,0,Ambulance_Drivers
+40,32,Computers and Electronics,9,Ambulance_Drivers
+21,19,Engineering and Technology,4,Ambulance_Drivers
+25,25,Systems Analysis,3,Ambulance_Drivers
+16,0,Science,20,Ambulance_Drivers
+22,28,Systems Evaluation,11,Ambulance_Drivers
+10,15,Design,11,Ambulance_Drivers
+19,22,Operations Analysis,10,Ambulance_Drivers
+10,16,Technology Design,14,Ambulance_Drivers
+38,39,Mathematics,10,Ambulance_Drivers
+50,47,Judgment and Decision Making,13,Ambulance_Drivers
+25,25,Mathematics.1,11,Ambulance_Drivers
+47,47,Complex Problem Solving,12,Ambulance_Drivers
+31,28,Management of Personnel Resources,16,Ambulance_Drivers
+44,28,Persuasion,30,Ambulance_Drivers
+63,50,Critical Thinking,28,Ambulance_Drivers
+44,31,Negotiation,29,Ambulance_Drivers
+35,38,Learning Strategies,20,Ambulance_Drivers
+50,38,Instructing,30,Ambulance_Drivers
+72,62,English Language,29,Ambulance_Drivers
+49,38,Telecommunications,31,Ambulance_Drivers
+53,50,Speaking,24,Ambulance_Drivers
+60,47,Active Listening,35,Ambulance_Drivers
+53,44,Active Learning,32,Ambulance_Drivers
+47,44,Writing,27,Ambulance_Drivers
+25,41,Quality Control Analysis,41,Ambulance_Drivers
+53,50,Reading Comprehension,29,Ambulance_Drivers
+47,47,Coordination,27,Ambulance_Drivers
+63,44,Service Orientation,47,Ambulance_Drivers
+53,44,Social Perceptiveness,38,Ambulance_Drivers
+0,16,Installation,46,Ambulance_Drivers
+41,29,Communications and Media,43,Ambulance_Drivers
+50,50,Monitoring,32,Ambulance_Drivers
+10,25,Management of Financial Resources,48,Ambulance_Drivers
+28,25,Management of Material Resources,37,Ambulance_Drivers
+59,39,Administration and Management,55,Ambulance_Drivers
+6,1,Fine Arts,41,Ambulance_Drivers
+35,50,Troubleshooting,52,Ambulance_Drivers
+33,24,Personnel and Human Resources,47,Ambulance_Drivers
+11,5,History and Archeology,45,Ambulance_Drivers
+16,6,Philosophy and Theology,50,Ambulance_Drivers
+16,19,Physics,44,Ambulance_Drivers
+31,7,Therapy and Counseling,66,Ambulance_Drivers
+47,53,Time Management,49,Ambulance_Drivers
+15,11,Sociology and Anthropology,48,Ambulance_Drivers
+17,25,Sales and Marketing,53,Ambulance_Drivers
+22,18,Economics and Accounting,50,Ambulance_Drivers
+28,9,Biology,66,Ambulance_Drivers
+25,31,Equipment Selection,54,Ambulance_Drivers
+35,15,Foreign Language,69,Ambulance_Drivers
+20,22,Production and Processing,52,Ambulance_Drivers
+8,15,Building and Construction,58,Ambulance_Drivers
+52,14,Medicine and Dentistry,90,Ambulance_Drivers
+74,67,Customer and Personal Service,60,Ambulance_Drivers
+13,16,Food Production,57,Ambulance_Drivers
+56,46,Education and Training,65,Ambulance_Drivers
+23,27,Chemistry,60,Ambulance_Drivers
+40,30,Psychology,67,Ambulance_Drivers
+47,32,Clerical,73,Ambulance_Drivers
+57,39,Law and Government,77,Ambulance_Drivers
+44,69,Operation Monitoring,85,Ambulance_Drivers
+35,49,Geography,75,Ambulance_Drivers
+31,47,Equipment Maintenance,78,Ambulance_Drivers
+28,47,Repairing,82,Ambulance_Drivers
+50,72,Operation and Control,86,Ambulance_Drivers
+36,55,Mechanical,84,Ambulance_Drivers
+68,68,Public Safety and Security,66,Ambulance_Drivers
+56,75,Transportation,86,Ambulance_Drivers
