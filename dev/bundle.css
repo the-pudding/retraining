@@ -755,6 +755,10 @@ svg.scatter {
   top: 5px;
 }
 
+.job-selector__container div,.job-selector__container span,.job-selector__container a input,.job-selector__container textarea,.job-selector__container select {
+  font-size: 16px;
+}
+
 .job-selector__dropdown -webkit-backface-visibility hidden option {
   width: 75vw;
 }
@@ -826,10 +830,6 @@ svg.scatter {
   margin: 0 auto;
   position: relative;
   font-size: 14px;
-}
-
-input,textarea,select {
-  font-size: 16px;
 }
 
 @media only screen and (min-width: 40em) {
