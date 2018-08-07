@@ -755,7 +755,7 @@ svg.scatter {
   top: 5px;
 }
 
-.job-selector__container div,.job-selector__container span,.job-selector__container a input,.job-selector__container textarea,.job-selector__container select {
+.job-selector__container div,.job-selector__container span,.job-selector__container a,.job-selector__container input,.job-selector__container textarea,.job-selector__container select {
   font-size: 16px;
 }
 
@@ -813,6 +813,7 @@ svg.scatter {
   margin: 0 auto;
   position: relative;
   padding-bottom: 5vh;
+  padding: 1rem;
 }
 
 .method_copy {
@@ -830,6 +831,7 @@ svg.scatter {
   margin: 0 auto;
   position: relative;
   font-size: 14px;
+  padding: 1rem;
 }
 
 @media only screen and (min-width: 40em) {
@@ -860,6 +862,12 @@ svg.scatter {
   .intro__hed {
     font-size: 64px;
     line-height: 1.2;
+  }
+}
+
+@media (min-width: 700px) {
+  .job-selector__container div,.job-selector__container span,.job-selector__container a,.job-selector__container input,.job-selector__container textarea,.job-selector__container select {
+    font-size: 14px;
   }
 }
 

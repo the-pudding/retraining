@@ -376,14 +376,17 @@ svg.scatter
       font-size 8px
 
 .job-selector__container
-  div, span, a in put, textarea, select
-    font-size 16px
   text-align center
   width: 75%;
   position: fixed;
   left: 50%;
   margin-left: -37.5%;
   top: 5px;
+  div, span, a, input, textarea, select
+    font-size 16px
+  @media (min-width: 700px)
+    div, span, a, input, textarea, select
+      font-size 14px
 
 
 .job-selector__dropdown
@@ -441,6 +444,7 @@ svg.scatter
   margin: 0 auto;
   position relative
   padding-bottom: 5vh
+  padding 1rem
 
 .method_copy
   margin: 0;
@@ -456,3 +460,4 @@ svg.scatter
   margin: 0 auto;
   position relative
   font-size 14px
+  padding 1rem
