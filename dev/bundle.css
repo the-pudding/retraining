@@ -748,10 +748,10 @@ svg.scatter {
 
 .job-selector__container {
   text-align: center;
-  width: 75%;
+  width: 50%;
   position: fixed;
   left: 50%;
-  margin-left: -37.5%;
+  margin-left: -25%;
   top: 5px;
 }
 
@@ -760,7 +760,7 @@ svg.scatter {
 }
 
 .job-selector__dropdown -webkit-backface-visibility hidden option {
-  width: 75vw;
+  width: 50vw;
 }
 
 .section__scene {
@@ -968,7 +968,7 @@ svg.scatter {
   }
 
   .job-selector__dropdown {
-    width: 75%;
+    width: 50%;
   }
 }
 
